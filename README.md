@@ -1,76 +1,71 @@
 # Pfizer Sales, Forecast & Budget Dashboard
 
-Three-page Power BI dashboard that explains **why 2025 sales missed budget and how wrong the demand forecast was**. It is built on a simulated Pfizer dataset (2023–2025, plus the 2026 forecast and budget), starting from a deliberately messy 3.2M-row sales table that was profiled and cleaned in MySQL.
+A 3-page Power BI dashboard that looks at why 2025 sales came in under budget and how far off the demand forecast was. I started from a messy sales export of 3.2 million rows, cleaned it in MySQL, and built the report on top of it.
 
-> **Simulated data.** All transactions, customers and orders are fictional and were generated in Python. Brand-level yearly totals were scaled to Pfizer's publicly reported revenue (FY2024 and FY2025 earnings releases), and real brand names are used. No real company data is included. KPI targets (OTIF 95%, accuracy 75%, bias ±5%) are assumptions.
+**Note:** the data is simulated. I generated it in Python. The yearly total for each brand follows the revenue Pfizer reported publicly for 2024 and 2025, and the brand names are real, but every order, customer and number below that level is made up. The targets (OTIF 95%, forecast accuracy 75%, bias ±5%) are my own assumptions.
 
 ## Pages
 
 ### 1. Executive Summary
 ![Executive Summary](screenshots/executive-summary.png)
-*How did 2025 compare with 2024 and with targets, and why did sales fall?*
-Six KPI cards (Net Sales $57.6bn, Customers, Delivered Units, OTIF 87.4%, Budget Achievement 95.4%, Forecast Accuracy 74.4%) with prior-year and target comparisons. Sales vs budget vs forecast by quarter with dynamic story text, demand change vs 2024, top 5 brands against budget and forecast, a regions table with conditional colours, and three **Key insights** cards whose text changes with the filters.
+
+The main KPIs for 2025 compared with 2024: net sales, customers, delivered units, OTIF, budget achievement and forecast accuracy. It also shows sales against budget and forecast by quarter, the top 5 brands, a table by region, and three insight boxes. The text in those boxes changes with the filters.
 
 ### 2. Customer & Sales
 ![Customer & Sales](screenshots/customer-sales.png)
-*Are we really shrinking, where, and is it units or price?*
-Like-for-like growth (excluding Paxlovid and Comirnaty), markets and brands that fell, top-10 customer share; a therapeutic area × region matrix of where sales dropped; a units vs price vs sales breakdown; the top 10 customers; and the brands that grew and fell most.
+
+This page checks where sales went down. It shows like-for-like growth without the COVID brands (Paxlovid and Comirnaty), a table of therapeutic area by region, whether the drop came from fewer units or lower prices, the top 10 customers, and the brands that grew or fell the most.
 
 ### 3. Forecast & Budget
 ![Forecast & Budget](screenshots/forecast-budget.png)
-*How biased was the forecast, did planners add value, and will 2026 repeat the mistake?*
-Forecast bias, forecast value added (planner vs statistical model), brands below budget and 2026 forecast vs budget. Products over- and under-forecast by month, accuracy by forecast lag (1–12 months), the brands driving the gap, monthly sales vs budget and forecast, a lifecycle-stage bubble chart, and 2025 demand vs the 2026 forecast.
 
-## Key findings (2025 vs 2024, simulated)
+This page is about the forecast: bias, how much the planners improved on the statistical model, which months were over- or under-forecast, how accuracy drops the further ahead you forecast, which brands made the gap, and whether the 2026 forecast makes the same mistake.
 
-- Net sales were **$57.6bn, down 2.0%**, reaching 95.4% of the $60.4bn budget (a $2.8bn gap).
-- **It's a product story, not price or supply.** Paxlovid fell $3.35bn (−59%), while Vyndaqel, Eliquis and Prevnar 20 added $1.67bn. Discounts were flat (10.7% → 10.6%), prices rose about 3% in every region, units fell 6.3%, and the fill rate was 98%.
-- **Like-for-like sales grew 6.6%** once the COVID brands are removed.
-- North America (−4.1%) carries 67% of the budget gap, and 58% of its customers bought less.
-- The forecast was $4.0bn above sales (bias +3.6%). That hides **opposite errors**: the four tender months (Jan, Apr, Jul, Oct) were under-forecast and the other eight were over-forecast.
-- Planners beat the statistical model by **10.2 points** (74.4% vs 64.2%). Accuracy falls from 83% one month ahead to 61% twelve months ahead.
-- Launch brands were forecast 18.3% too high and reached only 83.9% of budget.
-- **2026 repeats the mistake:** tender months were 49% of 2025 demand but only 33% of the 2026 forecast. After applying the 2025 hit rate, the forecast drops from +6.3% above budget to −0.7%.
+## What I found (2025 vs 2024)
 
-## Data preparation (MySQL 8)
+- Net sales were $57.6bn, down 2%, which is 95.4% of the $60.4bn budget.
+- Most of the drop came from Paxlovid, which fell by $3.35bn. Vyndaqel, Eliquis and Prevnar 20 grew by $1.67bn together. Discounts stayed the same, prices went up about 3%, units went down 6.3%, and the fill rate was 98%, so it wasn't a price or supply problem.
+- Without Paxlovid and Comirnaty, sales grew 6.6%.
+- North America was down 4.1% and accounts for 67% of the budget gap.
+- The forecast was $4.0bn higher than actual sales (bias +3.6%). The tender months (Jan, Apr, Jul, Oct) were forecast too low and the other 8 months too high.
+- Planners did better than the statistical model, 74.4% vs 64.2% accuracy. Accuracy was 83% one month ahead and 61% twelve months ahead.
+- New launch brands were forecast 18.3% too high and reached only 83.9% of their budget.
+- The 2026 forecast repeats the problem: tender months were 49% of demand in 2025 but only 33% of the 2026 forecast.
 
-The raw sales export (3,232,764 lines, every column stored as text) was profiled first. All 32 problem types were logged, then fixed on a copy (`sales_clean`), with `sales_raw` kept as a backup. Result: **3,228,213 clean rows**, typed with 0 warnings.
+## Cleaning the data in MySQL
 
-| Step | What was fixed |
-|---|---|
-| 1. Junk rows | 21 empty rows, 30 test rows, 4,500 duplicate order lines (`ROW_NUMBER()` over an indexed key) |
-| 2. Codes | Upper-case customer codes (16,253); product codes trimmed, `SKU-` removed and zero-padded to 8 digits (66,382) |
-| 3. Text | Country names and order status unified; fake empty cancel reasons set to NULL |
-| 4. Fill from masters | Names, types, cities, brands via `UPDATE … JOIN`; 495 missing customer codes taken from the same order; 5 lines set to "Unknown Customer" |
-| 5. Dates | 4 date formats unified (158,793); 180 future years and 180 impossible dates; 6,394 lines delivered before ordered |
-| 6. Numbers | Thousands commas, N/A/negative/×1000 quantities, "%" discounts (32,201), "$" and decimal-comma prices (48,349), 3,214 zero prices filled from a new price-list table |
-| 7. Net sales | Recalculated as delivered × price × (1 − discount) where it was off (9,697 lines) |
-| 8. Types | One `ALTER TABLE` to INT / DATE / DECIMAL |
+The raw table had 3,232,764 rows and every column was stored as text. I listed all the problems first (32 types), then fixed them on a copy and kept the original as a backup. The clean table has 3,228,213 rows.
 
-Power BI reads the clean table from MySQL through a read-only user.
+1. Deleted 21 empty rows, 30 test rows and 4,500 duplicate lines.
+2. Fixed customer codes (upper case) and product codes (removed spaces and "SKU-", added the missing leading zeros).
+3. Made country names and order status consistent, and turned fake values like "N/A" and "-" into real NULLs.
+4. Filled missing names, types, cities and brands from the master tables. Missing customer codes came from other lines of the same order.
+5. Fixed dates: 4 different formats, future years, dates like 30 February, and orders delivered before they were placed.
+6. Fixed numbers: commas in quantities, wrong delivered quantities, discounts written as "15%", prices with "$" or a decimal comma, and zero prices.
+7. Recalculated net sales where it didn't match quantity × price × (1 − discount).
+8. Changed the column types to numbers and dates.
+
+Power BI connects to the clean table in MySQL with a read-only user.
 
 ## Data model
 
-Star schema. **Facts:** Sales (3.2M lines), Forecast (1.37M rows: product × country × target month × lag 1–12), Demand History (96,696), Budget (66,455), Demand Events (124). **Dimensions:** Calendar (2023–2026, marked as date table), Products (133 SKUs), Customers (2,000), Geography (22 countries, 5 regions), Brand (72). All relationships are many-to-one, single direction.
+A star schema. Fact tables: Sales, Forecast, Demand History, Budget and Demand Events. Dimension tables: Calendar, Products, Customers, Geography and Brand.
 
-## Techniques used
+## Tools
 
-- **SQL:** data profiling, `UPDATE … JOIN`, subqueries, window functions, indexes, a helper lookup table, `ALTER TABLE` typing
-- **DAX:** Selected Year pattern for CY vs PY; forecast accuracy as 1 − WMAPE at lag 3; bias; forecast value added; lag analysis; `RANKX` / `TOPN`; like-for-like growth; dynamic text measures; colour measures through conditional formatting
-- **Demand planning:** forecast accuracy, bias, lag analysis, FVA, OTIF, fill rate, budget vs actual vs forecast, lifecycle stages, tender seasonality
-- **Design:** designed page backgrounds, a page navigator, edited interactions, chart titles written as business questions
-- **Python** (pandas, NumPy) to generate the simulated data
+- MySQL 8 for profiling and cleaning (UPDATE with JOIN, window functions, indexes)
+- Power BI: Power Query, data modeling and DAX (year-over-year, forecast accuracy as 1 − WMAPE, bias, forecast value added, RANKX/TOPN, dynamic text and colour measures)
+- Python (pandas, NumPy) to generate the data
 
 ## Files
 
-- `Pfizer.pbix` — the full Power BI file (about 100 MB), attached to the [latest release](../../releases/latest) because it is too large for the repository
-- `sql/01_setup_mysql.sql` — creates the database and loads the raw files
-- `sql/02_sales_cleaning.sql` — the full cleaning script, step by step
-- `data/` — data dictionary and the smaller master tables
-- `screenshots/` — page exports from Power BI Desktop
+- `sql/01_setup_mysql.sql` creates the database and loads the raw files
+- `sql/02_sales_cleaning.sql` is the full cleaning script, step by step
+- `data/` has the data dictionary and the smaller tables
+- `screenshots/` has the three pages
 
-The raw sales files (~250 MB per year) and the forecast table (~80 MB) are too large for GitHub and are not included.
+The raw sales files (about 250 MB a year), the forecast table and the Power BI file are too big for GitHub. I can share them if you ask.
 
-## Author
+## Contact
 
-Mohamed Yasser Kamal — [mohamedyasser6044@gmail.com](mailto:mohamedyasser6044@gmail.com)
+Mohamed Yasser Kamal, [mohamedyasser6044@gmail.com](mailto:mohamedyasser6044@gmail.com)

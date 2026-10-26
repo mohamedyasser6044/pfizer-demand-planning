@@ -1,0 +1,125 @@
+event_id,event_date,event_type,country_code,brand,description,expected_demand_impact,is_simulated
+EV0001,1/1/2023,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0002,1/21/2023,Holiday,CN,All,Chinese New Year holiday (orders pause),Shift,N
+EV0003,2/1/2023,Supply,IN,Eliquis,"Stock-out of ELIQUIS 5 MG 20 TAB (supply shortage, 1-3 months)",Down,Y
+EV0004,2/1/2023,Supply,DE,Solu-Medrol,"Stock-out of SOLU-MEDROL 40 MG 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0005,3/10/2023,Regulatory,US,Zavzpret,FDA approves Zavzpret nasal spray (migraine),Up,N
+EV0006,3/23/2023,Holiday,MA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0007,3/23/2023,Holiday,KW,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0008,3/23/2023,Holiday,AE,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0009,3/23/2023,Holiday,SA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0010,3/23/2023,Holiday,EG,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0011,4/1/2023,Supply,JP,Eliquis,"Stock-out of ELIQUIS 5 MG 56 TAB (supply shortage, 1-3 months)",Down,Y
+EV0012,4/1/2023,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0013,4/21/2023,Holiday,MA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0014,4/21/2023,Holiday,KW,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0015,4/21/2023,Holiday,SA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0016,4/21/2023,Holiday,EG,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0017,4/21/2023,Holiday,AE,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0018,4/27/2023,Regulatory,US,Prevnar 20,FDA approves Prevnar 20 for infants and children,Up,N
+EV0019,5/1/2023,Supply,DE,Unasyn,"Stock-out of UNASYN 3 G 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0020,5/5/2023,Epidemiology,All,All,WHO: COVID-19 no longer a public health emergency of international concern,Down,N
+EV0021,5/11/2023,Market Access,US,All,US COVID-19 Public Health Emergency ends,Down,N
+EV0022,5/31/2023,Regulatory,US,Abrysvo,FDA approves Abrysvo (RSV vaccine) for adults 60+,Up,N
+EV0023,6/21/2023,Market Access,US,Abrysvo,ACIP recommends RSV vaccination for adults 60+ (shared decision),Up,N
+EV0024,6/23/2023,Regulatory,US,Litfulo,FDA approves Litfulo (alopecia areata),Up,N
+EV0025,7/1/2023,Supply,JP,Prevnar 20,"Stock-out of PREVNAR 20 0.5 ML 1 PFS (supply shortage, 1-3 months)",Down,Y
+EV0026,7/1/2023,Supply,JP,Eliquis,"Stock-out of ELIQUIS 5 MG 60 TAB (supply shortage, 1-3 months)",Down,Y
+EV0027,7/1/2023,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0028,8/14/2023,Regulatory,US,Elrexfio,FDA accelerated approval of Elrexfio (multiple myeloma),Up,N
+EV0029,8/21/2023,Regulatory,US,Abrysvo,FDA approves Abrysvo for pregnant individuals (32-36 weeks),Up,N
+EV0030,9/1/2023,Supply,IT,Zithromax,"Stock-out of ZITHROMAX 200 MG/5 ML 15 ML SUSP (supply shortage, 1-3 months)",Down,Y
+EV0031,9/11/2023,Regulatory,US,Comirnaty,FDA approves 2023-2024 COVID vaccine formula; US commercial market starts,Shift,N
+EV0032,10/1/2023,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0033,10/1/2023,Supply,GB,Medrol,"Stock-out of MEDROL 16 MG 30 TAB (supply shortage, 1-3 months)",Down,Y
+EV0034,10/1/2023,Supply,GB,Zithromax,"Stock-out of ZITHROMAX 200 MG/5 ML 15 ML SUSP (supply shortage, 1-3 months)",Down,Y
+EV0035,10/1/2023,Supply,EG,Eliquis,"Stock-out of ELIQUIS 2.5 MG 20 TAB (supply shortage, 1-3 months)",Down,Y
+EV0036,10/1/2023,Supply,CO,Comirnaty,"Stock-out of COMIRNATY 30 MCG 10 PFS (supply shortage, 1-3 months)",Down,Y
+EV0037,10/12/2023,Regulatory,US,Velsipity,FDA approves Velsipity (ulcerative colitis),Up,N
+EV0038,10/13/2023,Market Access,US,Paxlovid,Pfizer amends US government Paxlovid agreement; 2023 guidance cut,Down,N
+EV0039,10/20/2023,Regulatory,US,Penbraya,FDA approves Penbraya (MenABCWY vaccine),Up,N
+EV0040,11/1/2023,Supply,FR,Zithromax,"Stock-out of ZITHROMAX 500 MG 3 TAB (supply shortage, 1-3 months)",Down,Y
+EV0041,11/1/2023,Market Access,US,Paxlovid,Paxlovid moves to the US commercial market,Shift,N
+EV0042,12/1/2023,Supply,FR,Zithromax,"Stock-out of ZITHROMAX 500 MG 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0043,12/14/2023,Corporate,All,All,"Pfizer completes Seagen acquisition (Padcev, Adcetris, Tukysa, Tivdak)",Up,N
+EV0044,12/15/2023,Regulatory,US,Padcev,FDA approves Padcev + Keytruda for first-line advanced bladder cancer,Up,N
+EV0045,1/1/2024,Supply,ES,Paxlovid,"Stock-out of PAXLOVID 150 MG + 100 MG 30 TAB (supply shortage, 1-3 months)",Down,Y
+EV0046,1/1/2024,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0047,1/1/2024,Supply,AE,Zithromax,"Stock-out of ZITHROMAX 250 MG 6 CAP (supply shortage, 1-3 months)",Down,Y
+EV0048,1/1/2024,Pricing,All,All,Annual list price increase (+3%),Neutral,Y
+EV0049,2/10/2024,Holiday,CN,All,Chinese New Year holiday (orders pause),Shift,N
+EV0050,3/1/2024,Supply,US,Dalacin C,"Stock-out of DALACIN C 600 MG/4 ML 1 AMP (supply shortage, 1-3 months)",Down,Y
+EV0051,3/6/2024,Macroeconomic,EG,All,Central Bank of Egypt floats the pound (about 31 -> 49 EGP per USD),Down then Up,N
+EV0052,3/11/2024,Holiday,SA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0053,3/11/2024,Holiday,MA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0054,3/11/2024,Holiday,KW,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0055,3/11/2024,Holiday,AE,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0056,3/11/2024,Holiday,EG,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0057,4/1/2024,Supply,GB,Zithromax,"Stock-out of ZITHROMAX 500 MG 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0058,4/1/2024,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0059,4/1/2024,Supply,CN,Vfend,"Stock-out of VFEND 200 MG 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0060,4/1/2024,Supply,DE,Dalacin C,"Stock-out of DALACIN C 600 MG/4 ML 1 AMP (supply shortage, 1-3 months)",Down,Y
+EV0061,4/1/2024,Regulatory,All,Emblaveo,EU approves Emblaveo (April 2024),Up,N
+EV0062,4/10/2024,Holiday,AE,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0063,4/10/2024,Holiday,EG,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0064,4/10/2024,Holiday,SA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0065,4/10/2024,Holiday,KW,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0066,4/10/2024,Holiday,MA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0067,5/1/2024,Supply,JP,Zithromax,"Stock-out of ZITHROMAX 500 MG 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0068,6/1/2024,Supply,IN,Zithromax,"Stock-out of ZITHROMAX 250 MG 6 CAP (supply shortage, 1-3 months)",Down,Y
+EV0069,6/1/2024,Supply,MX,Depo-Medrol,"Stock-out of DEPO-MEDROL 40 MG/ML 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0070,6/26/2024,Market Access,US,Abrysvo,"ACIP narrows RSV advice: all adults 75+, and 60-74 at increased risk",Down,N
+EV0071,7/1/2024,Supply,AU,Unasyn,"Stock-out of UNASYN 3 G 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0072,7/1/2024,Supply,FR,Paxlovid,"Stock-out of PAXLOVID 150 MG + 100 MG 30 TAB (supply shortage, 1-3 months)",Down,Y
+EV0073,7/1/2024,Supply,ES,Medrol,"Stock-out of MEDROL 16 MG 30 TAB (supply shortage, 1-3 months)",Down,Y
+EV0074,7/1/2024,Epidemiology,US,Paxlovid,Large summer COVID-19 wave in the US (Jul-Aug 2024),Up,N
+EV0075,7/1/2024,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0076,8/22/2024,Regulatory,US,Comirnaty,FDA approves 2024-2025 COVID vaccine formula (KP.2),Up,N
+EV0077,10/1/2024,Supply,GB,Medrol,"Stock-out of MEDROL 4 MG 30 TAB (supply shortage, 1-3 months)",Down,Y
+EV0078,10/1/2024,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0079,10/1/2024,Supply,IT,Dalacin C,"Stock-out of DALACIN C 600 MG/4 ML 1 AMP (supply shortage, 1-3 months)",Down,Y
+EV0080,10/1/2024,Supply,GB,Depo-Medrol,"Stock-out of DEPO-MEDROL 40 MG/ML 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0081,10/11/2024,Regulatory,US,Hympavzi,FDA approves Hympavzi (hemophilia A or B),Up,N
+EV0082,10/22/2024,Regulatory,US,Abrysvo,FDA approves Abrysvo for adults 18-59 at increased risk,Up,N
+EV0083,1/1/2025,Supply,DE,Zyvox,"Stock-out of ZYVOX 600 MG/300 ML 1 BAG (supply shortage, 1-3 months)",Down,Y
+EV0084,1/1/2025,Supply,US,Padcev,"Stock-out of PADCEV 30 MG 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0085,1/1/2025,Pricing,All,All,Annual list price increase (+3%),Neutral,Y
+EV0086,1/1/2025,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0087,1/1/2025,Market Access,US,All,"Medicare Part D redesign: $2,000 yearly out-of-pocket cap",Up,N
+EV0088,1/28/2025,Holiday,CN,All,Chinese New Year holiday (orders pause),Shift,N
+EV0089,3/1/2025,Holiday,SA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0090,3/1/2025,Holiday,KW,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0091,3/1/2025,Holiday,MA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0092,3/1/2025,Holiday,AE,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0093,3/1/2025,Supply,AE,Sulperazon,"Stock-out of SULPERAZON 1 G 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0094,3/1/2025,Holiday,EG,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0095,3/1/2025,Supply,KR,Depo-Medrol,"Stock-out of DEPO-MEDROL 40 MG/ML 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0096,3/30/2025,Holiday,EG,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0097,3/30/2025,Holiday,AE,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0098,3/30/2025,Holiday,SA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0099,3/30/2025,Holiday,MA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0100,3/30/2025,Holiday,KW,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0101,4/1/2025,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0102,5/1/2025,Supply,DE,Eliquis,"Stock-out of ELIQUIS 5 MG 20 TAB (supply shortage, 1-3 months)",Down,Y
+EV0103,6/1/2025,Supply,AU,Unasyn,"Stock-out of UNASYN 1.5 G 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0104,6/1/2025,Supply,US,Eliquis,"Stock-out of ELIQUIS 2.5 MG 60 TAB (supply shortage, 1-3 months)",Down,Y
+EV0105,7/1/2025,Supply,CN,Zithromax,"Stock-out of ZITHROMAX 500 MG 3 TAB (supply shortage, 1-3 months)",Down,Y
+EV0106,7/1/2025,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0107,7/1/2025,Supply,EG,Unasyn,"Stock-out of UNASYN 3 G 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0108,7/1/2025,Supply,CA,Medrol,"Stock-out of MEDROL 4 MG 30 TAB (supply shortage, 1-3 months)",Down,Y
+EV0109,8/27/2025,Regulatory,US,Comirnaty,FDA approves 2025-2026 COVID vaccine formula with narrower eligibility,Down,N
+EV0110,10/1/2025,Tender,All,All,Quarterly government tender deliveries (all countries),Up,Y
+EV0111,10/1/2025,Supply,IT,Unasyn,"Stock-out of UNASYN 1.5 G 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0112,12/1/2025,Supply,CN,Sulperazon,"Stock-out of SULPERAZON 2 G 1 VIAL (supply shortage, 1-3 months)",Down,Y
+EV0113,1/1/2026,Pricing,All,All,Annual list price increase (+3%),Neutral,Y
+EV0114,2/15/2026,Holiday,CN,All,Chinese New Year holiday (orders pause),Shift,N
+EV0115,2/18/2026,Holiday,EG,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0116,2/18/2026,Holiday,AE,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0117,2/18/2026,Holiday,KW,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0118,2/18/2026,Holiday,MA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0119,2/18/2026,Holiday,SA,All,Ramadan starts (pharmacy stock-up before Eid),Shift,N
+EV0120,3/20/2026,Holiday,SA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0121,3/20/2026,Holiday,AE,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0122,3/20/2026,Holiday,KW,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0123,3/20/2026,Holiday,MA,All,Eid al-Fitr holiday (no orders),Shift,N
+EV0124,3/20/2026,Holiday,EG,All,Eid al-Fitr holiday (no orders),Shift,N

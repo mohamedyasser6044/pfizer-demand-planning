@@ -1,0 +1,23 @@
+country_code,country,region,currency,local_per_usd,weekend
+US,United States,North America,USD,1.0,SAT_SUN
+CA,Canada,North America,CAD,1.398,SAT_SUN
+DE,Germany,Europe,EUR,0.886,SAT_SUN
+FR,France,Europe,EUR,0.886,SAT_SUN
+IT,Italy,Europe,EUR,0.886,SAT_SUN
+ES,Spain,Europe,EUR,0.886,SAT_SUN
+GB,United Kingdom,Europe,GBP,0.759,SAT_SUN
+CH,Switzerland,Europe,CHF,0.831,SAT_SUN
+EG,Egypt,Middle East & Africa,EGP,49.233,FRI_SAT
+SA,Saudi Arabia,Middle East & Africa,SAR,3.751,FRI_SAT
+AE,United Arab Emirates,Middle East & Africa,AED,3.673,SAT_SUN
+KW,Kuwait,Middle East & Africa,KWD,0.307,FRI_SAT
+MA,Morocco,Middle East & Africa,MAD,9.344,SAT_SUN
+ZA,South Africa,Middle East & Africa,ZAR,17.884,SAT_SUN
+JP,Japan,Asia Pacific,JPY,149.632,SAT_SUN
+CN,China,Asia Pacific,CNY,7.129,SAT_SUN
+IN,India,Asia Pacific,INR,87.133,SAT_SUN
+AU,Australia,Asia Pacific,AUD,1.551,SAT_SUN
+KR,South Korea,Asia Pacific,KRW,1421.779,SAT_SUN
+BR,Brazil,Latin America,BRL,5.593,SAT_SUN
+MX,Mexico,Latin America,MXN,19.212,SAT_SUN
+CO,Colombia,Latin America,COP,4050.0,SAT_SUN

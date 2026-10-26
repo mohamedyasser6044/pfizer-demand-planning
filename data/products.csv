@@ -1,0 +1,134 @@
+product_code,product_description,brand,therapeutic_area,category,dosage_form,pack_size,first_approval_year,lifecycle_stage
+00910001,ELIQUIS 2.5 MG 20 TAB,Eliquis,Cardiovascular,Primary Care,TAB,20,2012,Growth
+00910002,ELIQUIS 2.5 MG 60 TAB,Eliquis,Cardiovascular,Primary Care,TAB,60,2012,Growth
+00910003,ELIQUIS 5 MG 20 TAB,Eliquis,Cardiovascular,Primary Care,TAB,20,2012,Growth
+00910004,ELIQUIS 5 MG 56 TAB,Eliquis,Cardiovascular,Primary Care,TAB,56,2012,Growth
+00910005,ELIQUIS 5 MG 60 TAB,Eliquis,Cardiovascular,Primary Care,TAB,60,2012,Growth
+00910006,PREVNAR 20 0.5 ML 1 PFS,Prevnar 20,Vaccines,Primary Care,PFS,1,2021,Growth
+00910007,PREVNAR 20 0.5 ML 10 PFS,Prevnar 20,Vaccines,Primary Care,PFS,10,2021,Growth
+00910008,PREVNAR 13 0.5 ML 1 PFS,Prevnar 13,Vaccines,Primary Care,PFS,1,2010,Decline
+00910009,PREVNAR 13 0.5 ML 10 PFS,Prevnar 13,Vaccines,Primary Care,PFS,10,2010,Decline
+00910010,ABRYSVO 0.5 ML 1 KIT,Abrysvo,Vaccines,Primary Care,KIT,1,2023,Launch
+00910011,ABRYSVO 0.5 ML 10 KIT,Abrysvo,Vaccines,Primary Care,KIT,10,2023,Launch
+00910012,COMIRNATY 30 MCG 1 PFS,Comirnaty,Vaccines,Primary Care,PFS,1,2021,Decline
+00910013,COMIRNATY 30 MCG 10 PFS,Comirnaty,Vaccines,Primary Care,PFS,10,2021,Decline
+00910014,COMIRNATY 10 MCG 10 VIAL,Comirnaty,Vaccines,Primary Care,VIAL,10,2021,Decline
+00910015,TRUMENBA 0.5 ML 1 PFS,Trumenba,Vaccines,Primary Care,PFS,1,2014,Mature
+00910016,TRUMENBA 0.5 ML 10 PFS,Trumenba,Vaccines,Primary Care,PFS,10,2014,Mature
+00910017,NIMENRIX 0.5 ML 1 KIT,Nimenrix,Vaccines,Primary Care,KIT,1,2012,Mature
+00910018,NIMENRIX 0.5 ML 10 KIT,Nimenrix,Vaccines,Primary Care,KIT,10,2012,Mature
+00910019,PENBRAYA 0.5 ML 1 KIT,Penbraya,Vaccines,Primary Care,KIT,1,2023,Launch
+00910020,TICOVAC 0.5 ML 1 PFS,TicoVac,Vaccines,Primary Care,PFS,1,1976,Growth
+00910021,TICOVAC JUNIOR 0.25 ML 1 PFS,TicoVac,Vaccines,Primary Care,PFS,1,1976,Growth
+00910022,NURTEC ODT 75 MG 2 TAB,Nurtec ODT,Migraine,Primary Care,TAB,2,2020,Growth
+00910023,NURTEC ODT 75 MG 8 TAB,Nurtec ODT,Migraine,Primary Care,TAB,8,2020,Growth
+00910024,ZAVZPRET 10 MG 6 SPRAY,Zavzpret,Migraine,Primary Care,SPRAY,6,2023,Launch
+00910025,PAXLOVID 150 MG + 100 MG 30 TAB,Paxlovid,Anti-infectives,Primary Care,TAB,30,2021,Decline
+00910026,PREMARIN 0.625 MG 28 TAB,Premarin,Women's Health,Primary Care,TAB,28,1942,Decline
+00910027,PREMARIN 1.25 MG 28 TAB,Premarin,Women's Health,Primary Care,TAB,28,1942,Decline
+00910028,DEPO-PROVERA 150 MG/ML 1 PFS,Depo-Provera,Women's Health,Primary Care,PFS,1,1992,Mature
+00910029,IBRANCE 75 MG 21 TAB,Ibrance,Oncology,Oncology,TAB,21,2015,Mature
+00910030,IBRANCE 100 MG 21 TAB,Ibrance,Oncology,Oncology,TAB,21,2015,Mature
+00910031,IBRANCE 125 MG 21 TAB,Ibrance,Oncology,Oncology,TAB,21,2015,Mature
+00910032,IBRANCE 125 MG 21 CAP,Ibrance,Oncology,Oncology,CAP,21,2015,Mature
+00910033,XTANDI 40 MG 112 CAP,Xtandi,Oncology,Oncology,CAP,112,2012,Mature
+00910034,XTANDI 40 MG 112 TAB,Xtandi,Oncology,Oncology,TAB,112,2012,Mature
+00910035,XTANDI 80 MG 56 TAB,Xtandi,Oncology,Oncology,TAB,56,2012,Mature
+00910036,PADCEV 20 MG 1 VIAL,Padcev,Oncology,Oncology,VIAL,1,2019,Growth
+00910037,PADCEV 30 MG 1 VIAL,Padcev,Oncology,Oncology,VIAL,1,2019,Growth
+00910038,LORBRENA 25 MG 90 TAB,Lorbrena,Oncology,Oncology,TAB,90,2018,Growth
+00910039,LORBRENA 100 MG 30 TAB,Lorbrena,Oncology,Oncology,TAB,30,2018,Growth
+00910040,INLYTA 1 MG 56 TAB,Inlyta,Oncology,Oncology,TAB,56,2012,Mature
+00910041,INLYTA 5 MG 56 TAB,Inlyta,Oncology,Oncology,TAB,56,2012,Mature
+00910042,BRAFTOVI 50 MG 28 CAP,Braftovi,Oncology,Oncology,CAP,28,2018,Growth
+00910043,BRAFTOVI 75 MG 42 CAP,Braftovi,Oncology,Oncology,CAP,42,2018,Growth
+00910044,MEKTOVI 15 MG 84 TAB,Mektovi,Oncology,Oncology,TAB,84,2018,Growth
+00910045,ADCETRIS 50 MG 1 VIAL,Adcetris,Oncology,Oncology,VIAL,1,2011,Decline
+00910046,TUKYSA 50 MG 88 TAB,Tukysa,Oncology,Oncology,TAB,88,2020,Mature
+00910047,TUKYSA 150 MG 84 TAB,Tukysa,Oncology,Oncology,TAB,84,2020,Mature
+00910048,BOSULIF 100 MG 28 TAB,Bosulif,Oncology,Oncology,TAB,28,2012,Mature
+00910049,BOSULIF 400 MG 28 TAB,Bosulif,Oncology,Oncology,TAB,28,2012,Mature
+00910050,BOSULIF 500 MG 28 TAB,Bosulif,Oncology,Oncology,TAB,28,2012,Mature
+00910051,ELREXFIO 44 MG 1 VIAL,Elrexfio,Oncology,Oncology,VIAL,1,2023,Launch
+00910052,ELREXFIO 76 MG 1 VIAL,Elrexfio,Oncology,Oncology,VIAL,1,2023,Launch
+00910053,TALZENNA 0.25 MG 30 CAP,Talzenna,Oncology,Oncology,CAP,30,2018,Growth
+00910054,TALZENNA 1 MG 30 CAP,Talzenna,Oncology,Oncology,CAP,30,2018,Growth
+00910055,TIVDAK 40 MG 1 VIAL,Tivdak,Oncology,Oncology,VIAL,1,2021,Growth
+00910056,XALKORI 200 MG 60 CAP,Xalkori,Oncology,Oncology,CAP,60,2011,Decline
+00910057,XALKORI 250 MG 60 CAP,Xalkori,Oncology,Oncology,CAP,60,2011,Decline
+00910058,SUTENT 12.5 MG 28 CAP,Sutent,Oncology,Oncology,CAP,28,2006,Decline
+00910059,SUTENT 25 MG 28 CAP,Sutent,Oncology,Oncology,CAP,28,2006,Decline
+00910060,SUTENT 50 MG 28 CAP,Sutent,Oncology,Oncology,CAP,28,2006,Decline
+00910061,VIZIMPRO 45 MG 30 TAB,Vizimpro,Oncology,Oncology,TAB,30,2018,Decline
+00910062,BESPONSA 1 MG 1 VIAL,Besponsa,Oncology,Oncology,VIAL,1,2017,Mature
+00910063,MYLOTARG 5 MG 1 VIAL,Mylotarg,Oncology,Oncology,VIAL,1,2017,Mature
+00910064,AROMASIN 25 MG 30 TAB,Aromasin,Oncology,Oncology,TAB,30,1999,Growth
+00910065,VYNDAQEL 20 MG 30 CAP,Vyndaqel,Cardiovascular,Specialty Care,CAP,30,2011,Growth
+00910066,VYNDAQEL 61 MG 30 CAP,Vyndaqel,Cardiovascular,Specialty Care,CAP,30,2011,Growth
+00910067,VYNDAMAX 61 MG 30 CAP,Vyndamax,Cardiovascular,Specialty Care,CAP,30,2019,Growth
+00910068,XELJANZ 5 MG 56 TAB,Xeljanz,Inflammation & Immunology,Specialty Care,TAB,56,2012,Mature
+00910069,XELJANZ 10 MG 56 TAB,Xeljanz,Inflammation & Immunology,Specialty Care,TAB,56,2012,Mature
+00910070,XELJANZ XR 11 MG 28 TAB,Xeljanz,Inflammation & Immunology,Specialty Care,TAB,28,2012,Mature
+00910071,ENBREL 25 MG 4 PFS,Enbrel,Inflammation & Immunology,Specialty Care,PFS,4,1998,Decline
+00910072,ENBREL 50 MG 4 PFS,Enbrel,Inflammation & Immunology,Specialty Care,PFS,4,1998,Decline
+00910073,ENBREL MYCLIC 50 MG 4 PEN,Enbrel,Inflammation & Immunology,Specialty Care,PEN,4,1998,Decline
+00910074,CIBINQO 50 MG 28 TAB,Cibinqo,Inflammation & Immunology,Specialty Care,TAB,28,2021,Growth
+00910075,CIBINQO 100 MG 28 TAB,Cibinqo,Inflammation & Immunology,Specialty Care,TAB,28,2021,Growth
+00910076,CIBINQO 200 MG 28 TAB,Cibinqo,Inflammation & Immunology,Specialty Care,TAB,28,2021,Growth
+00910077,LITFULO 50 MG 28 CAP,Litfulo,Inflammation & Immunology,Specialty Care,CAP,28,2023,Launch
+00910078,VELSIPITY 2 MG 28 TAB,Velsipity,Inflammation & Immunology,Specialty Care,TAB,28,2023,Launch
+00910079,ZAVICEFTA 2 G/0.5 G 10 VIAL,Zavicefta,Anti-infectives,Specialty Care,VIAL,10,2016,Growth
+00910080,EMBLAVEO 1.5 G/0.5 G 10 VIAL,Emblaveo,Anti-infectives,Specialty Care,VIAL,10,2024,Launch
+00910081,ZINFORO 600 MG 10 VIAL,Zinforo,Anti-infectives,Specialty Care,VIAL,10,2012,Mature
+00910082,CRESEMBA 100 MG 14 CAP,Cresemba,Anti-infectives,Specialty Care,CAP,14,2015,Growth
+00910083,CRESEMBA 200 MG 1 VIAL,Cresemba,Anti-infectives,Specialty Care,VIAL,1,2015,Growth
+00910084,GENOTROPIN 5.3 MG 1 CART,Genotropin,Rare Disease,Specialty Care,CART,1,1987,Mature
+00910085,GENOTROPIN 12 MG 1 CART,Genotropin,Rare Disease,Specialty Care,CART,1,1987,Mature
+00910086,NGENLA 24 MG 1 PEN,Ngenla,Rare Disease,Specialty Care,PEN,1,2022,Growth
+00910087,NGENLA 60 MG 1 PEN,Ngenla,Rare Disease,Specialty Care,PEN,1,2022,Growth
+00910088,SOMAVERT 10 MG 30 VIAL,Somavert,Rare Disease,Specialty Care,VIAL,30,2003,Mature
+00910089,SOMAVERT 15 MG 30 VIAL,Somavert,Rare Disease,Specialty Care,VIAL,30,2003,Mature
+00910090,BENEFIX 500 IU 1 VIAL,BeneFIX,Rare Disease,Specialty Care,VIAL,1,1997,Mature
+00910091,BENEFIX 1000 IU 1 VIAL,BeneFIX,Rare Disease,Specialty Care,VIAL,1,1997,Mature
+00910092,BENEFIX 2000 IU 1 VIAL,BeneFIX,Rare Disease,Specialty Care,VIAL,1,1997,Mature
+00910093,REFACTO AF 1000 IU 1 KIT,ReFacto AF,Rare Disease,Specialty Care,KIT,1,2008,Decline
+00910094,REFACTO AF 2000 IU 1 KIT,ReFacto AF,Rare Disease,Specialty Care,KIT,1,2008,Decline
+00910095,HYMPAVZI 150 MG 1 PEN,Hympavzi,Rare Disease,Specialty Care,PEN,1,2024,Launch
+00910096,SULPERAZON 1 G 1 VIAL,Sulperazon,Anti-infectives,Hospital & Biosimilars,VIAL,1,1986,Mature
+00910097,SULPERAZON 2 G 1 VIAL,Sulperazon,Anti-infectives,Hospital & Biosimilars,VIAL,1,1986,Mature
+00910098,ZITHROMAX 250 MG 6 CAP,Zithromax,Anti-infectives,Hospital & Biosimilars,CAP,6,1991,Decline
+00910099,ZITHROMAX 500 MG 3 TAB,Zithromax,Anti-infectives,Hospital & Biosimilars,TAB,3,1991,Decline
+00910100,ZITHROMAX 200 MG/5 ML 15 ML SUSP,Zithromax,Anti-infectives,Hospital & Biosimilars,SUSP,1,1991,Decline
+00910101,ZITHROMAX 500 MG 1 VIAL,Zithromax,Anti-infectives,Hospital & Biosimilars,VIAL,1,1991,Decline
+00910102,MERONEM 500 MG 10 VIAL,Meronem,Anti-infectives,Hospital & Biosimilars,VIAL,10,1995,Mature
+00910103,MERONEM 1 G 10 VIAL,Meronem,Anti-infectives,Hospital & Biosimilars,VIAL,10,1995,Mature
+00910104,VFEND 200 MG 14 TAB,Vfend,Anti-infectives,Hospital & Biosimilars,TAB,14,2002,Mature
+00910105,VFEND 200 MG 1 VIAL,Vfend,Anti-infectives,Hospital & Biosimilars,VIAL,1,2002,Mature
+00910106,ZYVOX 600 MG 10 TAB,Zyvox,Anti-infectives,Hospital & Biosimilars,TAB,10,2000,Decline
+00910107,ZYVOX 600 MG/300 ML 1 BAG,Zyvox,Anti-infectives,Hospital & Biosimilars,BAG,1,2000,Decline
+00910108,ECALTA 100 MG 1 VIAL,Ecalta,Anti-infectives,Hospital & Biosimilars,VIAL,1,2007,Mature
+00910109,TYGACIL 50 MG 10 VIAL,Tygacil,Anti-infectives,Hospital & Biosimilars,VIAL,10,2005,Decline
+00910110,UNASYN 1.5 G 1 VIAL,Unasyn,Anti-infectives,Hospital & Biosimilars,VIAL,1,1987,Mature
+00910111,UNASYN 3 G 1 VIAL,Unasyn,Anti-infectives,Hospital & Biosimilars,VIAL,1,1987,Mature
+00910112,DALACIN C 300 MG 16 CAP,Dalacin C,Anti-infectives,Hospital & Biosimilars,CAP,16,1970,Mature
+00910113,DALACIN C 600 MG/4 ML 1 AMP,Dalacin C,Anti-infectives,Hospital & Biosimilars,AMP,1,1970,Mature
+00910114,MEDROL 4 MG 30 TAB,Medrol,Hospital Care,Hospital & Biosimilars,TAB,30,1957,Mature
+00910115,MEDROL 16 MG 30 TAB,Medrol,Hospital Care,Hospital & Biosimilars,TAB,30,1957,Mature
+00910116,SOLU-MEDROL 40 MG 1 VIAL,Solu-Medrol,Hospital Care,Hospital & Biosimilars,VIAL,1,1959,Mature
+00910117,SOLU-MEDROL 500 MG 1 VIAL,Solu-Medrol,Hospital Care,Hospital & Biosimilars,VIAL,1,1959,Mature
+00910118,SOLU-MEDROL 1 G 1 VIAL,Solu-Medrol,Hospital Care,Hospital & Biosimilars,VIAL,1,1959,Mature
+00910119,SOLU-CORTEF 100 MG 1 VIAL,Solu-Cortef,Hospital Care,Hospital & Biosimilars,VIAL,1,1955,Mature
+00910120,DEPO-MEDROL 40 MG/ML 1 VIAL,Depo-Medrol,Hospital Care,Hospital & Biosimilars,VIAL,1,1959,Mature
+00910121,FRAGMIN 2500 IU 10 PFS,Fragmin,Hospital Care,Hospital & Biosimilars,PFS,10,1994,Mature
+00910122,FRAGMIN 5000 IU 10 PFS,Fragmin,Hospital Care,Hospital & Biosimilars,PFS,10,1994,Mature
+00910123,PRECEDEX 200 MCG/2 ML 25 VIAL,Precedex,Hospital Care,Hospital & Biosimilars,VIAL,25,1999,Mature
+00910124,INFLECTRA 100 MG 1 VIAL,Inflectra,Biosimilars,Hospital & Biosimilars,VIAL,1,2016,Growth
+00910125,RUXIENCE 100 MG/10 ML 1 VIAL,Ruxience,Biosimilars,Hospital & Biosimilars,VIAL,1,2019,Growth
+00910126,RUXIENCE 500 MG/50 ML 1 VIAL,Ruxience,Biosimilars,Hospital & Biosimilars,VIAL,1,2019,Growth
+00910127,ZIRABEV 100 MG/4 ML 1 VIAL,Zirabev,Biosimilars,Hospital & Biosimilars,VIAL,1,2019,Growth
+00910128,ZIRABEV 400 MG/16 ML 1 VIAL,Zirabev,Biosimilars,Hospital & Biosimilars,VIAL,1,2019,Growth
+00910129,TRAZIMERA 150 MG 1 VIAL,Trazimera,Biosimilars,Hospital & Biosimilars,VIAL,1,2019,Growth
+00910130,TRAZIMERA 420 MG 1 VIAL,Trazimera,Biosimilars,Hospital & Biosimilars,VIAL,1,2019,Growth
+00910131,RETACRIT 4000 IU 6 PFS,Retacrit,Biosimilars,Hospital & Biosimilars,PFS,6,2018,Growth
+00910132,NIVESTYM 300 MCG 10 PFS,Nivestym,Biosimilars,Hospital & Biosimilars,PFS,10,2018,Growth
+00910133,ABRILADA 40 MG 2 PEN,Abrilada,Biosimilars,Hospital & Biosimilars,PEN,2,2019,Growth

@@ -1,0 +1,2001 @@
+customer_code,customer_name,customer_type,country_code,city,customer_tier,payment_terms_days
+C0001,Ministry of Health Tender (US),Government Tender,US,Washington,A,120
+C0002,Golden Pharmacy Dallas,Retail Pharmacy,US,Dallas,C,30
+C0003,Sunshine Hospital Seattle,Hospital,US,Seattle,C,30
+C0004,Metro Pharmacy Houston,Retail Pharmacy,US,Houston,C,90
+C0005,Northern Pharmacy Houston,Retail Pharmacy,US,Houston,C,30
+C0006,Royal Hospital Atlanta,Hospital,US,Atlanta,B,90
+C0007,MediCare Hospital Boston,Hospital,US,Boston,A,60
+C0008,CarePlus Pharmacy Washington,Retail Pharmacy,US,Washington,C,90
+C0009,Zenith Pharmacy New York,Retail Pharmacy,US,New York,B,30
+C0010,Atlas Pharmacy Washington,Retail Pharmacy,US,Washington,C,60
+C0011,Summit Hospital Atlanta,Hospital,US,Atlanta,B,90
+C0012,Riverside Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,30
+C0013,Star Pharmacy Washington,Retail Pharmacy,US,Washington,C,60
+C0014,Phoenix Hospital Phoenix,Hospital,US,Phoenix,C,30
+C0015,Blue Sky Hospital Washington,Hospital,US,Washington,B,60
+C0016,Phoenix Hospital Dallas,Hospital,US,Dallas,C,30
+C0017,Phoenix Pharmacy Washington,Retail Pharmacy,US,Washington,B,60
+C0018,HealthFirst Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,B,30
+C0019,Green Cross Hospital Philadelphia,Hospital,US,Philadelphia,C,60
+C0020,Lotus Medical Distribution Chicago,Distributor,US,Chicago,A,30
+C0021,Royal Pharmacy Phoenix,Retail Pharmacy,US,Phoenix,A,60
+C0022,Evergreen Hospital Washington,Hospital,US,Washington,B,30
+C0023,Golden Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,A,30
+C0024,Evergreen Medical Distribution Seattle,Distributor,US,Seattle,B,90
+C0025,Zenith Hospital Dallas,Hospital,US,Dallas,B,30
+C0026,Prime Medical Distribution Washington,Distributor,US,Washington,B,30
+C0027,Blue Sky Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,C,60
+C0028,Lotus Pharmacy Phoenix,Retail Pharmacy,US,Phoenix,C,60
+C0029,Silver Pharmacy Washington,Retail Pharmacy,US,Washington,A,60
+C0030,Zenith Pharmacy New York Branch 2,Retail Pharmacy,US,New York,C,30
+C0031,Horizon Hospital Miami,Hospital,US,Miami,B,60
+C0032,Pioneer Medical Distribution Washington,Distributor,US,Washington,C,30
+C0033,Evergreen Pharmacy Houston,Retail Pharmacy,US,Houston,C,60
+C0034,Eastern Pharmacy Houston,Retail Pharmacy,US,Houston,C,60
+C0035,Atlas Medical Distribution Washington,Distributor,US,Washington,C,30
+C0036,Orchid Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,60
+C0037,Orchid Hospital Phoenix,Hospital,US,Phoenix,A,90
+C0038,Prime Pharmacy New York,Retail Pharmacy,US,New York,B,90
+C0039,Phoenix Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,30
+C0040,Crystal Pharmacy Houston,Retail Pharmacy,US,Houston,A,30
+C0041,Northern Medical Distribution Chicago,Distributor,US,Chicago,C,60
+C0042,Horizon Medical Distribution Boston,Distributor,US,Boston,B,60
+C0043,Delta Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,A,60
+C0044,Northern Medical Distribution New York,Distributor,US,New York,A,90
+C0045,Summit Pharmacy Washington,Retail Pharmacy,US,Washington,C,90
+C0046,Crystal Pharmacy Washington,Retail Pharmacy,US,Washington,C,60
+C0047,LifeLine Pharmacy Washington,Retail Pharmacy,US,Washington,B,30
+C0048,Star Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,C,60
+C0049,Delta Medical Distribution Washington,Distributor,US,Washington,C,60
+C0050,Phoenix Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,B,30
+C0051,Northern Hospital Houston,Hospital,US,Houston,C,30
+C0052,Sapphire Pharmacy Miami,Retail Pharmacy,US,Miami,C,30
+C0053,Phoenix Pharmacy Washington Branch 3,Retail Pharmacy,US,Washington,C,60
+C0054,Golden Medical Distribution Miami,Distributor,US,Miami,C,30
+C0055,Blue Sky Medical Distribution Washington,Distributor,US,Washington,C,30
+C0056,Northern Hospital Houston Branch 2,Hospital,US,Houston,C,60
+C0057,Sunshine Pharmacy Chicago,Retail Pharmacy,US,Chicago,C,90
+C0058,Harmony Pharmacy Houston,Retail Pharmacy,US,Houston,C,90
+C0059,Summit Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,C,30
+C0060,Central Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,30
+C0061,Prime Pharmacy New York Branch 2,Retail Pharmacy,US,New York,A,30
+C0062,Wellness Pharmacy Washington,Retail Pharmacy,US,Washington,C,60
+C0063,Green Cross Pharmacy Chicago,Retail Pharmacy,US,Chicago,C,90
+C0064,Evergreen Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,B,30
+C0065,Metro Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,A,30
+C0066,Unity Pharmacy Houston,Retail Pharmacy,US,Houston,A,90
+C0067,Wellness Medical Distribution Washington,Distributor,US,Washington,C,90
+C0068,Silver Hospital Atlanta,Hospital,US,Atlanta,C,30
+C0069,Silver Hospital Los Angeles,Hospital,US,Los Angeles,C,60
+C0070,Summit Hospital Chicago,Hospital,US,Chicago,A,60
+C0071,Harmony Pharmacy Chicago,Retail Pharmacy,US,Chicago,B,30
+C0072,Metro Pharmacy New York,Retail Pharmacy,US,New York,B,90
+C0073,Zenith Pharmacy Miami,Retail Pharmacy,US,Miami,B,60
+C0074,Crescent Hospital Atlanta,Hospital,US,Atlanta,C,60
+C0075,HealthFirst Hospital New York,Hospital,US,New York,B,60
+C0076,Eastern Pharmacy Boston,Retail Pharmacy,US,Boston,A,60
+C0077,Emerald Medical Distribution Washington,Distributor,US,Washington,A,90
+C0078,Golden Hospital Atlanta,Hospital,US,Atlanta,C,90
+C0079,LifeLine Hospital New York,Hospital,US,New York,A,60
+C0080,Al Noor Hospital Washington,Hospital,US,Washington,B,60
+C0081,Phoenix Hospital Dallas Branch 2,Hospital,US,Dallas,B,60
+C0082,LifeLine Pharmacy Miami,Retail Pharmacy,US,Miami,A,60
+C0083,Horizon Hospital Chicago,Hospital,US,Chicago,C,30
+C0084,Silver Hospital Boston,Hospital,US,Boston,B,30
+C0085,Harmony Pharmacy Washington,Retail Pharmacy,US,Washington,C,60
+C0086,Metro Hospital Chicago,Hospital,US,Chicago,C,60
+C0087,Phoenix Pharmacy Houston,Retail Pharmacy,US,Houston,C,60
+C0088,Harmony Pharmacy Miami,Retail Pharmacy,US,Miami,C,30
+C0089,Sunshine Hospital Los Angeles,Hospital,US,Los Angeles,A,60
+C0090,Eastern Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,B,30
+C0091,Blue Sky Hospital Miami,Hospital,US,Miami,A,90
+C0092,LifeLine Pharmacy Boston,Retail Pharmacy,US,Boston,A,90
+C0093,Wellness Hospital Philadelphia,Hospital,US,Philadelphia,A,90
+C0094,Blue Sky Pharmacy Washington,Retail Pharmacy,US,Washington,C,30
+C0095,Prime Hospital Miami,Hospital,US,Miami,A,30
+C0096,Crystal Hospital Washington,Hospital,US,Washington,B,90
+C0097,HealthFirst Medical Distribution Washington,Distributor,US,Washington,C,60
+C0098,Golden Medical Distribution Phoenix,Distributor,US,Phoenix,B,30
+C0099,Sunrise Hospital Houston,Hospital,US,Houston,C,90
+C0100,Green Cross Hospital Washington,Hospital,US,Washington,B,60
+C0101,Metro Hospital Seattle,Hospital,US,Seattle,A,60
+C0102,Blue Sky Medical Distribution Washington Branch 2,Distributor,US,Washington,A,30
+C0103,Vital Medical Distribution Washington,Distributor,US,Washington,B,60
+C0104,Golden Hospital Philadelphia,Hospital,US,Philadelphia,C,30
+C0105,Prime Hospital Los Angeles,Hospital,US,Los Angeles,C,90
+C0106,Zenith Hospital Washington,Hospital,US,Washington,B,30
+C0107,Pioneer Pharmacy Washington,Retail Pharmacy,US,Washington,B,60
+C0108,Eastern Hospital Philadelphia,Hospital,US,Philadelphia,B,30
+C0109,Pioneer Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,A,60
+C0110,Unity Pharmacy Houston Branch 2,Retail Pharmacy,US,Houston,C,60
+C0111,Phoenix Hospital Philadelphia,Hospital,US,Philadelphia,B,60
+C0112,Oasis Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,60
+C0113,Silver Medical Distribution Phoenix,Distributor,US,Phoenix,C,60
+C0114,Summit Hospital Houston,Hospital,US,Houston,C,60
+C0115,Lotus Pharmacy Washington,Retail Pharmacy,US,Washington,C,30
+C0116,Evergreen Pharmacy New York,Retail Pharmacy,US,New York,B,60
+C0117,Royal Medical Distribution Washington,Distributor,US,Washington,C,30
+C0118,Orchid Hospital Washington,Hospital,US,Washington,B,90
+C0119,Horizon Hospital Seattle,Hospital,US,Seattle,B,60
+C0120,Northern Pharmacy Phoenix,Retail Pharmacy,US,Phoenix,A,30
+C0121,Silver Pharmacy Houston,Retail Pharmacy,US,Houston,A,90
+C0122,Crescent Hospital Seattle,Hospital,US,Seattle,C,30
+C0123,Wellness Pharmacy Houston,Retail Pharmacy,US,Houston,A,60
+C0124,Central Pharmacy Chicago,Retail Pharmacy,US,Chicago,A,90
+C0125,Royal Pharmacy Washington,Retail Pharmacy,US,Washington,B,60
+C0126,Al Noor Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,90
+C0127,Unity Hospital Philadelphia,Hospital,US,Philadelphia,C,60
+C0128,CarePlus Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,B,90
+C0129,Oasis Hospital Houston,Hospital,US,Houston,C,60
+C0130,Horizon Hospital Miami Branch 2,Hospital,US,Miami,B,60
+C0131,Sunshine Pharmacy Houston,Retail Pharmacy,US,Houston,B,90
+C0132,Al Noor Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,A,30
+C0133,Atlas Pharmacy Miami,Retail Pharmacy,US,Miami,B,60
+C0134,Royal Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,C,90
+C0135,Vital Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,C,90
+C0136,Emerald Medical Distribution Phoenix,Distributor,US,Phoenix,C,30
+C0137,LifeLine Pharmacy Phoenix,Retail Pharmacy,US,Phoenix,C,60
+C0138,Royal Medical Distribution Seattle,Distributor,US,Seattle,C,60
+C0139,Star Pharmacy Chicago,Retail Pharmacy,US,Chicago,A,60
+C0140,Sunshine Medical Distribution Houston,Distributor,US,Houston,C,60
+C0141,Blue Sky Pharmacy Dallas,Retail Pharmacy,US,Dallas,C,90
+C0142,Summit Medical Distribution Miami,Distributor,US,Miami,B,30
+C0143,Sunrise Hospital Washington,Hospital,US,Washington,C,60
+C0144,Nova Hospital Boston,Hospital,US,Boston,A,30
+C0145,HealthFirst Medical Distribution Philadelphia,Distributor,US,Philadelphia,A,60
+C0146,MediCare Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,C,60
+C0147,Pioneer Medical Distribution New York,Distributor,US,New York,B,90
+C0148,Golden Hospital New York,Hospital,US,New York,B,90
+C0149,Nova Pharmacy Washington,Retail Pharmacy,US,Washington,B,60
+C0150,Silver Medical Distribution Atlanta,Distributor,US,Atlanta,B,30
+C0151,Star Medical Distribution Los Angeles,Distributor,US,Los Angeles,C,60
+C0152,Crescent Medical Distribution Chicago,Distributor,US,Chicago,A,30
+C0153,Evergreen Pharmacy Washington,Retail Pharmacy,US,Washington,A,60
+C0154,Golden Pharmacy Philadelphia Branch 2,Retail Pharmacy,US,Philadelphia,C,60
+C0155,Pioneer Pharmacy Los Angeles Branch 2,Retail Pharmacy,US,Los Angeles,C,30
+C0156,Lotus Medical Distribution New York,Distributor,US,New York,C,60
+C0157,Oasis Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,B,30
+C0158,Al Noor Medical Distribution Washington,Distributor,US,Washington,C,60
+C0159,Star Pharmacy Dallas,Retail Pharmacy,US,Dallas,B,90
+C0160,Orchid Medical Distribution Philadelphia,Distributor,US,Philadelphia,C,30
+C0161,Central Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,C,90
+C0162,Prime Pharmacy Houston,Retail Pharmacy,US,Houston,C,30
+C0163,Sunrise Pharmacy Washington,Retail Pharmacy,US,Washington,A,60
+C0164,Sunrise Pharmacy Houston,Retail Pharmacy,US,Houston,A,30
+C0165,Green Cross Hospital Washington Branch 2,Hospital,US,Washington,B,30
+C0166,Royal Pharmacy Chicago,Retail Pharmacy,US,Chicago,A,90
+C0167,Al Noor Hospital Washington Branch 2,Hospital,US,Washington,B,30
+C0168,Blue Sky Hospital Chicago,Hospital,US,Chicago,B,30
+C0169,Wellness Pharmacy New York,Retail Pharmacy,US,New York,C,30
+C0170,Evergreen Medical Distribution New York,Distributor,US,New York,B,60
+C0171,Sunrise Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,A,90
+C0172,HealthFirst Pharmacy Washington,Retail Pharmacy,US,Washington,A,60
+C0173,Sunrise Hospital New York,Hospital,US,New York,C,90
+C0174,Oasis Medical Distribution Washington,Distributor,US,Washington,A,60
+C0175,Emerald Pharmacy Boston,Retail Pharmacy,US,Boston,C,60
+C0176,Unity Medical Distribution Los Angeles,Distributor,US,Los Angeles,C,30
+C0177,Cedar Hospital Dallas,Hospital,US,Dallas,B,60
+C0178,Sunshine Pharmacy New York,Retail Pharmacy,US,New York,B,30
+C0179,Sunrise Hospital Washington Branch 2,Hospital,US,Washington,C,60
+C0180,Prime Medical Distribution New York,Distributor,US,New York,A,30
+C0181,Sapphire Pharmacy Phoenix,Retail Pharmacy,US,Phoenix,C,90
+C0182,Phoenix Pharmacy Washington Branch 4,Retail Pharmacy,US,Washington,C,30
+C0183,Crystal Medical Distribution Boston,Distributor,US,Boston,C,60
+C0184,Golden Pharmacy New York,Retail Pharmacy,US,New York,B,60
+C0185,Sapphire Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,30
+C0186,Emerald Pharmacy Boston Branch 2,Retail Pharmacy,US,Boston,C,30
+C0187,Emerald Hospital Philadelphia,Hospital,US,Philadelphia,C,60
+C0188,Central Pharmacy Seattle,Retail Pharmacy,US,Seattle,A,60
+C0189,Delta Pharmacy Houston,Retail Pharmacy,US,Houston,A,90
+C0190,Blue Sky Hospital Chicago Branch 2,Hospital,US,Chicago,C,30
+C0191,Prime Medical Distribution Washington Branch 2,Distributor,US,Washington,C,30
+C0192,Silver Hospital Houston,Hospital,US,Houston,B,60
+C0193,Riverside Hospital Phoenix,Hospital,US,Phoenix,C,60
+C0194,Zenith Medical Distribution Washington,Distributor,US,Washington,C,30
+C0195,Sunshine Hospital New York,Hospital,US,New York,A,90
+C0196,Northern Hospital Chicago,Hospital,US,Chicago,B,30
+C0197,Riverside Hospital Los Angeles,Hospital,US,Los Angeles,B,60
+C0198,Green Cross Pharmacy Miami,Retail Pharmacy,US,Miami,B,30
+C0199,Metro Pharmacy Washington,Retail Pharmacy,US,Washington,C,30
+C0200,Metro Pharmacy Seattle,Retail Pharmacy,US,Seattle,C,90
+C0201,Unity Pharmacy New York,Retail Pharmacy,US,New York,A,60
+C0202,Prime Pharmacy Houston Branch 2,Retail Pharmacy,US,Houston,B,90
+C0203,Sunrise Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,A,30
+C0204,Lotus Hospital New York,Hospital,US,New York,C,90
+C0205,Riverside Medical Distribution Seattle,Distributor,US,Seattle,A,30
+C0206,Golden Hospital New York Branch 2,Hospital,US,New York,C,60
+C0207,Unity Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,30
+C0208,Delta Hospital Atlanta,Hospital,US,Atlanta,B,30
+C0209,CarePlus Hospital Chicago,Hospital,US,Chicago,C,30
+C0210,Summit Pharmacy Miami,Retail Pharmacy,US,Miami,A,30
+C0211,Riverside Pharmacy Atlanta Branch 2,Retail Pharmacy,US,Atlanta,B,60
+C0212,Prime Hospital New York,Hospital,US,New York,C,30
+C0213,Sunshine Pharmacy Houston Branch 2,Retail Pharmacy,US,Houston,B,30
+C0214,Al Noor Medical Distribution Miami,Distributor,US,Miami,C,60
+C0215,LifeLine Hospital Houston,Hospital,US,Houston,B,30
+C0216,Unity Medical Distribution Washington,Distributor,US,Washington,C,30
+C0217,Evergreen Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,30
+C0218,Al Noor Medical Distribution Washington Branch 2,Distributor,US,Washington,C,60
+C0219,Lotus Hospital Chicago,Hospital,US,Chicago,A,90
+C0220,Cedar Hospital Atlanta,Hospital,US,Atlanta,A,90
+C0221,Blue Sky Pharmacy Chicago,Retail Pharmacy,US,Chicago,B,60
+C0222,Silver Hospital Philadelphia,Hospital,US,Philadelphia,B,90
+C0223,LifeLine Hospital Chicago,Hospital,US,Chicago,A,90
+C0224,Nova Pharmacy New York,Retail Pharmacy,US,New York,A,30
+C0225,Blue Sky Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,C,30
+C0226,Lotus Pharmacy Phoenix Branch 2,Retail Pharmacy,US,Phoenix,C,60
+C0227,Orchid Pharmacy Miami,Retail Pharmacy,US,Miami,A,60
+C0228,Crystal Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,60
+C0229,Golden Hospital Seattle,Hospital,US,Seattle,C,30
+C0230,CarePlus Pharmacy Miami,Retail Pharmacy,US,Miami,B,60
+C0231,CarePlus Hospital Phoenix,Hospital,US,Phoenix,C,60
+C0232,Zenith Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,B,30
+C0233,Pioneer Hospital Washington,Hospital,US,Washington,C,60
+C0234,HealthFirst Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,C,90
+C0235,Metro Hospital New York,Hospital,US,New York,A,30
+C0236,Star Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,C,30
+C0237,Orchid Hospital Los Angeles,Hospital,US,Los Angeles,C,60
+C0238,Green Cross Hospital New York,Hospital,US,New York,C,30
+C0239,Lotus Pharmacy Phoenix Branch 3,Retail Pharmacy,US,Phoenix,B,90
+C0240,Metro Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,C,30
+C0241,Northern Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,C,30
+C0242,Eastern Medical Distribution New York,Distributor,US,New York,C,90
+C0243,Central Hospital Dallas,Hospital,US,Dallas,C,60
+C0244,Emerald Pharmacy Houston,Retail Pharmacy,US,Houston,B,30
+C0245,Silver Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,90
+C0246,Cedar Pharmacy Boston,Retail Pharmacy,US,Boston,B,60
+C0247,Al Noor Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,30
+C0248,Star Medical Distribution Chicago,Distributor,US,Chicago,A,60
+C0249,Metro Medical Distribution Philadelphia,Distributor,US,Philadelphia,C,30
+C0250,Summit Hospital Washington,Hospital,US,Washington,C,60
+C0251,Harmony Medical Distribution Washington,Distributor,US,Washington,A,60
+C0252,Star Hospital Los Angeles,Hospital,US,Los Angeles,C,90
+C0253,Zenith Hospital Seattle,Hospital,US,Seattle,A,60
+C0254,Star Pharmacy Seattle,Retail Pharmacy,US,Seattle,B,30
+C0255,Blue Sky Pharmacy Philadelphia Branch 2,Retail Pharmacy,US,Philadelphia,C,90
+C0256,Nova Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,90
+C0257,Lotus Medical Distribution Houston,Distributor,US,Houston,A,90
+C0258,Lotus Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,A,30
+C0259,Oasis Pharmacy Washington,Retail Pharmacy,US,Washington,C,30
+C0260,Atlas Medical Distribution Philadelphia,Distributor,US,Philadelphia,A,90
+C0261,Royal Hospital Atlanta Branch 2,Hospital,US,Atlanta,C,30
+C0262,Sapphire Hospital Chicago,Hospital,US,Chicago,C,60
+C0263,Harmony Pharmacy Dallas,Retail Pharmacy,US,Dallas,B,30
+C0264,Eastern Hospital New York,Hospital,US,New York,A,30
+C0265,Horizon Medical Distribution Washington,Distributor,US,Washington,B,90
+C0266,Metro Hospital Washington,Hospital,US,Washington,B,90
+C0267,Golden Medical Distribution Seattle,Distributor,US,Seattle,A,30
+C0268,Harmony Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,C,60
+C0269,CarePlus Hospital Atlanta,Hospital,US,Atlanta,A,30
+C0270,Emerald Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,60
+C0271,Harmony Hospital Atlanta,Hospital,US,Atlanta,B,30
+C0272,Blue Sky Pharmacy Houston,Retail Pharmacy,US,Houston,C,30
+C0273,Phoenix Pharmacy Washington Branch 5,Retail Pharmacy,US,Washington,C,60
+C0274,Unity Medical Distribution Washington Branch 2,Distributor,US,Washington,B,90
+C0275,Blue Sky Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,C,30
+C0276,Riverside Pharmacy Phoenix,Retail Pharmacy,US,Phoenix,B,60
+C0277,Unity Pharmacy Washington,Retail Pharmacy,US,Washington,C,30
+C0278,Oasis Pharmacy Chicago,Retail Pharmacy,US,Chicago,B,60
+C0279,Cedar Medical Distribution New York,Distributor,US,New York,C,30
+C0280,Blue Sky Pharmacy Washington Branch 3,Retail Pharmacy,US,Washington,A,90
+C0281,Emerald Medical Distribution Dallas,Distributor,US,Dallas,C,90
+C0282,Green Cross Pharmacy Washington,Retail Pharmacy,US,Washington,C,60
+C0283,Lotus Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,60
+C0284,Eastern Medical Distribution Houston,Distributor,US,Houston,B,60
+C0285,Nova Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,A,30
+C0286,Sapphire Hospital Boston,Hospital,US,Boston,B,60
+C0287,Cedar Medical Distribution Philadelphia,Distributor,US,Philadelphia,C,30
+C0288,Eastern Pharmacy New York,Retail Pharmacy,US,New York,B,60
+C0289,Phoenix Pharmacy Los Angeles,Retail Pharmacy,US,Los Angeles,B,30
+C0290,Delta Pharmacy Washington,Retail Pharmacy,US,Washington,B,30
+C0291,Vital Hospital Los Angeles,Hospital,US,Los Angeles,B,90
+C0292,Horizon Hospital Miami Branch 3,Hospital,US,Miami,A,90
+C0293,Orchid Medical Distribution Chicago,Distributor,US,Chicago,C,30
+C0294,Central Hospital Washington,Hospital,US,Washington,A,60
+C0295,Phoenix Pharmacy Atlanta Branch 2,Retail Pharmacy,US,Atlanta,B,30
+C0296,Riverside Pharmacy Dallas,Retail Pharmacy,US,Dallas,B,60
+C0297,Riverside Pharmacy New York,Retail Pharmacy,US,New York,C,60
+C0298,Unity Medical Distribution Los Angeles Branch 2,Distributor,US,Los Angeles,C,30
+C0299,Eastern Medical Distribution Los Angeles,Distributor,US,Los Angeles,B,30
+C0300,Summit Pharmacy Atlanta,Retail Pharmacy,US,Atlanta,C,60
+C0301,Phoenix Pharmacy Chicago,Retail Pharmacy,US,Chicago,B,30
+C0302,Green Cross Medical Distribution Dallas,Distributor,US,Dallas,B,90
+C0303,Star Hospital Washington,Hospital,US,Washington,B,60
+C0304,Horizon Hospital Washington,Hospital,US,Washington,C,30
+C0305,Nova Hospital Houston,Hospital,US,Houston,B,30
+C0306,Metro Pharmacy Washington Branch 2,Retail Pharmacy,US,Washington,C,60
+C0307,Unity Medical Distribution Atlanta,Distributor,US,Atlanta,A,60
+C0308,Cedar Hospital Boston,Hospital,US,Boston,B,30
+C0309,Golden Medical Distribution Los Angeles,Distributor,US,Los Angeles,C,30
+C0310,Delta Pharmacy Phoenix,Retail Pharmacy,US,Phoenix,A,90
+C0311,Central Pharmacy Atlanta Branch 2,Retail Pharmacy,US,Atlanta,A,90
+C0312,Green Cross Hospital Washington Branch 3,Hospital,US,Washington,C,30
+C0313,Central Pharmacy Houston,Retail Pharmacy,US,Houston,C,30
+C0314,Metro Pharmacy Washington Branch 3,Retail Pharmacy,US,Washington,A,90
+C0315,Eastern Medical Distribution Phoenix,Distributor,US,Phoenix,C,90
+C0316,Central Pharmacy Miami,Retail Pharmacy,US,Miami,C,60
+C0317,LifeLine Medical Distribution Boston,Distributor,US,Boston,C,60
+C0318,Star Pharmacy Houston,Retail Pharmacy,US,Houston,B,30
+C0319,Cedar Hospital Washington,Hospital,US,Washington,B,90
+C0320,Lotus Pharmacy Philadelphia,Retail Pharmacy,US,Philadelphia,B,90
+C0321,Royal Hospital New York,Hospital,US,New York,C,90
+C0322,Cedar Pharmacy New York,Retail Pharmacy,US,New York,A,30
+C0323,Royal Medical Distribution Los Angeles,Distributor,US,Los Angeles,C,60
+C0324,Sunshine Medical Distribution Washington,Distributor,US,Washington,C,90
+C0325,Emerald Pharmacy Chicago,Retail Pharmacy,US,Chicago,B,60
+C0326,Atlas Pharmacy Miami Branch 2,Retail Pharmacy,US,Miami,C,30
+C0327,MediCare Hospital New York,Hospital,US,New York,C,60
+C0328,Central Hospital New York,Hospital,US,New York,C,30
+C0329,Royal Pharmacy Washington Branch 3,Retail Pharmacy,US,Washington,C,60
+C0330,Unity Medical Distribution Chicago,Distributor,US,Chicago,B,60
+C0331,Evergreen Hospital Washington Branch 2,Hospital,US,Washington,B,60
+C0332,Al Noor Medical Distribution Washington Branch 3,Distributor,US,Washington,C,60
+C0333,Blue Sky Medical Distribution Washington Branch 3,Distributor,US,Washington,C,60
+C0334,Metro Hospital Chicago Branch 2,Hospital,US,Chicago,C,30
+C0335,Sunshine Hospital Philadelphia,Hospital,US,Philadelphia,C,30
+C0336,Cedar Medical Distribution Chicago,Distributor,US,Chicago,C,60
+C0337,Delta Hospital New York,Hospital,US,New York,A,30
+C0338,Crescent Hospital Philadelphia,Hospital,US,Philadelphia,B,30
+C0339,Riverside Pharmacy Seattle,Retail Pharmacy,US,Seattle,A,30
+C0340,CarePlus Medical Distribution Houston,Distributor,US,Houston,C,30
+C0341,MediCare Pharmacy Chicago,Retail Pharmacy,US,Chicago,A,30
+C0342,Vital Pharmacy New York,Retail Pharmacy,US,New York,C,30
+C0343,Phoenix Hospital Houston,Hospital,US,Houston,C,90
+C0344,Star Medical Distribution Houston,Distributor,US,Houston,B,30
+C0345,Summit Pharmacy Houston,Retail Pharmacy,US,Houston,B,60
+C0346,Cedar Pharmacy New York Branch 2,Retail Pharmacy,US,New York,B,30
+C0347,Prime Pharmacy Chicago,Retail Pharmacy,US,Chicago,C,90
+C0348,Al Noor Hospital Houston,Hospital,US,Houston,C,60
+C0349,Sunshine Medical Distribution Boston,Distributor,US,Boston,C,60
+C0350,Sapphire Pharmacy Washington,Retail Pharmacy,US,Washington,B,60
+C0351,Ministry of Health Tender (CA),Government Tender,CA,Ottawa,A,120
+C0352,Evergreen Hospital Montreal,Hospital,CA,Montreal,C,30
+C0353,Green Cross Hospital Ottawa,Hospital,CA,Ottawa,C,90
+C0354,Wellness Pharmacy Calgary,Retail Pharmacy,CA,Calgary,B,30
+C0355,Golden Medical Distribution Montreal,Distributor,CA,Montreal,C,30
+C0356,Atlas Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,A,90
+C0357,Al Noor Medical Distribution Toronto,Distributor,CA,Toronto,A,30
+C0358,Zenith Pharmacy Vancouver,Retail Pharmacy,CA,Vancouver,C,30
+C0359,Pioneer Medical Distribution Montreal,Distributor,CA,Montreal,B,90
+C0360,Summit Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,B,30
+C0361,Sapphire Hospital Vancouver,Hospital,CA,Vancouver,C,30
+C0362,Nova Hospital Ottawa,Hospital,CA,Ottawa,C,30
+C0363,CarePlus Hospital Ottawa,Hospital,CA,Ottawa,A,30
+C0364,HealthFirst Pharmacy Vancouver,Retail Pharmacy,CA,Vancouver,A,30
+C0365,CarePlus Pharmacy Toronto,Retail Pharmacy,CA,Toronto,C,60
+C0366,Sunshine Pharmacy Calgary,Retail Pharmacy,CA,Calgary,B,90
+C0367,Unity Hospital Ottawa,Hospital,CA,Ottawa,A,60
+C0368,MediCare Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,B,30
+C0369,Oasis Medical Distribution Vancouver,Distributor,CA,Vancouver,B,30
+C0370,HealthFirst Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,C,60
+C0371,Silver Medical Distribution Ottawa,Distributor,CA,Ottawa,A,30
+C0372,Nova Hospital Montreal,Hospital,CA,Montreal,B,90
+C0373,Green Cross Medical Distribution Vancouver,Distributor,CA,Vancouver,A,90
+C0374,Summit Hospital Ottawa,Hospital,CA,Ottawa,C,30
+C0375,Horizon Medical Distribution Vancouver,Distributor,CA,Vancouver,B,90
+C0376,CarePlus Hospital Toronto,Hospital,CA,Toronto,C,60
+C0377,Crystal Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,C,60
+C0378,Summit Pharmacy Montreal,Retail Pharmacy,CA,Montreal,C,90
+C0379,Star Hospital Ottawa,Hospital,CA,Ottawa,C,30
+C0380,Zenith Medical Distribution Vancouver,Distributor,CA,Vancouver,C,90
+C0381,Cedar Pharmacy Calgary,Retail Pharmacy,CA,Calgary,B,90
+C0382,Silver Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,C,30
+C0383,Emerald Pharmacy Vancouver,Retail Pharmacy,CA,Vancouver,C,30
+C0384,Crystal Pharmacy Vancouver,Retail Pharmacy,CA,Vancouver,C,60
+C0385,Blue Sky Pharmacy Vancouver,Retail Pharmacy,CA,Vancouver,C,60
+C0386,Crescent Pharmacy Toronto,Retail Pharmacy,CA,Toronto,B,90
+C0387,Pioneer Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,A,60
+C0388,Northern Medical Distribution Ottawa,Distributor,CA,Ottawa,C,90
+C0389,Pioneer Hospital Ottawa,Hospital,CA,Ottawa,B,30
+C0390,LifeLine Medical Distribution Ottawa,Distributor,CA,Ottawa,C,60
+C0391,Horizon Hospital Vancouver,Hospital,CA,Vancouver,B,60
+C0392,Evergreen Medical Distribution Ottawa,Distributor,CA,Ottawa,C,30
+C0393,Harmony Pharmacy Montreal,Retail Pharmacy,CA,Montreal,C,90
+C0394,Eastern Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,B,30
+C0395,Green Cross Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,A,30
+C0396,Crystal Hospital Vancouver,Hospital,CA,Vancouver,C,60
+C0397,Golden Hospital Calgary,Hospital,CA,Calgary,C,60
+C0398,Delta Pharmacy Toronto,Retail Pharmacy,CA,Toronto,A,60
+C0399,MediCare Pharmacy Ottawa Branch 2,Retail Pharmacy,CA,Ottawa,C,30
+C0400,Summit Medical Distribution Montreal,Distributor,CA,Montreal,A,60
+C0401,Blue Sky Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,C,30
+C0402,Zenith Pharmacy Montreal,Retail Pharmacy,CA,Montreal,C,60
+C0403,Central Hospital Montreal,Hospital,CA,Montreal,C,60
+C0404,Prime Pharmacy Montreal,Retail Pharmacy,CA,Montreal,B,60
+C0405,Atlas Pharmacy Ottawa Branch 2,Retail Pharmacy,CA,Ottawa,C,30
+C0406,Golden Hospital Vancouver,Hospital,CA,Vancouver,C,60
+C0407,Vital Hospital Toronto,Hospital,CA,Toronto,B,60
+C0408,Northern Hospital Montreal,Hospital,CA,Montreal,A,60
+C0409,Atlas Medical Distribution Toronto,Distributor,CA,Toronto,B,90
+C0410,Evergreen Pharmacy Toronto,Retail Pharmacy,CA,Toronto,B,30
+C0411,Cedar Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,C,30
+C0412,MediCare Pharmacy Montreal,Retail Pharmacy,CA,Montreal,C,30
+C0413,Nova Pharmacy Montreal,Retail Pharmacy,CA,Montreal,B,60
+C0414,Silver Medical Distribution Ottawa Branch 2,Distributor,CA,Ottawa,C,60
+C0415,HealthFirst Medical Distribution Vancouver,Distributor,CA,Vancouver,B,30
+C0416,Crescent Hospital Ottawa,Hospital,CA,Ottawa,C,90
+C0417,Vital Hospital Toronto Branch 2,Hospital,CA,Toronto,C,30
+C0418,Sunshine Medical Distribution Toronto,Distributor,CA,Toronto,B,60
+C0419,Central Medical Distribution Calgary,Distributor,CA,Calgary,C,30
+C0420,Central Hospital Ottawa,Hospital,CA,Ottawa,C,60
+C0421,Zenith Pharmacy Montreal Branch 2,Retail Pharmacy,CA,Montreal,B,30
+C0422,CarePlus Pharmacy Ottawa,Retail Pharmacy,CA,Ottawa,C,60
+C0423,Crystal Hospital Ottawa,Hospital,CA,Ottawa,A,30
+C0424,Phoenix Hospital Ottawa,Hospital,CA,Ottawa,B,30
+C0425,HealthFirst Hospital Ottawa,Hospital,CA,Ottawa,C,30
+C0426,Ministry of Health Tender (DE),Government Tender,DE,Berlin,A,120
+C0427,Al Noor Pharmacy Hamburg,Retail Pharmacy,DE,Hamburg,B,30
+C0428,Prime Medical Distribution Frankfurt,Distributor,DE,Frankfurt,A,90
+C0429,Al Noor Pharmacy Munich,Retail Pharmacy,DE,Munich,B,60
+C0430,Eastern Hospital Hamburg,Hospital,DE,Hamburg,B,30
+C0431,Eastern Pharmacy Munich,Retail Pharmacy,DE,Munich,B,30
+C0432,Cedar Hospital Munich,Hospital,DE,Munich,B,60
+C0433,Al Noor Hospital Hamburg,Hospital,DE,Hamburg,C,60
+C0434,Emerald Pharmacy Berlin,Retail Pharmacy,DE,Berlin,B,30
+C0435,Emerald Pharmacy Berlin Branch 2,Retail Pharmacy,DE,Berlin,B,30
+C0436,Golden Medical Distribution Frankfurt,Distributor,DE,Frankfurt,C,30
+C0437,Crescent Medical Distribution Cologne,Distributor,DE,Cologne,A,60
+C0438,Summit Medical Distribution Cologne,Distributor,DE,Cologne,C,30
+C0439,Eastern Hospital Frankfurt,Hospital,DE,Frankfurt,C,60
+C0440,Orchid Pharmacy Hamburg,Retail Pharmacy,DE,Hamburg,A,60
+C0441,CarePlus Pharmacy Frankfurt,Retail Pharmacy,DE,Frankfurt,C,30
+C0442,Al Noor Hospital Cologne,Hospital,DE,Cologne,A,30
+C0443,Cedar Medical Distribution Munich,Distributor,DE,Munich,C,30
+C0444,Metro Pharmacy Frankfurt,Retail Pharmacy,DE,Frankfurt,B,60
+C0445,Sunshine Pharmacy Cologne,Retail Pharmacy,DE,Cologne,C,90
+C0446,Orchid Pharmacy Berlin,Retail Pharmacy,DE,Berlin,B,30
+C0447,Orchid Hospital Munich,Hospital,DE,Munich,B,30
+C0448,Lotus Hospital Frankfurt,Hospital,DE,Frankfurt,B,90
+C0449,Wellness Pharmacy Hamburg,Retail Pharmacy,DE,Hamburg,C,60
+C0450,Metro Pharmacy Berlin,Retail Pharmacy,DE,Berlin,A,30
+C0451,Zenith Pharmacy Berlin,Retail Pharmacy,DE,Berlin,B,60
+C0452,Zenith Pharmacy Berlin Branch 2,Retail Pharmacy,DE,Berlin,B,60
+C0453,Emerald Pharmacy Berlin Branch 3,Retail Pharmacy,DE,Berlin,B,60
+C0454,Al Noor Medical Distribution Munich,Distributor,DE,Munich,C,60
+C0455,Nova Hospital Berlin,Hospital,DE,Berlin,B,60
+C0456,Wellness Hospital Berlin,Hospital,DE,Berlin,A,60
+C0457,Northern Pharmacy Frankfurt,Retail Pharmacy,DE,Frankfurt,C,60
+C0458,CarePlus Medical Distribution Cologne,Distributor,DE,Cologne,B,60
+C0459,Sunrise Pharmacy Berlin,Retail Pharmacy,DE,Berlin,C,30
+C0460,Delta Medical Distribution Munich,Distributor,DE,Munich,B,90
+C0461,Lotus Pharmacy Munich,Retail Pharmacy,DE,Munich,A,90
+C0462,Sunrise Hospital Berlin,Hospital,DE,Berlin,B,90
+C0463,Unity Medical Distribution Munich,Distributor,DE,Munich,B,60
+C0464,Prime Pharmacy Frankfurt,Retail Pharmacy,DE,Frankfurt,C,30
+C0465,Star Medical Distribution Munich,Distributor,DE,Munich,A,30
+C0466,Phoenix Pharmacy Berlin,Retail Pharmacy,DE,Berlin,C,30
+C0467,Crescent Pharmacy Hamburg,Retail Pharmacy,DE,Hamburg,B,30
+C0468,Orchid Pharmacy Hamburg Branch 2,Retail Pharmacy,DE,Hamburg,C,60
+C0469,Cedar Medical Distribution Berlin,Distributor,DE,Berlin,B,30
+C0470,Eastern Pharmacy Munich Branch 2,Retail Pharmacy,DE,Munich,C,30
+C0471,Summit Medical Distribution Frankfurt,Distributor,DE,Frankfurt,C,60
+C0472,Evergreen Medical Distribution Hamburg,Distributor,DE,Hamburg,A,60
+C0473,Atlas Pharmacy Munich,Retail Pharmacy,DE,Munich,C,30
+C0474,Harmony Pharmacy Cologne,Retail Pharmacy,DE,Cologne,A,30
+C0475,Sunrise Pharmacy Berlin Branch 2,Retail Pharmacy,DE,Berlin,B,30
+C0476,Crystal Pharmacy Munich,Retail Pharmacy,DE,Munich,B,30
+C0477,Atlas Pharmacy Berlin,Retail Pharmacy,DE,Berlin,C,90
+C0478,LifeLine Hospital Cologne,Hospital,DE,Cologne,B,60
+C0479,Oasis Medical Distribution Frankfurt,Distributor,DE,Frankfurt,C,60
+C0480,MediCare Medical Distribution Frankfurt,Distributor,DE,Frankfurt,C,30
+C0481,Lotus Hospital Cologne,Hospital,DE,Cologne,A,60
+C0482,CarePlus Hospital Berlin,Hospital,DE,Berlin,C,90
+C0483,LifeLine Pharmacy Berlin,Retail Pharmacy,DE,Berlin,B,30
+C0484,Eastern Pharmacy Munich Branch 3,Retail Pharmacy,DE,Munich,B,90
+C0485,Nova Medical Distribution Berlin,Distributor,DE,Berlin,B,30
+C0486,Blue Sky Pharmacy Munich,Retail Pharmacy,DE,Munich,C,30
+C0487,Harmony Hospital Munich,Hospital,DE,Munich,B,90
+C0488,Al Noor Medical Distribution Berlin,Distributor,DE,Berlin,C,90
+C0489,LifeLine Hospital Berlin,Hospital,DE,Berlin,A,90
+C0490,Royal Pharmacy Hamburg,Retail Pharmacy,DE,Hamburg,A,60
+C0491,Northern Pharmacy Hamburg,Retail Pharmacy,DE,Hamburg,C,90
+C0492,Star Hospital Berlin,Hospital,DE,Berlin,C,30
+C0493,Harmony Medical Distribution Cologne,Distributor,DE,Cologne,A,30
+C0494,Evergreen Hospital Hamburg,Hospital,DE,Hamburg,A,30
+C0495,Golden Pharmacy Cologne,Retail Pharmacy,DE,Cologne,C,60
+C0496,Riverside Pharmacy Cologne,Retail Pharmacy,DE,Cologne,C,90
+C0497,Horizon Pharmacy Berlin,Retail Pharmacy,DE,Berlin,B,60
+C0498,Sunshine Medical Distribution Berlin,Distributor,DE,Berlin,C,30
+C0499,Harmony Hospital Berlin,Hospital,DE,Berlin,B,60
+C0500,Riverside Medical Distribution Berlin,Distributor,DE,Berlin,C,30
+C0501,CarePlus Pharmacy Berlin,Retail Pharmacy,DE,Berlin,C,30
+C0502,Oasis Pharmacy Berlin,Retail Pharmacy,DE,Berlin,B,30
+C0503,Harmony Hospital Berlin Branch 2,Hospital,DE,Berlin,B,30
+C0504,Al Noor Hospital Munich,Hospital,DE,Munich,C,90
+C0505,Nova Medical Distribution Munich,Distributor,DE,Munich,C,30
+C0506,Oasis Hospital Munich,Hospital,DE,Munich,B,30
+C0507,Crystal Pharmacy Hamburg,Retail Pharmacy,DE,Hamburg,C,60
+C0508,Sapphire Medical Distribution Hamburg,Distributor,DE,Hamburg,C,60
+C0509,Silver Medical Distribution Frankfurt,Distributor,DE,Frankfurt,A,60
+C0510,MediCare Medical Distribution Berlin,Distributor,DE,Berlin,B,30
+C0511,Silver Hospital Munich,Hospital,DE,Munich,B,30
+C0512,Unity Hospital Cologne,Hospital,DE,Cologne,B,90
+C0513,Metro Hospital Hamburg,Hospital,DE,Hamburg,B,30
+C0514,Emerald Hospital Berlin,Hospital,DE,Berlin,A,60
+C0515,Sunrise Hospital Cologne,Hospital,DE,Cologne,B,60
+C0516,LifeLine Pharmacy Munich,Retail Pharmacy,DE,Munich,B,60
+C0517,Delta Medical Distribution Cologne,Distributor,DE,Cologne,A,30
+C0518,Prime Pharmacy Berlin,Retail Pharmacy,DE,Berlin,A,60
+C0519,Star Medical Distribution Munich Branch 2,Distributor,DE,Munich,A,30
+C0520,Star Pharmacy Munich,Retail Pharmacy,DE,Munich,C,30
+C0521,Harmony Hospital Berlin Branch 3,Hospital,DE,Berlin,B,60
+C0522,Lotus Medical Distribution Munich,Distributor,DE,Munich,B,60
+C0523,Prime Pharmacy Frankfurt Branch 2,Retail Pharmacy,DE,Frankfurt,C,30
+C0524,Delta Pharmacy Berlin,Retail Pharmacy,DE,Berlin,B,60
+C0525,CarePlus Medical Distribution Berlin,Distributor,DE,Berlin,C,30
+C0526,Oasis Pharmacy Berlin Branch 2,Retail Pharmacy,DE,Berlin,B,60
+C0527,Sunshine Hospital Munich,Hospital,DE,Munich,B,60
+C0528,Phoenix Pharmacy Cologne,Retail Pharmacy,DE,Cologne,A,60
+C0529,Wellness Hospital Cologne,Hospital,DE,Cologne,C,30
+C0530,Atlas Pharmacy Munich Branch 2,Retail Pharmacy,DE,Munich,B,30
+C0531,Delta Pharmacy Berlin Branch 2,Retail Pharmacy,DE,Berlin,B,30
+C0532,Phoenix Hospital Frankfurt,Hospital,DE,Frankfurt,C,90
+C0533,Prime Pharmacy Berlin Branch 2,Retail Pharmacy,DE,Berlin,A,30
+C0534,Harmony Medical Distribution Frankfurt,Distributor,DE,Frankfurt,C,30
+C0535,Sunrise Hospital Hamburg,Hospital,DE,Hamburg,B,30
+C0536,Ministry of Health Tender (FR),Government Tender,FR,Paris,A,120
+C0537,Eastern Medical Distribution Marseille,Distributor,FR,Marseille,A,30
+C0538,Harmony Hospital Marseille,Hospital,FR,Marseille,C,60
+C0539,Crescent Medical Distribution Lille,Distributor,FR,Lille,C,30
+C0540,Summit Medical Distribution Paris,Distributor,FR,Paris,C,90
+C0541,Central Hospital Lyon,Hospital,FR,Lyon,A,30
+C0542,Evergreen Pharmacy Lyon,Retail Pharmacy,FR,Lyon,C,30
+C0543,Wellness Hospital Paris,Hospital,FR,Paris,C,60
+C0544,Unity Hospital Paris,Hospital,FR,Paris,C,60
+C0545,Riverside Hospital Toulouse,Hospital,FR,Toulouse,B,60
+C0546,Sapphire Hospital Lille,Hospital,FR,Lille,C,60
+C0547,Evergreen Medical Distribution Toulouse,Distributor,FR,Toulouse,B,60
+C0548,Royal Hospital Lyon,Hospital,FR,Lyon,A,60
+C0549,Atlas Hospital Marseille,Hospital,FR,Marseille,C,60
+C0550,Orchid Hospital Toulouse,Hospital,FR,Toulouse,C,60
+C0551,Wellness Pharmacy Paris,Retail Pharmacy,FR,Paris,C,60
+C0552,Oasis Hospital Paris,Hospital,FR,Paris,B,60
+C0553,Eastern Hospital Toulouse,Hospital,FR,Toulouse,B,60
+C0554,Sapphire Hospital Toulouse,Hospital,FR,Toulouse,C,30
+C0555,Nova Pharmacy Paris,Retail Pharmacy,FR,Paris,B,90
+C0556,Metro Pharmacy Lyon,Retail Pharmacy,FR,Lyon,A,30
+C0557,Wellness Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,C,30
+C0558,MediCare Medical Distribution Marseille,Distributor,FR,Marseille,B,30
+C0559,Silver Medical Distribution Lille,Distributor,FR,Lille,C,30
+C0560,Delta Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,A,60
+C0561,Vital Medical Distribution Lille,Distributor,FR,Lille,A,90
+C0562,Star Hospital Lille,Hospital,FR,Lille,C,60
+C0563,Harmony Pharmacy Lyon,Retail Pharmacy,FR,Lyon,B,90
+C0564,Unity Pharmacy Paris,Retail Pharmacy,FR,Paris,C,30
+C0565,HealthFirst Hospital Paris,Hospital,FR,Paris,C,90
+C0566,Cedar Medical Distribution Paris,Distributor,FR,Paris,C,90
+C0567,Emerald Hospital Marseille,Hospital,FR,Marseille,C,30
+C0568,Silver Hospital Lille,Hospital,FR,Lille,C,30
+C0569,Lotus Hospital Paris,Hospital,FR,Paris,B,30
+C0570,Delta Hospital Paris,Hospital,FR,Paris,B,90
+C0571,Northern Pharmacy Paris,Retail Pharmacy,FR,Paris,C,60
+C0572,Star Medical Distribution Marseille,Distributor,FR,Marseille,B,60
+C0573,Harmony Pharmacy Paris,Retail Pharmacy,FR,Paris,A,60
+C0574,Blue Sky Hospital Marseille,Hospital,FR,Marseille,C,60
+C0575,CarePlus Pharmacy Lyon,Retail Pharmacy,FR,Lyon,C,90
+C0576,Unity Hospital Paris Branch 2,Hospital,FR,Paris,C,90
+C0577,Harmony Hospital Lyon,Hospital,FR,Lyon,C,30
+C0578,Zenith Pharmacy Lille,Retail Pharmacy,FR,Lille,C,30
+C0579,Emerald Pharmacy Paris,Retail Pharmacy,FR,Paris,B,30
+C0580,Golden Pharmacy Lyon,Retail Pharmacy,FR,Lyon,C,90
+C0581,HealthFirst Pharmacy Marseille,Retail Pharmacy,FR,Marseille,C,30
+C0582,Star Medical Distribution Lyon,Distributor,FR,Lyon,C,60
+C0583,Vital Pharmacy Marseille,Retail Pharmacy,FR,Marseille,A,30
+C0584,MediCare Pharmacy Marseille,Retail Pharmacy,FR,Marseille,C,30
+C0585,Oasis Medical Distribution Lille,Distributor,FR,Lille,C,30
+C0586,Evergreen Pharmacy Lyon Branch 2,Retail Pharmacy,FR,Lyon,C,90
+C0587,Central Medical Distribution Lille,Distributor,FR,Lille,B,90
+C0588,Eastern Pharmacy Marseille,Retail Pharmacy,FR,Marseille,C,30
+C0589,Crystal Pharmacy Paris,Retail Pharmacy,FR,Paris,B,90
+C0590,Unity Hospital Marseille,Hospital,FR,Marseille,B,60
+C0591,Nova Medical Distribution Paris,Distributor,FR,Paris,C,60
+C0592,Metro Medical Distribution Marseille,Distributor,FR,Marseille,B,90
+C0593,Al Noor Hospital Toulouse,Hospital,FR,Toulouse,C,90
+C0594,Orchid Medical Distribution Lyon,Distributor,FR,Lyon,C,60
+C0595,Pioneer Pharmacy Lille,Retail Pharmacy,FR,Lille,A,30
+C0596,Phoenix Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,B,30
+C0597,Nova Medical Distribution Lyon,Distributor,FR,Lyon,A,60
+C0598,Riverside Hospital Lyon,Hospital,FR,Lyon,B,30
+C0599,Summit Hospital Lyon,Hospital,FR,Lyon,B,90
+C0600,Delta Pharmacy Toulouse Branch 2,Retail Pharmacy,FR,Toulouse,C,90
+C0601,Orchid Hospital Paris,Hospital,FR,Paris,C,30
+C0602,Star Pharmacy Marseille,Retail Pharmacy,FR,Marseille,C,90
+C0603,Summit Medical Distribution Lyon,Distributor,FR,Lyon,C,30
+C0604,Crystal Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,B,90
+C0605,Al Noor Hospital Marseille,Hospital,FR,Marseille,C,60
+C0606,Nova Medical Distribution Lyon Branch 2,Distributor,FR,Lyon,B,30
+C0607,Green Cross Medical Distribution Marseille,Distributor,FR,Marseille,B,30
+C0608,Summit Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,C,90
+C0609,Delta Hospital Paris Branch 2,Hospital,FR,Paris,C,30
+C0610,Delta Pharmacy Lyon,Retail Pharmacy,FR,Lyon,C,60
+C0611,Delta Pharmacy Paris,Retail Pharmacy,FR,Paris,A,30
+C0612,Riverside Pharmacy Marseille,Retail Pharmacy,FR,Marseille,B,60
+C0613,Harmony Hospital Paris,Hospital,FR,Paris,C,30
+C0614,Vital Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,C,30
+C0615,MediCare Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,B,30
+C0616,Metro Hospital Paris,Hospital,FR,Paris,C,30
+C0617,Central Hospital Lille,Hospital,FR,Lille,C,60
+C0618,Sunshine Hospital Lyon,Hospital,FR,Lyon,C,30
+C0619,Sapphire Pharmacy Paris,Retail Pharmacy,FR,Paris,B,60
+C0620,Northern Medical Distribution Toulouse,Distributor,FR,Toulouse,A,60
+C0621,Crescent Pharmacy Lille,Retail Pharmacy,FR,Lille,B,60
+C0622,MediCare Pharmacy Lyon,Retail Pharmacy,FR,Lyon,A,30
+C0623,Crescent Hospital Paris,Hospital,FR,Paris,B,60
+C0624,Cedar Hospital Marseille,Hospital,FR,Marseille,C,30
+C0625,Blue Sky Pharmacy Toulouse,Retail Pharmacy,FR,Toulouse,C,90
+C0626,Ministry of Health Tender (IT),Government Tender,IT,Rome,A,120
+C0627,CarePlus Hospital Naples,Hospital,IT,Naples,B,60
+C0628,Al Noor Medical Distribution Turin,Distributor,IT,Turin,A,60
+C0629,Evergreen Pharmacy Rome,Retail Pharmacy,IT,Rome,B,60
+C0630,Al Noor Pharmacy Rome,Retail Pharmacy,IT,Rome,C,60
+C0631,Sunrise Pharmacy Rome,Retail Pharmacy,IT,Rome,C,30
+C0632,Horizon Pharmacy Naples,Retail Pharmacy,IT,Naples,B,60
+C0633,Central Medical Distribution Rome,Distributor,IT,Rome,C,60
+C0634,Wellness Pharmacy Milan,Retail Pharmacy,IT,Milan,C,30
+C0635,HealthFirst Pharmacy Milan,Retail Pharmacy,IT,Milan,C,60
+C0636,Evergreen Hospital Naples,Hospital,IT,Naples,B,30
+C0637,Harmony Pharmacy Turin,Retail Pharmacy,IT,Turin,B,30
+C0638,Riverside Hospital Rome,Hospital,IT,Rome,A,60
+C0639,Summit Pharmacy Milan,Retail Pharmacy,IT,Milan,B,90
+C0640,Harmony Hospital Rome,Hospital,IT,Rome,C,60
+C0641,Northern Pharmacy Turin,Retail Pharmacy,IT,Turin,B,60
+C0642,Pioneer Pharmacy Rome,Retail Pharmacy,IT,Rome,A,60
+C0643,Pioneer Medical Distribution Naples,Distributor,IT,Naples,A,60
+C0644,Golden Pharmacy Milan,Retail Pharmacy,IT,Milan,A,30
+C0645,Summit Pharmacy Rome,Retail Pharmacy,IT,Rome,C,30
+C0646,Lotus Pharmacy Rome,Retail Pharmacy,IT,Rome,B,60
+C0647,Oasis Pharmacy Rome,Retail Pharmacy,IT,Rome,C,30
+C0648,Riverside Pharmacy Rome,Retail Pharmacy,IT,Rome,C,60
+C0649,Crystal Pharmacy Bologna,Retail Pharmacy,IT,Bologna,C,30
+C0650,Horizon Pharmacy Naples Branch 2,Retail Pharmacy,IT,Naples,C,30
+C0651,Nova Pharmacy Bologna,Retail Pharmacy,IT,Bologna,C,90
+C0652,Nova Medical Distribution Rome,Distributor,IT,Rome,C,30
+C0653,Phoenix Hospital Milan,Hospital,IT,Milan,B,30
+C0654,Riverside Medical Distribution Rome,Distributor,IT,Rome,C,90
+C0655,Sunrise Pharmacy Rome Branch 2,Retail Pharmacy,IT,Rome,C,30
+C0656,Pioneer Hospital Naples,Hospital,IT,Naples,B,60
+C0657,Sapphire Pharmacy Naples,Retail Pharmacy,IT,Naples,C,90
+C0658,CarePlus Pharmacy Naples,Retail Pharmacy,IT,Naples,A,30
+C0659,Lotus Medical Distribution Rome,Distributor,IT,Rome,B,90
+C0660,CarePlus Pharmacy Rome,Retail Pharmacy,IT,Rome,B,60
+C0661,Pioneer Medical Distribution Bologna,Distributor,IT,Bologna,A,60
+C0662,LifeLine Medical Distribution Rome,Distributor,IT,Rome,B,30
+C0663,Delta Pharmacy Rome,Retail Pharmacy,IT,Rome,C,60
+C0664,CarePlus Pharmacy Bologna,Retail Pharmacy,IT,Bologna,B,60
+C0665,Sapphire Pharmacy Rome,Retail Pharmacy,IT,Rome,C,30
+C0666,Harmony Hospital Milan,Hospital,IT,Milan,C,60
+C0667,Prime Hospital Turin,Hospital,IT,Turin,C,60
+C0668,Wellness Hospital Bologna,Hospital,IT,Bologna,A,60
+C0669,Star Pharmacy Rome,Retail Pharmacy,IT,Rome,A,60
+C0670,Emerald Hospital Rome,Hospital,IT,Rome,C,30
+C0671,LifeLine Hospital Milan,Hospital,IT,Milan,B,60
+C0672,MediCare Medical Distribution Rome,Distributor,IT,Rome,C,60
+C0673,Unity Hospital Rome,Hospital,IT,Rome,A,60
+C0674,Atlas Pharmacy Naples,Retail Pharmacy,IT,Naples,C,30
+C0675,Unity Hospital Bologna,Hospital,IT,Bologna,C,30
+C0676,Summit Medical Distribution Naples,Distributor,IT,Naples,B,30
+C0677,Unity Hospital Milan,Hospital,IT,Milan,B,60
+C0678,Nova Pharmacy Rome,Retail Pharmacy,IT,Rome,C,60
+C0679,Harmony Hospital Milan Branch 2,Hospital,IT,Milan,A,30
+C0680,Prime Medical Distribution Rome,Distributor,IT,Rome,C,30
+C0681,Vital Hospital Rome,Hospital,IT,Rome,B,90
+C0682,Nova Pharmacy Turin,Retail Pharmacy,IT,Turin,C,60
+C0683,CarePlus Medical Distribution Naples,Distributor,IT,Naples,B,90
+C0684,Sunrise Hospital Rome,Hospital,IT,Rome,C,60
+C0685,LifeLine Pharmacy Naples,Retail Pharmacy,IT,Naples,B,30
+C0686,Prime Pharmacy Naples,Retail Pharmacy,IT,Naples,C,30
+C0687,Summit Pharmacy Milan Branch 2,Retail Pharmacy,IT,Milan,A,60
+C0688,Oasis Pharmacy Milan,Retail Pharmacy,IT,Milan,C,60
+C0689,Eastern Medical Distribution Turin,Distributor,IT,Turin,B,60
+C0690,Summit Pharmacy Naples,Retail Pharmacy,IT,Naples,A,60
+C0691,Crescent Hospital Turin,Hospital,IT,Turin,B,30
+C0692,LifeLine Hospital Milan Branch 2,Hospital,IT,Milan,C,90
+C0693,Central Medical Distribution Turin,Distributor,IT,Turin,B,30
+C0694,Emerald Pharmacy Rome,Retail Pharmacy,IT,Rome,A,90
+C0695,Harmony Medical Distribution Rome,Distributor,IT,Rome,C,60
+C0696,Vital Pharmacy Naples,Retail Pharmacy,IT,Naples,A,90
+C0697,Silver Pharmacy Rome,Retail Pharmacy,IT,Rome,C,60
+C0698,Royal Hospital Milan,Hospital,IT,Milan,C,30
+C0699,Royal Pharmacy Rome,Retail Pharmacy,IT,Rome,B,30
+C0700,Zenith Pharmacy Milan,Retail Pharmacy,IT,Milan,C,30
+C0701,Metro Medical Distribution Naples,Distributor,IT,Naples,B,90
+C0702,Harmony Pharmacy Rome,Retail Pharmacy,IT,Rome,C,90
+C0703,Vital Hospital Rome Branch 2,Hospital,IT,Rome,B,30
+C0704,Green Cross Medical Distribution Rome,Distributor,IT,Rome,C,60
+C0705,Green Cross Hospital Turin,Hospital,IT,Turin,C,30
+C0706,Ministry of Health Tender (ES),Government Tender,ES,Madrid,A,120
+C0707,Lotus Hospital Madrid,Hospital,ES,Madrid,A,30
+C0708,Cedar Pharmacy Madrid,Retail Pharmacy,ES,Madrid,A,90
+C0709,Horizon Medical Distribution Madrid,Distributor,ES,Madrid,A,60
+C0710,Eastern Hospital Barcelona,Hospital,ES,Barcelona,A,30
+C0711,Star Hospital Madrid,Hospital,ES,Madrid,C,60
+C0712,Crystal Hospital Seville,Hospital,ES,Seville,A,90
+C0713,Sunrise Pharmacy Madrid,Retail Pharmacy,ES,Madrid,C,30
+C0714,Delta Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,A,30
+C0715,Prime Medical Distribution Valencia,Distributor,ES,Valencia,B,30
+C0716,Prime Hospital Madrid,Hospital,ES,Madrid,C,60
+C0717,Sapphire Hospital Barcelona,Hospital,ES,Barcelona,A,90
+C0718,Unity Medical Distribution Valencia,Distributor,ES,Valencia,C,60
+C0719,Unity Pharmacy Seville,Retail Pharmacy,ES,Seville,A,30
+C0720,Al Noor Pharmacy Madrid,Retail Pharmacy,ES,Madrid,C,60
+C0721,Sunshine Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,B,30
+C0722,CarePlus Pharmacy Madrid,Retail Pharmacy,ES,Madrid,B,90
+C0723,Metro Hospital Valencia,Hospital,ES,Valencia,C,60
+C0724,Prime Hospital Madrid Branch 2,Hospital,ES,Madrid,B,60
+C0725,Cedar Hospital Madrid,Hospital,ES,Madrid,A,30
+C0726,Unity Pharmacy Seville Branch 2,Retail Pharmacy,ES,Seville,B,30
+C0727,Vital Hospital Seville,Hospital,ES,Seville,B,30
+C0728,Central Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,C,90
+C0729,Delta Medical Distribution Barcelona,Distributor,ES,Barcelona,B,60
+C0730,Phoenix Medical Distribution Madrid,Distributor,ES,Madrid,A,30
+C0731,Al Noor Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,C,30
+C0732,Unity Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,B,30
+C0733,Atlas Medical Distribution Valencia,Distributor,ES,Valencia,C,60
+C0734,Prime Hospital Valencia,Hospital,ES,Valencia,C,90
+C0735,Prime Hospital Barcelona,Hospital,ES,Barcelona,A,60
+C0736,Lotus Pharmacy Madrid,Retail Pharmacy,ES,Madrid,A,30
+C0737,Prime Hospital Valencia Branch 2,Hospital,ES,Valencia,A,60
+C0738,Pioneer Hospital Madrid,Hospital,ES,Madrid,C,60
+C0739,Cedar Medical Distribution Barcelona,Distributor,ES,Barcelona,B,60
+C0740,MediCare Medical Distribution Madrid,Distributor,ES,Madrid,B,30
+C0741,Atlas Hospital Seville,Hospital,ES,Seville,A,30
+C0742,Sunrise Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,C,90
+C0743,Golden Hospital Barcelona,Hospital,ES,Barcelona,A,60
+C0744,Star Pharmacy Madrid,Retail Pharmacy,ES,Madrid,B,30
+C0745,Prime Hospital Barcelona Branch 2,Hospital,ES,Barcelona,C,90
+C0746,HealthFirst Medical Distribution Barcelona,Distributor,ES,Barcelona,C,30
+C0747,Zenith Pharmacy Seville,Retail Pharmacy,ES,Seville,B,30
+C0748,Sunrise Hospital Madrid,Hospital,ES,Madrid,C,30
+C0749,CarePlus Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,A,30
+C0750,HealthFirst Hospital Barcelona,Hospital,ES,Barcelona,C,60
+C0751,Riverside Pharmacy Valencia,Retail Pharmacy,ES,Valencia,A,30
+C0752,Sunrise Pharmacy Madrid Branch 2,Retail Pharmacy,ES,Madrid,B,60
+C0753,Royal Hospital Barcelona,Hospital,ES,Barcelona,B,30
+C0754,Orchid Hospital Barcelona,Hospital,ES,Barcelona,B,30
+C0755,Nova Hospital Valencia,Hospital,ES,Valencia,B,90
+C0756,Prime Medical Distribution Madrid,Distributor,ES,Madrid,A,60
+C0757,Orchid Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,B,90
+C0758,Central Medical Distribution Madrid,Distributor,ES,Madrid,C,60
+C0759,Eastern Hospital Madrid,Hospital,ES,Madrid,C,60
+C0760,Oasis Pharmacy Madrid,Retail Pharmacy,ES,Madrid,C,90
+C0761,Sunshine Hospital Madrid,Hospital,ES,Madrid,A,30
+C0762,Northern Hospital Valencia,Hospital,ES,Valencia,A,90
+C0763,Sunrise Medical Distribution Barcelona,Distributor,ES,Barcelona,C,60
+C0764,Riverside Hospital Madrid,Hospital,ES,Madrid,A,60
+C0765,Oasis Hospital Madrid,Hospital,ES,Madrid,B,30
+C0766,Green Cross Hospital Barcelona,Hospital,ES,Barcelona,A,90
+C0767,Harmony Pharmacy Seville,Retail Pharmacy,ES,Seville,B,30
+C0768,Orchid Pharmacy Barcelona Branch 2,Retail Pharmacy,ES,Barcelona,C,90
+C0769,Metro Hospital Valencia Branch 2,Hospital,ES,Valencia,C,30
+C0770,Phoenix Hospital Madrid,Hospital,ES,Madrid,B,30
+C0771,Lotus Hospital Madrid Branch 2,Hospital,ES,Madrid,A,30
+C0772,Harmony Medical Distribution Madrid,Distributor,ES,Madrid,B,60
+C0773,Northern Pharmacy Valencia,Retail Pharmacy,ES,Valencia,C,60
+C0774,HealthFirst Pharmacy Madrid,Retail Pharmacy,ES,Madrid,C,60
+C0775,Sunrise Medical Distribution Seville,Distributor,ES,Seville,C,60
+C0776,Al Noor Pharmacy Valencia,Retail Pharmacy,ES,Valencia,B,60
+C0777,Nova Hospital Valencia Branch 2,Hospital,ES,Valencia,B,90
+C0778,Lotus Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,C,60
+C0779,HealthFirst Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,C,90
+C0780,Wellness Pharmacy Barcelona,Retail Pharmacy,ES,Barcelona,C,90
+C0781,Ministry of Health Tender (GB),Government Tender,GB,London,A,120
+C0782,Metro Hospital Birmingham,Hospital,GB,Birmingham,C,60
+C0783,CarePlus Pharmacy London,Retail Pharmacy,GB,London,C,30
+C0784,Cedar Hospital Leeds,Hospital,GB,Leeds,C,60
+C0785,Prime Pharmacy Leeds,Retail Pharmacy,GB,Leeds,C,60
+C0786,Emerald Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,C,60
+C0787,Silver Medical Distribution Manchester,Distributor,GB,Manchester,C,30
+C0788,Horizon Hospital Glasgow,Hospital,GB,Glasgow,C,90
+C0789,Crystal Hospital Leeds,Hospital,GB,Leeds,A,60
+C0790,Emerald Hospital Leeds,Hospital,GB,Leeds,A,30
+C0791,Sunshine Pharmacy Manchester,Retail Pharmacy,GB,Manchester,A,30
+C0792,Evergreen Pharmacy Leeds,Retail Pharmacy,GB,Leeds,A,60
+C0793,Sunrise Hospital London,Hospital,GB,London,C,30
+C0794,Summit Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,C,60
+C0795,Lotus Pharmacy Glasgow,Retail Pharmacy,GB,Glasgow,B,60
+C0796,Royal Medical Distribution Manchester,Distributor,GB,Manchester,C,90
+C0797,Horizon Pharmacy Manchester,Retail Pharmacy,GB,Manchester,C,30
+C0798,Oasis Pharmacy Leeds,Retail Pharmacy,GB,Leeds,C,60
+C0799,Northern Hospital Birmingham,Hospital,GB,Birmingham,C,30
+C0800,LifeLine Medical Distribution Glasgow,Distributor,GB,Glasgow,B,90
+C0801,Sunshine Hospital London,Hospital,GB,London,A,30
+C0802,Sapphire Pharmacy Manchester,Retail Pharmacy,GB,Manchester,C,30
+C0803,Nova Pharmacy Leeds,Retail Pharmacy,GB,Leeds,C,60
+C0804,Nova Hospital Manchester,Hospital,GB,Manchester,C,30
+C0805,Central Hospital Manchester,Hospital,GB,Manchester,B,90
+C0806,Blue Sky Medical Distribution London,Distributor,GB,London,A,90
+C0807,Unity Medical Distribution Leeds,Distributor,GB,Leeds,C,60
+C0808,Al Noor Pharmacy London,Retail Pharmacy,GB,London,B,90
+C0809,Delta Pharmacy London,Retail Pharmacy,GB,London,B,30
+C0810,Nova Hospital London,Hospital,GB,London,C,90
+C0811,Atlas Hospital Birmingham,Hospital,GB,Birmingham,B,30
+C0812,Delta Medical Distribution London,Distributor,GB,London,B,60
+C0813,Emerald Hospital Leeds Branch 2,Hospital,GB,Leeds,C,90
+C0814,Prime Hospital Birmingham,Hospital,GB,Birmingham,A,90
+C0815,Metro Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,C,30
+C0816,Harmony Pharmacy Leeds,Retail Pharmacy,GB,Leeds,C,30
+C0817,HealthFirst Medical Distribution London,Distributor,GB,London,A,30
+C0818,Summit Pharmacy Leeds,Retail Pharmacy,GB,Leeds,B,90
+C0819,Nova Pharmacy London,Retail Pharmacy,GB,London,B,30
+C0820,Delta Pharmacy London Branch 2,Retail Pharmacy,GB,London,B,90
+C0821,Royal Pharmacy London,Retail Pharmacy,GB,London,C,90
+C0822,Harmony Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,B,30
+C0823,Pioneer Hospital Manchester,Hospital,GB,Manchester,B,60
+C0824,Central Pharmacy London,Retail Pharmacy,GB,London,C,30
+C0825,LifeLine Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,A,60
+C0826,CarePlus Pharmacy London Branch 2,Retail Pharmacy,GB,London,A,30
+C0827,Evergreen Medical Distribution Manchester,Distributor,GB,Manchester,C,30
+C0828,Emerald Hospital London,Hospital,GB,London,C,60
+C0829,Unity Pharmacy Manchester,Retail Pharmacy,GB,Manchester,A,30
+C0830,Unity Medical Distribution Manchester,Distributor,GB,Manchester,C,60
+C0831,Summit Pharmacy London,Retail Pharmacy,GB,London,B,60
+C0832,Vital Hospital Manchester,Hospital,GB,Manchester,C,90
+C0833,Sunshine Medical Distribution Leeds,Distributor,GB,Leeds,C,60
+C0834,Sapphire Medical Distribution Leeds,Distributor,GB,Leeds,C,60
+C0835,Evergreen Pharmacy Leeds Branch 2,Retail Pharmacy,GB,Leeds,C,60
+C0836,Phoenix Pharmacy Glasgow,Retail Pharmacy,GB,Glasgow,C,90
+C0837,Vital Hospital Glasgow,Hospital,GB,Glasgow,C,30
+C0838,Evergreen Pharmacy Glasgow,Retail Pharmacy,GB,Glasgow,C,60
+C0839,Vital Pharmacy London,Retail Pharmacy,GB,London,C,60
+C0840,Crescent Hospital London,Hospital,GB,London,C,30
+C0841,Harmony Pharmacy London,Retail Pharmacy,GB,London,C,60
+C0842,Cedar Pharmacy Leeds,Retail Pharmacy,GB,Leeds,B,30
+C0843,Atlas Pharmacy Glasgow,Retail Pharmacy,GB,Glasgow,C,30
+C0844,HealthFirst Pharmacy London,Retail Pharmacy,GB,London,C,60
+C0845,Green Cross Hospital Manchester,Hospital,GB,Manchester,C,90
+C0846,Orchid Hospital Glasgow,Hospital,GB,Glasgow,C,60
+C0847,HealthFirst Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,C,90
+C0848,Star Medical Distribution London,Distributor,GB,London,B,60
+C0849,Northern Medical Distribution Glasgow,Distributor,GB,Glasgow,A,30
+C0850,Zenith Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,A,30
+C0851,Lotus Hospital Birmingham,Hospital,GB,Birmingham,C,60
+C0852,Prime Pharmacy Manchester,Retail Pharmacy,GB,Manchester,B,30
+C0853,Al Noor Pharmacy London Branch 2,Retail Pharmacy,GB,London,A,60
+C0854,Harmony Medical Distribution Birmingham,Distributor,GB,Birmingham,C,30
+C0855,LifeLine Pharmacy Birmingham Branch 2,Retail Pharmacy,GB,Birmingham,B,30
+C0856,Prime Pharmacy Manchester Branch 2,Retail Pharmacy,GB,Manchester,C,60
+C0857,Zenith Hospital Birmingham,Hospital,GB,Birmingham,A,60
+C0858,Prime Pharmacy Manchester Branch 3,Retail Pharmacy,GB,Manchester,C,60
+C0859,Atlas Hospital Manchester,Hospital,GB,Manchester,B,60
+C0860,Vital Pharmacy London Branch 2,Retail Pharmacy,GB,London,A,60
+C0861,Zenith Hospital London,Hospital,GB,London,C,60
+C0862,Riverside Medical Distribution Birmingham,Distributor,GB,Birmingham,C,60
+C0863,Delta Pharmacy London Branch 3,Retail Pharmacy,GB,London,B,30
+C0864,Golden Pharmacy Manchester,Retail Pharmacy,GB,Manchester,B,90
+C0865,Emerald Hospital Manchester,Hospital,GB,Manchester,A,60
+C0866,Al Noor Hospital London,Hospital,GB,London,C,30
+C0867,Atlas Pharmacy Birmingham,Retail Pharmacy,GB,Birmingham,C,60
+C0868,Royal Pharmacy Manchester,Retail Pharmacy,GB,Manchester,A,90
+C0869,Horizon Pharmacy Manchester Branch 2,Retail Pharmacy,GB,Manchester,C,30
+C0870,Delta Hospital Manchester,Hospital,GB,Manchester,C,60
+C0871,Ministry of Health Tender (CH),Government Tender,CH,Bern,A,120
+C0872,Central Pharmacy Basel,Retail Pharmacy,CH,Basel,C,90
+C0873,Delta Pharmacy Basel,Retail Pharmacy,CH,Basel,C,60
+C0874,Prime Medical Distribution Zurich,Distributor,CH,Zurich,C,30
+C0875,Oasis Pharmacy Zurich,Retail Pharmacy,CH,Zurich,A,90
+C0876,Metro Hospital Geneva,Hospital,CH,Geneva,B,60
+C0877,Oasis Medical Distribution Geneva,Distributor,CH,Geneva,C,60
+C0878,Oasis Medical Distribution Zurich,Distributor,CH,Zurich,B,30
+C0879,Central Hospital Bern,Hospital,CH,Bern,C,60
+C0880,Oasis Medical Distribution Bern,Distributor,CH,Bern,B,90
+C0881,Summit Hospital Bern,Hospital,CH,Bern,C,30
+C0882,Oasis Hospital Basel,Hospital,CH,Basel,C,60
+C0883,Green Cross Pharmacy Bern,Retail Pharmacy,CH,Bern,B,60
+C0884,Harmony Pharmacy Zurich,Retail Pharmacy,CH,Zurich,A,30
+C0885,Wellness Hospital Bern,Hospital,CH,Bern,C,30
+C0886,Metro Medical Distribution Bern,Distributor,CH,Bern,B,60
+C0887,MediCare Medical Distribution Basel,Distributor,CH,Basel,A,60
+C0888,Vital Medical Distribution Basel,Distributor,CH,Basel,A,30
+C0889,Prime Pharmacy Bern,Retail Pharmacy,CH,Bern,B,30
+C0890,Zenith Pharmacy Bern,Retail Pharmacy,CH,Bern,A,60
+C0891,Phoenix Medical Distribution Bern,Distributor,CH,Bern,C,30
+C0892,Prime Pharmacy Bern Branch 2,Retail Pharmacy,CH,Bern,A,30
+C0893,Cedar Hospital Zurich,Hospital,CH,Zurich,B,60
+C0894,Unity Pharmacy Bern,Retail Pharmacy,CH,Bern,A,30
+C0895,Blue Sky Medical Distribution Zurich,Distributor,CH,Zurich,C,60
+C0896,Crystal Pharmacy Bern,Retail Pharmacy,CH,Bern,B,30
+C0897,Vital Pharmacy Bern,Retail Pharmacy,CH,Bern,A,60
+C0898,Atlas Medical Distribution Bern,Distributor,CH,Bern,B,60
+C0899,LifeLine Pharmacy Bern,Retail Pharmacy,CH,Bern,A,60
+C0900,Royal Pharmacy Bern,Retail Pharmacy,CH,Bern,C,30
+C0901,Silver Hospital Zurich,Hospital,CH,Zurich,B,30
+C0902,Harmony Pharmacy Geneva,Retail Pharmacy,CH,Geneva,A,30
+C0903,Harmony Hospital Basel,Hospital,CH,Basel,C,60
+C0904,Northern Medical Distribution Zurich,Distributor,CH,Zurich,C,30
+C0905,HealthFirst Hospital Geneva,Hospital,CH,Geneva,B,30
+C0906,Horizon Pharmacy Basel,Retail Pharmacy,CH,Basel,C,60
+C0907,Orchid Pharmacy Geneva,Retail Pharmacy,CH,Geneva,B,30
+C0908,Central Pharmacy Bern,Retail Pharmacy,CH,Bern,B,60
+C0909,Metro Hospital Basel,Hospital,CH,Basel,B,90
+C0910,Oasis Pharmacy Basel,Retail Pharmacy,CH,Basel,C,30
+C0911,Ministry of Health Tender (EG),Government Tender,EG,Cairo,A,120
+C0912,CarePlus Medical Distribution Port Said,Distributor,EG,Port Said,A,60
+C0913,Vital Hospital Cairo,Hospital,EG,Cairo,B,60
+C0914,MediCare Pharmacy Ismailia,Retail Pharmacy,EG,Ismailia,C,60
+C0915,Nova Pharmacy Cairo,Retail Pharmacy,EG,Cairo,B,60
+C0916,Northern Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,B,30
+C0917,Blue Sky Pharmacy Assiut,Retail Pharmacy,EG,Assiut,C,90
+C0918,Royal Hospital Mansoura,Hospital,EG,Mansoura,A,30
+C0919,Green Cross Medical Distribution Assiut,Distributor,EG,Assiut,A,30
+C0920,Prime Hospital Alexandria,Hospital,EG,Alexandria,C,90
+C0921,Emerald Hospital Alexandria,Hospital,EG,Alexandria,C,30
+C0922,Eastern Pharmacy Ismailia,Retail Pharmacy,EG,Ismailia,C,90
+C0923,Vital Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,C,60
+C0924,Lotus Hospital Giza,Hospital,EG,Giza,C,90
+C0925,Harmony Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,C,60
+C0926,Pioneer Pharmacy Ismailia,Retail Pharmacy,EG,Ismailia,A,60
+C0927,Crystal Hospital Giza,Hospital,EG,Giza,C,60
+C0928,Prime Pharmacy Tanta,Retail Pharmacy,EG,Tanta,C,30
+C0929,Delta Medical Distribution Giza,Distributor,EG,Giza,C,60
+C0930,LifeLine Hospital Alexandria,Hospital,EG,Alexandria,B,60
+C0931,Sunrise Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,C,60
+C0932,Evergreen Pharmacy Giza,Retail Pharmacy,EG,Giza,B,60
+C0933,Oasis Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,C,30
+C0934,Orchid Pharmacy Giza,Retail Pharmacy,EG,Giza,B,90
+C0935,Delta Hospital Giza,Hospital,EG,Giza,B,30
+C0936,Silver Hospital Giza,Hospital,EG,Giza,C,60
+C0937,Blue Sky Pharmacy Zagazig,Retail Pharmacy,EG,Zagazig,C,60
+C0938,Northern Medical Distribution Mansoura,Distributor,EG,Mansoura,C,60
+C0939,Orchid Hospital Cairo,Hospital,EG,Cairo,B,90
+C0940,Central Pharmacy Port Said,Retail Pharmacy,EG,Port Said,A,60
+C0941,Prime Hospital Cairo,Hospital,EG,Cairo,C,90
+C0942,Northern Hospital Alexandria,Hospital,EG,Alexandria,C,30
+C0943,Horizon Pharmacy Cairo,Retail Pharmacy,EG,Cairo,C,30
+C0944,Central Hospital Mansoura,Hospital,EG,Mansoura,A,30
+C0945,MediCare Pharmacy Giza,Retail Pharmacy,EG,Giza,C,30
+C0946,Phoenix Pharmacy Giza,Retail Pharmacy,EG,Giza,A,60
+C0947,Phoenix Medical Distribution Cairo,Distributor,EG,Cairo,C,30
+C0948,Evergreen Pharmacy Cairo,Retail Pharmacy,EG,Cairo,B,90
+C0949,Royal Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,C,30
+C0950,Blue Sky Pharmacy Zagazig Branch 2,Retail Pharmacy,EG,Zagazig,C,30
+C0951,CarePlus Pharmacy Cairo,Retail Pharmacy,EG,Cairo,C,60
+C0952,Crystal Hospital Tanta,Hospital,EG,Tanta,B,60
+C0953,Wellness Pharmacy Assiut,Retail Pharmacy,EG,Assiut,C,30
+C0954,Harmony Medical Distribution Cairo,Distributor,EG,Cairo,A,30
+C0955,Atlas Medical Distribution Mansoura,Distributor,EG,Mansoura,A,30
+C0956,Northern Medical Distribution Giza,Distributor,EG,Giza,C,90
+C0957,Star Medical Distribution Alexandria,Distributor,EG,Alexandria,C,60
+C0958,Phoenix Medical Distribution Giza,Distributor,EG,Giza,C,90
+C0959,LifeLine Medical Distribution Giza,Distributor,EG,Giza,C,30
+C0960,Northern Pharmacy Cairo,Retail Pharmacy,EG,Cairo,B,60
+C0961,Sunshine Pharmacy Cairo,Retail Pharmacy,EG,Cairo,C,30
+C0962,Central Pharmacy Ismailia,Retail Pharmacy,EG,Ismailia,B,90
+C0963,Central Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,A,30
+C0964,Pioneer Medical Distribution Mansoura,Distributor,EG,Mansoura,B,60
+C0965,Pioneer Hospital Mansoura,Hospital,EG,Mansoura,B,60
+C0966,CarePlus Pharmacy Zagazig,Retail Pharmacy,EG,Zagazig,A,60
+C0967,Al Noor Medical Distribution Alexandria,Distributor,EG,Alexandria,C,60
+C0968,LifeLine Pharmacy Port Said,Retail Pharmacy,EG,Port Said,A,60
+C0969,HealthFirst Hospital Ismailia,Hospital,EG,Ismailia,C,30
+C0970,Sunrise Hospital Port Said,Hospital,EG,Port Said,A,30
+C0971,Emerald Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,C,90
+C0972,Silver Pharmacy Ismailia,Retail Pharmacy,EG,Ismailia,A,60
+C0973,Northern Pharmacy Port Said,Retail Pharmacy,EG,Port Said,A,30
+C0974,Riverside Medical Distribution Giza,Distributor,EG,Giza,A,60
+C0975,Prime Hospital Cairo Branch 2,Hospital,EG,Cairo,C,60
+C0976,Golden Hospital Ismailia,Hospital,EG,Ismailia,A,30
+C0977,Wellness Pharmacy Tanta,Retail Pharmacy,EG,Tanta,C,60
+C0978,Zenith Pharmacy Zagazig,Retail Pharmacy,EG,Zagazig,C,30
+C0979,Evergreen Hospital Mansoura,Hospital,EG,Mansoura,C,60
+C0980,LifeLine Pharmacy Cairo,Retail Pharmacy,EG,Cairo,A,60
+C0981,Sapphire Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,C,30
+C0982,Golden Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,A,90
+C0983,Vital Hospital Cairo Branch 2,Hospital,EG,Cairo,B,30
+C0984,Delta Medical Distribution Giza Branch 2,Distributor,EG,Giza,B,30
+C0985,Central Hospital Assiut,Hospital,EG,Assiut,B,60
+C0986,Sunrise Hospital Mansoura,Hospital,EG,Mansoura,B,30
+C0987,Cedar Pharmacy Assiut,Retail Pharmacy,EG,Assiut,C,60
+C0988,Sapphire Pharmacy Assiut,Retail Pharmacy,EG,Assiut,B,60
+C0989,Harmony Pharmacy Ismailia,Retail Pharmacy,EG,Ismailia,C,30
+C0990,Vital Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,A,30
+C0991,CarePlus Hospital Assiut,Hospital,EG,Assiut,A,30
+C0992,Silver Pharmacy Giza,Retail Pharmacy,EG,Giza,C,30
+C0993,Metro Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,A,30
+C0994,Eastern Pharmacy Cairo,Retail Pharmacy,EG,Cairo,C,90
+C0995,Lotus Hospital Alexandria,Hospital,EG,Alexandria,C,90
+C0996,Atlas Pharmacy Cairo,Retail Pharmacy,EG,Cairo,A,30
+C0997,Lotus Medical Distribution Ismailia,Distributor,EG,Ismailia,A,60
+C0998,Star Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,A,90
+C0999,Phoenix Hospital Zagazig,Hospital,EG,Zagazig,C,60
+C1000,Orchid Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,A,90
+C1001,Sapphire Pharmacy Giza,Retail Pharmacy,EG,Giza,B,90
+C1002,Sapphire Pharmacy Cairo,Retail Pharmacy,EG,Cairo,C,90
+C1003,Royal Medical Distribution Cairo,Distributor,EG,Cairo,B,60
+C1004,Horizon Pharmacy Cairo Branch 2,Retail Pharmacy,EG,Cairo,C,30
+C1005,Orchid Medical Distribution Port Said,Distributor,EG,Port Said,B,60
+C1006,Nova Pharmacy Assiut,Retail Pharmacy,EG,Assiut,B,60
+C1007,Sunshine Pharmacy Cairo Branch 2,Retail Pharmacy,EG,Cairo,C,60
+C1008,CarePlus Medical Distribution Port Said Branch 2,Distributor,EG,Port Said,B,30
+C1009,Horizon Pharmacy Giza,Retail Pharmacy,EG,Giza,C,60
+C1010,MediCare Pharmacy Cairo,Retail Pharmacy,EG,Cairo,B,30
+C1011,Emerald Pharmacy Giza,Retail Pharmacy,EG,Giza,A,60
+C1012,LifeLine Hospital Alexandria Branch 2,Hospital,EG,Alexandria,C,30
+C1013,Delta Pharmacy Cairo,Retail Pharmacy,EG,Cairo,B,30
+C1014,CarePlus Pharmacy Assiut,Retail Pharmacy,EG,Assiut,B,60
+C1015,Unity Hospital Port Said,Hospital,EG,Port Said,C,60
+C1016,Crystal Pharmacy Tanta,Retail Pharmacy,EG,Tanta,C,30
+C1017,Phoenix Pharmacy Tanta,Retail Pharmacy,EG,Tanta,C,30
+C1018,Vital Medical Distribution Tanta,Distributor,EG,Tanta,B,30
+C1019,Prime Medical Distribution Cairo,Distributor,EG,Cairo,B,30
+C1020,Crescent Medical Distribution Alexandria,Distributor,EG,Alexandria,C,30
+C1021,Harmony Hospital Cairo,Hospital,EG,Cairo,A,60
+C1022,Sunshine Hospital Alexandria,Hospital,EG,Alexandria,C,30
+C1023,MediCare Medical Distribution Tanta,Distributor,EG,Tanta,B,30
+C1024,Phoenix Pharmacy Port Said,Retail Pharmacy,EG,Port Said,C,30
+C1025,Orchid Hospital Mansoura,Hospital,EG,Mansoura,B,90
+C1026,Golden Pharmacy Cairo,Retail Pharmacy,EG,Cairo,A,90
+C1027,Wellness Pharmacy Cairo,Retail Pharmacy,EG,Cairo,A,60
+C1028,CarePlus Medical Distribution Assiut,Distributor,EG,Assiut,C,60
+C1029,Crystal Medical Distribution Giza,Distributor,EG,Giza,C,90
+C1030,Eastern Pharmacy Cairo Branch 2,Retail Pharmacy,EG,Cairo,B,30
+C1031,CarePlus Pharmacy Zagazig Branch 2,Retail Pharmacy,EG,Zagazig,A,30
+C1032,Atlas Hospital Giza,Hospital,EG,Giza,C,60
+C1033,Central Pharmacy Tanta,Retail Pharmacy,EG,Tanta,C,30
+C1034,Royal Medical Distribution Cairo Branch 2,Distributor,EG,Cairo,B,60
+C1035,Sunshine Pharmacy Giza,Retail Pharmacy,EG,Giza,B,30
+C1036,Silver Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,B,90
+C1037,Delta Medical Distribution Tanta,Distributor,EG,Tanta,A,60
+C1038,Evergreen Pharmacy Port Said,Retail Pharmacy,EG,Port Said,B,30
+C1039,Metro Pharmacy Giza,Retail Pharmacy,EG,Giza,B,60
+C1040,Green Cross Pharmacy Cairo,Retail Pharmacy,EG,Cairo,A,30
+C1041,Zenith Pharmacy Cairo,Retail Pharmacy,EG,Cairo,B,30
+C1042,Zenith Medical Distribution Alexandria,Distributor,EG,Alexandria,B,30
+C1043,Central Medical Distribution Giza,Distributor,EG,Giza,C,30
+C1044,LifeLine Pharmacy Cairo Branch 2,Retail Pharmacy,EG,Cairo,C,30
+C1045,Sunshine Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,C,90
+C1046,Golden Pharmacy Giza,Retail Pharmacy,EG,Giza,B,90
+C1047,Sapphire Medical Distribution Alexandria,Distributor,EG,Alexandria,B,30
+C1048,Sunshine Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,C,30
+C1049,Star Pharmacy Cairo,Retail Pharmacy,EG,Cairo,A,90
+C1050,Atlas Pharmacy Zagazig,Retail Pharmacy,EG,Zagazig,C,90
+C1051,MediCare Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,B,90
+C1052,CarePlus Pharmacy Assiut Branch 2,Retail Pharmacy,EG,Assiut,C,90
+C1053,Summit Hospital Giza,Hospital,EG,Giza,B,60
+C1054,Evergreen Hospital Mansoura Branch 2,Hospital,EG,Mansoura,B,30
+C1055,Crystal Pharmacy Alexandria,Retail Pharmacy,EG,Alexandria,B,30
+C1056,Green Cross Pharmacy Giza,Retail Pharmacy,EG,Giza,C,30
+C1057,Atlas Medical Distribution Mansoura Branch 2,Distributor,EG,Mansoura,C,30
+C1058,Green Cross Hospital Alexandria,Hospital,EG,Alexandria,A,60
+C1059,Delta Pharmacy Mansoura,Retail Pharmacy,EG,Mansoura,C,30
+C1060,Harmony Medical Distribution Alexandria,Distributor,EG,Alexandria,C,60
+C1061,Ministry of Health Tender (SA),Government Tender,SA,Riyadh,A,120
+C1062,Harmony Medical Distribution Riyadh,Distributor,SA,Riyadh,B,30
+C1063,MediCare Hospital Medina,Hospital,SA,Medina,A,30
+C1064,Zenith Pharmacy Dammam,Retail Pharmacy,SA,Dammam,B,60
+C1065,Summit Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,B,60
+C1066,Sunrise Pharmacy Mecca,Retail Pharmacy,SA,Mecca,A,60
+C1067,HealthFirst Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,C,60
+C1068,Central Pharmacy Medina,Retail Pharmacy,SA,Medina,C,60
+C1069,Wellness Medical Distribution Jeddah,Distributor,SA,Jeddah,B,30
+C1070,Delta Hospital Dammam,Hospital,SA,Dammam,B,60
+C1071,Silver Pharmacy Dammam,Retail Pharmacy,SA,Dammam,B,30
+C1072,Al Noor Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,A,30
+C1073,Orchid Pharmacy Dammam,Retail Pharmacy,SA,Dammam,C,60
+C1074,Crystal Medical Distribution Medina,Distributor,SA,Medina,B,60
+C1075,Blue Sky Hospital Riyadh,Hospital,SA,Riyadh,A,30
+C1076,Evergreen Pharmacy Medina,Retail Pharmacy,SA,Medina,A,30
+C1077,Phoenix Medical Distribution Jeddah,Distributor,SA,Jeddah,B,30
+C1078,MediCare Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,C,60
+C1079,Blue Sky Hospital Jeddah,Hospital,SA,Jeddah,C,60
+C1080,Golden Hospital Dammam,Hospital,SA,Dammam,C,60
+C1081,Vital Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,C,60
+C1082,Delta Pharmacy Dammam,Retail Pharmacy,SA,Dammam,C,60
+C1083,Wellness Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,B,60
+C1084,Metro Hospital Medina,Hospital,SA,Medina,B,60
+C1085,Zenith Pharmacy Mecca,Retail Pharmacy,SA,Mecca,A,30
+C1086,Wellness Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,C,60
+C1087,Harmony Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,B,30
+C1088,Nova Pharmacy Dammam,Retail Pharmacy,SA,Dammam,C,30
+C1089,Lotus Medical Distribution Mecca,Distributor,SA,Mecca,A,90
+C1090,Prime Hospital Jeddah,Hospital,SA,Jeddah,A,30
+C1091,Star Medical Distribution Jeddah,Distributor,SA,Jeddah,C,60
+C1092,Harmony Pharmacy Riyadh Branch 2,Retail Pharmacy,SA,Riyadh,B,60
+C1093,Oasis Pharmacy Dammam,Retail Pharmacy,SA,Dammam,C,60
+C1094,Summit Hospital Jeddah,Hospital,SA,Jeddah,B,60
+C1095,Sapphire Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,C,60
+C1096,Prime Medical Distribution Jeddah,Distributor,SA,Jeddah,C,30
+C1097,Silver Pharmacy Dammam Branch 2,Retail Pharmacy,SA,Dammam,B,30
+C1098,Crystal Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,C,60
+C1099,Emerald Hospital Riyadh,Hospital,SA,Riyadh,C,60
+C1100,Riverside Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,C,60
+C1101,Delta Medical Distribution Dammam,Distributor,SA,Dammam,C,30
+C1102,Horizon Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,B,90
+C1103,Cedar Medical Distribution Riyadh,Distributor,SA,Riyadh,C,90
+C1104,CarePlus Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,A,30
+C1105,Metro Pharmacy Medina,Retail Pharmacy,SA,Medina,B,60
+C1106,Atlas Pharmacy Dammam,Retail Pharmacy,SA,Dammam,C,60
+C1107,Evergreen Pharmacy Mecca,Retail Pharmacy,SA,Mecca,A,30
+C1108,Silver Hospital Dammam,Hospital,SA,Dammam,A,90
+C1109,Silver Hospital Riyadh,Hospital,SA,Riyadh,C,90
+C1110,Crystal Hospital Dammam,Hospital,SA,Dammam,C,60
+C1111,Emerald Hospital Riyadh Branch 2,Hospital,SA,Riyadh,C,30
+C1112,Summit Medical Distribution Riyadh,Distributor,SA,Riyadh,B,30
+C1113,Vital Pharmacy Dammam,Retail Pharmacy,SA,Dammam,B,30
+C1114,Royal Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,B,30
+C1115,Phoenix Hospital Riyadh,Hospital,SA,Riyadh,A,30
+C1116,Silver Hospital Medina,Hospital,SA,Medina,B,60
+C1117,Lotus Medical Distribution Riyadh,Distributor,SA,Riyadh,C,30
+C1118,Central Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,B,30
+C1119,Crescent Pharmacy Dammam,Retail Pharmacy,SA,Dammam,A,30
+C1120,Central Hospital Mecca,Hospital,SA,Mecca,B,60
+C1121,Eastern Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,B,60
+C1122,Blue Sky Hospital Riyadh Branch 2,Hospital,SA,Riyadh,C,30
+C1123,Orchid Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,C,60
+C1124,MediCare Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,C,30
+C1125,Green Cross Pharmacy Dammam,Retail Pharmacy,SA,Dammam,C,60
+C1126,Star Pharmacy Dammam,Retail Pharmacy,SA,Dammam,C,90
+C1127,Lotus Hospital Medina,Hospital,SA,Medina,C,60
+C1128,Silver Hospital Riyadh Branch 2,Hospital,SA,Riyadh,A,30
+C1129,LifeLine Pharmacy Mecca,Retail Pharmacy,SA,Mecca,C,30
+C1130,Delta Pharmacy Medina,Retail Pharmacy,SA,Medina,C,60
+C1131,Metro Pharmacy Riyadh,Retail Pharmacy,SA,Riyadh,B,30
+C1132,Lotus Pharmacy Medina,Retail Pharmacy,SA,Medina,C,30
+C1133,Riverside Pharmacy Medina,Retail Pharmacy,SA,Medina,C,30
+C1134,Pioneer Pharmacy Mecca,Retail Pharmacy,SA,Mecca,C,60
+C1135,Phoenix Pharmacy Dammam,Retail Pharmacy,SA,Dammam,A,30
+C1136,Royal Medical Distribution Riyadh,Distributor,SA,Riyadh,C,60
+C1137,Summit Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,B,30
+C1138,Delta Hospital Jeddah,Hospital,SA,Jeddah,C,30
+C1139,Horizon Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,C,30
+C1140,Atlas Pharmacy Dammam Branch 2,Retail Pharmacy,SA,Dammam,A,90
+C1141,Crystal Hospital Jeddah,Hospital,SA,Jeddah,C,30
+C1142,Pioneer Hospital Jeddah,Hospital,SA,Jeddah,B,30
+C1143,Al Noor Hospital Medina,Hospital,SA,Medina,C,90
+C1144,Zenith Hospital Mecca,Hospital,SA,Mecca,B,30
+C1145,Crescent Medical Distribution Dammam,Distributor,SA,Dammam,A,30
+C1146,Blue Sky Medical Distribution Jeddah,Distributor,SA,Jeddah,A,60
+C1147,Unity Medical Distribution Mecca,Distributor,SA,Mecca,C,60
+C1148,Horizon Pharmacy Mecca,Retail Pharmacy,SA,Mecca,C,60
+C1149,Harmony Pharmacy Riyadh Branch 3,Retail Pharmacy,SA,Riyadh,C,30
+C1150,Phoenix Pharmacy Jeddah,Retail Pharmacy,SA,Jeddah,C,90
+C1151,Ministry of Health Tender (AE),Government Tender,AE,Abu Dhabi,A,120
+C1152,Orchid Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,B,90
+C1153,Crescent Pharmacy Dubai,Retail Pharmacy,AE,Dubai,A,30
+C1154,Sunrise Hospital Al Ain,Hospital,AE,Al Ain,B,90
+C1155,Phoenix Medical Distribution Abu Dhabi,Distributor,AE,Abu Dhabi,C,60
+C1156,Green Cross Pharmacy Al Ain,Retail Pharmacy,AE,Al Ain,A,60
+C1157,Orchid Pharmacy Abu Dhabi Branch 2,Retail Pharmacy,AE,Abu Dhabi,A,30
+C1158,Unity Pharmacy Dubai,Retail Pharmacy,AE,Dubai,C,90
+C1159,Lotus Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,60
+C1160,Summit Hospital Abu Dhabi,Hospital,AE,Abu Dhabi,B,60
+C1161,Horizon Medical Distribution Dubai,Distributor,AE,Dubai,A,30
+C1162,Emerald Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,60
+C1163,Al Noor Pharmacy Sharjah,Retail Pharmacy,AE,Sharjah,A,60
+C1164,Atlas Medical Distribution Abu Dhabi,Distributor,AE,Abu Dhabi,C,90
+C1165,Al Noor Hospital Dubai,Hospital,AE,Dubai,C,30
+C1166,Horizon Medical Distribution Sharjah,Distributor,AE,Sharjah,B,30
+C1167,Eastern Hospital Sharjah,Hospital,AE,Sharjah,B,30
+C1168,Cedar Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,A,30
+C1169,Royal Pharmacy Al Ain,Retail Pharmacy,AE,Al Ain,A,60
+C1170,MediCare Medical Distribution Abu Dhabi,Distributor,AE,Abu Dhabi,B,60
+C1171,Central Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,B,30
+C1172,Sunshine Hospital Abu Dhabi,Hospital,AE,Abu Dhabi,A,60
+C1173,Unity Pharmacy Dubai Branch 2,Retail Pharmacy,AE,Dubai,A,30
+C1174,Al Noor Medical Distribution Abu Dhabi,Distributor,AE,Abu Dhabi,B,60
+C1175,Central Hospital Sharjah,Hospital,AE,Sharjah,A,30
+C1176,Harmony Hospital Dubai,Hospital,AE,Dubai,B,30
+C1177,Prime Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,60
+C1178,Zenith Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,B,30
+C1179,HealthFirst Medical Distribution Abu Dhabi,Distributor,AE,Abu Dhabi,C,90
+C1180,Wellness Pharmacy Dubai,Retail Pharmacy,AE,Dubai,A,60
+C1181,Golden Pharmacy Dubai,Retail Pharmacy,AE,Dubai,C,30
+C1182,Riverside Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,60
+C1183,Sunshine Medical Distribution Al Ain,Distributor,AE,Al Ain,C,90
+C1184,Central Hospital Abu Dhabi,Hospital,AE,Abu Dhabi,C,30
+C1185,Sapphire Medical Distribution Sharjah,Distributor,AE,Sharjah,B,90
+C1186,LifeLine Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,60
+C1187,Horizon Hospital Abu Dhabi,Hospital,AE,Abu Dhabi,B,60
+C1188,Northern Hospital Al Ain,Hospital,AE,Al Ain,C,90
+C1189,MediCare Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,A,60
+C1190,Oasis Hospital Dubai,Hospital,AE,Dubai,A,60
+C1191,Atlas Pharmacy Al Ain,Retail Pharmacy,AE,Al Ain,A,30
+C1192,Eastern Pharmacy Dubai,Retail Pharmacy,AE,Dubai,C,30
+C1193,Atlas Pharmacy Dubai,Retail Pharmacy,AE,Dubai,C,60
+C1194,LifeLine Pharmacy Abu Dhabi Branch 2,Retail Pharmacy,AE,Abu Dhabi,C,30
+C1195,Silver Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,90
+C1196,Sapphire Pharmacy Dubai,Retail Pharmacy,AE,Dubai,C,30
+C1197,MediCare Pharmacy Abu Dhabi Branch 2,Retail Pharmacy,AE,Abu Dhabi,C,60
+C1198,Summit Medical Distribution Sharjah,Distributor,AE,Sharjah,B,30
+C1199,Star Hospital Al Ain,Hospital,AE,Al Ain,B,30
+C1200,Prime Hospital Sharjah,Hospital,AE,Sharjah,B,90
+C1201,Orchid Hospital Sharjah,Hospital,AE,Sharjah,C,90
+C1202,Atlas Hospital Al Ain,Hospital,AE,Al Ain,B,90
+C1203,Pioneer Pharmacy Sharjah,Retail Pharmacy,AE,Sharjah,A,90
+C1204,Summit Medical Distribution Al Ain,Distributor,AE,Al Ain,C,90
+C1205,Golden Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,30
+C1206,Delta Hospital Dubai,Hospital,AE,Dubai,B,60
+C1207,Zenith Medical Distribution Abu Dhabi,Distributor,AE,Abu Dhabi,B,60
+C1208,Harmony Pharmacy Sharjah,Retail Pharmacy,AE,Sharjah,C,30
+C1209,Summit Pharmacy Abu Dhabi,Retail Pharmacy,AE,Abu Dhabi,C,60
+C1210,Al Noor Medical Distribution Dubai,Distributor,AE,Dubai,B,60
+C1211,Ministry of Health Tender (KW),Government Tender,KW,Kuwait City,A,120
+C1212,Blue Sky Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,C,30
+C1213,Emerald Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,A,60
+C1214,Nova Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,A,30
+C1215,Horizon Pharmacy Farwaniya,Retail Pharmacy,KW,Farwaniya,B,30
+C1216,MediCare Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,A,90
+C1217,Crystal Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,B,60
+C1218,Nova Medical Distribution Kuwait City,Distributor,KW,Kuwait City,C,90
+C1219,Prime Medical Distribution Farwaniya,Distributor,KW,Farwaniya,B,60
+C1220,Emerald Pharmacy Hawalli Branch 2,Retail Pharmacy,KW,Hawalli,C,30
+C1221,Sunrise Pharmacy Farwaniya,Retail Pharmacy,KW,Farwaniya,A,30
+C1222,Northern Medical Distribution Farwaniya,Distributor,KW,Farwaniya,C,90
+C1223,Pioneer Medical Distribution Kuwait City,Distributor,KW,Kuwait City,C,60
+C1224,Cedar Hospital Kuwait City,Hospital,KW,Kuwait City,C,30
+C1225,Metro Hospital Farwaniya,Hospital,KW,Farwaniya,C,30
+C1226,Metro Hospital Kuwait City,Hospital,KW,Kuwait City,A,30
+C1227,Lotus Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,C,30
+C1228,HealthFirst Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,C,30
+C1229,Central Pharmacy Farwaniya,Retail Pharmacy,KW,Farwaniya,A,30
+C1230,Zenith Hospital Kuwait City,Hospital,KW,Kuwait City,C,30
+C1231,Northern Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,C,90
+C1232,Cedar Pharmacy Farwaniya,Retail Pharmacy,KW,Farwaniya,B,60
+C1233,Riverside Hospital Kuwait City,Hospital,KW,Kuwait City,B,90
+C1234,Summit Medical Distribution Kuwait City,Distributor,KW,Kuwait City,B,30
+C1235,Silver Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,A,60
+C1236,Delta Pharmacy Farwaniya,Retail Pharmacy,KW,Farwaniya,A,60
+C1237,Blue Sky Hospital Farwaniya,Hospital,KW,Farwaniya,C,60
+C1238,Horizon Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,C,30
+C1239,Emerald Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,B,30
+C1240,Phoenix Hospital Kuwait City,Hospital,KW,Kuwait City,B,90
+C1241,Prime Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,C,30
+C1242,Eastern Hospital Farwaniya,Hospital,KW,Farwaniya,B,90
+C1243,Crescent Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,B,30
+C1244,Emerald Hospital Farwaniya,Hospital,KW,Farwaniya,C,60
+C1245,Green Cross Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,C,60
+C1246,Eastern Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,A,30
+C1247,Star Hospital Kuwait City,Hospital,KW,Kuwait City,B,30
+C1248,Riverside Pharmacy Hawalli,Retail Pharmacy,KW,Hawalli,C,30
+C1249,Central Pharmacy Kuwait City,Retail Pharmacy,KW,Kuwait City,B,60
+C1250,Northern Pharmacy Kuwait City Branch 2,Retail Pharmacy,KW,Kuwait City,C,30
+C1251,Ministry of Health Tender (MA),Government Tender,MA,Rabat,A,120
+C1252,Atlas Hospital Rabat,Hospital,MA,Rabat,B,30
+C1253,Sunshine Hospital Tangier,Hospital,MA,Tangier,C,60
+C1254,Sapphire Pharmacy Marrakesh,Retail Pharmacy,MA,Marrakesh,C,60
+C1255,Lotus Hospital Tangier,Hospital,MA,Tangier,B,60
+C1256,Emerald Pharmacy Marrakesh,Retail Pharmacy,MA,Marrakesh,C,30
+C1257,LifeLine Hospital Marrakesh,Hospital,MA,Marrakesh,C,60
+C1258,Crystal Pharmacy Marrakesh,Retail Pharmacy,MA,Marrakesh,A,90
+C1259,Oasis Hospital Tangier,Hospital,MA,Tangier,C,30
+C1260,Star Pharmacy Marrakesh,Retail Pharmacy,MA,Marrakesh,A,60
+C1261,Vital Hospital Rabat,Hospital,MA,Rabat,C,30
+C1262,Eastern Medical Distribution Casablanca,Distributor,MA,Casablanca,A,60
+C1263,Emerald Hospital Rabat,Hospital,MA,Rabat,C,30
+C1264,Emerald Hospital Marrakesh,Hospital,MA,Marrakesh,A,30
+C1265,MediCare Pharmacy Casablanca,Retail Pharmacy,MA,Casablanca,B,30
+C1266,Delta Hospital Rabat,Hospital,MA,Rabat,C,30
+C1267,Harmony Pharmacy Marrakesh,Retail Pharmacy,MA,Marrakesh,C,60
+C1268,HealthFirst Hospital Casablanca,Hospital,MA,Casablanca,C,30
+C1269,Summit Pharmacy Casablanca,Retail Pharmacy,MA,Casablanca,C,60
+C1270,Cedar Pharmacy Marrakesh,Retail Pharmacy,MA,Marrakesh,B,90
+C1271,Star Pharmacy Fes,Retail Pharmacy,MA,Fes,C,60
+C1272,Prime Hospital Rabat,Hospital,MA,Rabat,B,60
+C1273,Prime Medical Distribution Rabat,Distributor,MA,Rabat,C,90
+C1274,Zenith Medical Distribution Marrakesh,Distributor,MA,Marrakesh,C,60
+C1275,Cedar Pharmacy Tangier,Retail Pharmacy,MA,Tangier,C,60
+C1276,Delta Medical Distribution Casablanca,Distributor,MA,Casablanca,A,60
+C1277,Cedar Pharmacy Casablanca,Retail Pharmacy,MA,Casablanca,A,30
+C1278,Harmony Medical Distribution Fes,Distributor,MA,Fes,A,60
+C1279,Oasis Hospital Fes,Hospital,MA,Fes,B,30
+C1280,Sapphire Medical Distribution Tangier,Distributor,MA,Tangier,C,30
+C1281,Green Cross Hospital Rabat,Hospital,MA,Rabat,C,60
+C1282,LifeLine Medical Distribution Tangier,Distributor,MA,Tangier,C,60
+C1283,Green Cross Medical Distribution Casablanca,Distributor,MA,Casablanca,C,30
+C1284,Crescent Medical Distribution Rabat,Distributor,MA,Rabat,A,30
+C1285,Crystal Pharmacy Fes,Retail Pharmacy,MA,Fes,A,90
+C1286,MediCare Medical Distribution Fes,Distributor,MA,Fes,B,90
+C1287,Orchid Pharmacy Rabat,Retail Pharmacy,MA,Rabat,C,60
+C1288,Evergreen Pharmacy Tangier,Retail Pharmacy,MA,Tangier,C,60
+C1289,Eastern Pharmacy Tangier,Retail Pharmacy,MA,Tangier,C,60
+C1290,Cedar Medical Distribution Fes,Distributor,MA,Fes,A,30
+C1291,Zenith Medical Distribution Tangier,Distributor,MA,Tangier,C,30
+C1292,Atlas Hospital Casablanca,Hospital,MA,Casablanca,A,60
+C1293,MediCare Pharmacy Rabat,Retail Pharmacy,MA,Rabat,B,30
+C1294,Atlas Medical Distribution Rabat,Distributor,MA,Rabat,C,60
+C1295,CarePlus Pharmacy Casablanca,Retail Pharmacy,MA,Casablanca,C,30
+C1296,Royal Medical Distribution Fes,Distributor,MA,Fes,B,60
+C1297,Riverside Pharmacy Rabat,Retail Pharmacy,MA,Rabat,C,60
+C1298,Nova Pharmacy Marrakesh,Retail Pharmacy,MA,Marrakesh,C,60
+C1299,Crystal Pharmacy Fes Branch 2,Retail Pharmacy,MA,Fes,C,90
+C1300,Crystal Medical Distribution Fes,Distributor,MA,Fes,C,60
+C1301,Ministry of Health Tender (ZA),Government Tender,ZA,Pretoria,A,120
+C1302,Blue Sky Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,C,60
+C1303,Delta Medical Distribution Johannesburg,Distributor,ZA,Johannesburg,B,60
+C1304,Orchid Hospital Johannesburg,Hospital,ZA,Johannesburg,C,60
+C1305,MediCare Hospital Cape Town,Hospital,ZA,Cape Town,A,60
+C1306,Wellness Pharmacy Johannesburg,Retail Pharmacy,ZA,Johannesburg,C,60
+C1307,Summit Hospital Johannesburg,Hospital,ZA,Johannesburg,B,30
+C1308,Lotus Hospital Johannesburg,Hospital,ZA,Johannesburg,C,60
+C1309,Evergreen Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,C,30
+C1310,Royal Hospital Johannesburg,Hospital,ZA,Johannesburg,C,30
+C1311,Emerald Hospital Pretoria,Hospital,ZA,Pretoria,A,90
+C1312,Oasis Pharmacy Johannesburg,Retail Pharmacy,ZA,Johannesburg,A,30
+C1313,Silver Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,B,90
+C1314,Phoenix Pharmacy Durban,Retail Pharmacy,ZA,Durban,A,60
+C1315,Horizon Medical Distribution Durban,Distributor,ZA,Durban,B,30
+C1316,Al Noor Hospital Cape Town,Hospital,ZA,Cape Town,C,60
+C1317,Phoenix Hospital Pretoria,Hospital,ZA,Pretoria,C,60
+C1318,Sunrise Pharmacy Cape Town,Retail Pharmacy,ZA,Cape Town,C,60
+C1319,Emerald Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,B,30
+C1320,Silver Pharmacy Pretoria Branch 2,Retail Pharmacy,ZA,Pretoria,B,60
+C1321,Crystal Hospital Pretoria,Hospital,ZA,Pretoria,B,30
+C1322,Star Medical Distribution Cape Town,Distributor,ZA,Cape Town,B,30
+C1323,CarePlus Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,A,90
+C1324,Wellness Hospital Johannesburg,Hospital,ZA,Johannesburg,C,30
+C1325,Prime Pharmacy Cape Town,Retail Pharmacy,ZA,Cape Town,C,30
+C1326,Wellness Pharmacy Cape Town,Retail Pharmacy,ZA,Cape Town,A,60
+C1327,Phoenix Medical Distribution Johannesburg,Distributor,ZA,Johannesburg,C,30
+C1328,Silver Medical Distribution Pretoria,Distributor,ZA,Pretoria,A,60
+C1329,Phoenix Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,C,60
+C1330,Sapphire Pharmacy Durban,Retail Pharmacy,ZA,Durban,B,30
+C1331,Lotus Pharmacy Cape Town,Retail Pharmacy,ZA,Cape Town,A,90
+C1332,Phoenix Medical Distribution Cape Town,Distributor,ZA,Cape Town,A,90
+C1333,Sapphire Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,B,60
+C1334,Summit Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,C,90
+C1335,LifeLine Hospital Cape Town,Hospital,ZA,Cape Town,C,30
+C1336,Prime Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,C,30
+C1337,Summit Pharmacy Cape Town,Retail Pharmacy,ZA,Cape Town,B,30
+C1338,Blue Sky Hospital Johannesburg,Hospital,ZA,Johannesburg,C,30
+C1339,Sunshine Pharmacy Cape Town,Retail Pharmacy,ZA,Cape Town,A,60
+C1340,Al Noor Hospital Pretoria,Hospital,ZA,Pretoria,B,60
+C1341,Emerald Hospital Pretoria Branch 2,Hospital,ZA,Pretoria,B,30
+C1342,LifeLine Medical Distribution Johannesburg,Distributor,ZA,Johannesburg,C,30
+C1343,Wellness Pharmacy Cape Town Branch 2,Retail Pharmacy,ZA,Cape Town,C,60
+C1344,Royal Medical Distribution Johannesburg,Distributor,ZA,Johannesburg,B,60
+C1345,Pioneer Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,C,60
+C1346,Nova Hospital Pretoria,Hospital,ZA,Pretoria,C,90
+C1347,MediCare Pharmacy Johannesburg,Retail Pharmacy,ZA,Johannesburg,C,90
+C1348,Sapphire Pharmacy Cape Town,Retail Pharmacy,ZA,Cape Town,A,60
+C1349,Prime Pharmacy Pretoria Branch 2,Retail Pharmacy,ZA,Pretoria,C,90
+C1350,Evergreen Medical Distribution Cape Town,Distributor,ZA,Cape Town,C,60
+C1351,Oasis Hospital Pretoria,Hospital,ZA,Pretoria,A,30
+C1352,Horizon Hospital Cape Town,Hospital,ZA,Cape Town,C,90
+C1353,Silver Pharmacy Durban,Retail Pharmacy,ZA,Durban,C,90
+C1354,Riverside Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,C,30
+C1355,Harmony Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,A,90
+C1356,Horizon Medical Distribution Durban Branch 2,Distributor,ZA,Durban,B,30
+C1357,LifeLine Pharmacy Johannesburg,Retail Pharmacy,ZA,Johannesburg,C,90
+C1358,Al Noor Pharmacy Johannesburg,Retail Pharmacy,ZA,Johannesburg,B,30
+C1359,Vital Hospital Pretoria,Hospital,ZA,Pretoria,C,90
+C1360,Golden Pharmacy Pretoria,Retail Pharmacy,ZA,Pretoria,A,30
+C1361,Ministry of Health Tender (JP),Government Tender,JP,Tokyo,A,120
+C1362,Horizon Medical Distribution Nagoya,Distributor,JP,Nagoya,C,60
+C1363,Riverside Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,B,90
+C1364,Al Noor Pharmacy Osaka,Retail Pharmacy,JP,Osaka,A,90
+C1365,Star Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,A,90
+C1366,Orchid Hospital Osaka,Hospital,JP,Osaka,A,90
+C1367,Cedar Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,C,30
+C1368,Delta Medical Distribution Tokyo,Distributor,JP,Tokyo,B,30
+C1369,Evergreen Pharmacy Fukuoka,Retail Pharmacy,JP,Fukuoka,A,60
+C1370,CarePlus Medical Distribution Nagoya,Distributor,JP,Nagoya,A,60
+C1371,Cedar Pharmacy Nagoya,Retail Pharmacy,JP,Nagoya,C,30
+C1372,Vital Medical Distribution Fukuoka,Distributor,JP,Fukuoka,C,90
+C1373,Golden Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,C,30
+C1374,Crescent Pharmacy Osaka,Retail Pharmacy,JP,Osaka,B,60
+C1375,Eastern Pharmacy Osaka,Retail Pharmacy,JP,Osaka,C,30
+C1376,Prime Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,B,30
+C1377,Zenith Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,A,60
+C1378,Atlas Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,C,30
+C1379,Silver Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,C,30
+C1380,Zenith Pharmacy Tokyo Branch 2,Retail Pharmacy,JP,Tokyo,A,30
+C1381,Metro Hospital Nagoya,Hospital,JP,Nagoya,C,60
+C1382,HealthFirst Medical Distribution Tokyo,Distributor,JP,Tokyo,C,60
+C1383,CarePlus Pharmacy Osaka,Retail Pharmacy,JP,Osaka,B,30
+C1384,Harmony Pharmacy Osaka,Retail Pharmacy,JP,Osaka,C,60
+C1385,Al Noor Pharmacy Nagoya,Retail Pharmacy,JP,Nagoya,C,90
+C1386,CarePlus Hospital Nagoya,Hospital,JP,Nagoya,B,60
+C1387,Blue Sky Pharmacy Sapporo,Retail Pharmacy,JP,Sapporo,B,60
+C1388,Oasis Medical Distribution Osaka,Distributor,JP,Osaka,B,30
+C1389,Vital Pharmacy Osaka,Retail Pharmacy,JP,Osaka,C,90
+C1390,Unity Pharmacy Nagoya,Retail Pharmacy,JP,Nagoya,C,30
+C1391,CarePlus Hospital Nagoya Branch 2,Hospital,JP,Nagoya,C,30
+C1392,MediCare Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,B,60
+C1393,Sunrise Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,C,60
+C1394,Evergreen Hospital Osaka,Hospital,JP,Osaka,A,60
+C1395,Metro Pharmacy Osaka,Retail Pharmacy,JP,Osaka,A,90
+C1396,Atlas Hospital Tokyo,Hospital,JP,Tokyo,C,30
+C1397,Nova Hospital Tokyo,Hospital,JP,Tokyo,C,30
+C1398,Central Pharmacy Osaka,Retail Pharmacy,JP,Osaka,C,30
+C1399,Crescent Pharmacy Osaka Branch 2,Retail Pharmacy,JP,Osaka,B,30
+C1400,Blue Sky Pharmacy Osaka,Retail Pharmacy,JP,Osaka,B,90
+C1401,Central Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,A,60
+C1402,Evergreen Medical Distribution Nagoya,Distributor,JP,Nagoya,C,30
+C1403,Phoenix Hospital Tokyo,Hospital,JP,Tokyo,A,30
+C1404,Cedar Medical Distribution Sapporo,Distributor,JP,Sapporo,B,90
+C1405,Emerald Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,B,90
+C1406,Wellness Hospital Sapporo,Hospital,JP,Sapporo,B,30
+C1407,Horizon Pharmacy Sapporo,Retail Pharmacy,JP,Sapporo,A,60
+C1408,Metro Medical Distribution Osaka,Distributor,JP,Osaka,C,30
+C1409,Green Cross Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,B,60
+C1410,Nova Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,B,60
+C1411,CarePlus Pharmacy Fukuoka,Retail Pharmacy,JP,Fukuoka,C,30
+C1412,Crystal Pharmacy Osaka,Retail Pharmacy,JP,Osaka,C,60
+C1413,Wellness Pharmacy Sapporo,Retail Pharmacy,JP,Sapporo,C,60
+C1414,Northern Medical Distribution Sapporo,Distributor,JP,Sapporo,A,60
+C1415,Crystal Hospital Fukuoka,Hospital,JP,Fukuoka,B,90
+C1416,Wellness Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,A,60
+C1417,Delta Hospital Tokyo,Hospital,JP,Tokyo,C,30
+C1418,Lotus Pharmacy Nagoya,Retail Pharmacy,JP,Nagoya,C,30
+C1419,Wellness Hospital Nagoya,Hospital,JP,Nagoya,C,60
+C1420,Crystal Hospital Osaka,Hospital,JP,Osaka,B,90
+C1421,Summit Hospital Tokyo,Hospital,JP,Tokyo,A,90
+C1422,Green Cross Pharmacy Nagoya,Retail Pharmacy,JP,Nagoya,B,90
+C1423,Summit Pharmacy Osaka,Retail Pharmacy,JP,Osaka,C,30
+C1424,Blue Sky Pharmacy Osaka Branch 2,Retail Pharmacy,JP,Osaka,C,90
+C1425,Royal Medical Distribution Sapporo,Distributor,JP,Sapporo,B,30
+C1426,Pioneer Medical Distribution Nagoya,Distributor,JP,Nagoya,B,60
+C1427,CarePlus Medical Distribution Fukuoka,Distributor,JP,Fukuoka,C,60
+C1428,Atlas Pharmacy Tokyo Branch 2,Retail Pharmacy,JP,Tokyo,C,60
+C1429,Atlas Pharmacy Osaka,Retail Pharmacy,JP,Osaka,C,60
+C1430,Central Medical Distribution Tokyo,Distributor,JP,Tokyo,B,30
+C1431,Cedar Hospital Osaka,Hospital,JP,Osaka,C,30
+C1432,Wellness Hospital Sapporo Branch 2,Hospital,JP,Sapporo,B,30
+C1433,Star Pharmacy Sapporo,Retail Pharmacy,JP,Sapporo,B,60
+C1434,Golden Hospital Fukuoka,Hospital,JP,Fukuoka,A,90
+C1435,MediCare Pharmacy Tokyo Branch 2,Retail Pharmacy,JP,Tokyo,C,30
+C1436,Crystal Hospital Tokyo,Hospital,JP,Tokyo,A,60
+C1437,Lotus Hospital Fukuoka,Hospital,JP,Fukuoka,A,60
+C1438,Lotus Pharmacy Fukuoka,Retail Pharmacy,JP,Fukuoka,A,60
+C1439,Crescent Hospital Tokyo,Hospital,JP,Tokyo,C,30
+C1440,Pioneer Pharmacy Nagoya,Retail Pharmacy,JP,Nagoya,C,60
+C1441,Al Noor Hospital Sapporo,Hospital,JP,Sapporo,A,60
+C1442,Emerald Medical Distribution Tokyo,Distributor,JP,Tokyo,B,60
+C1443,Zenith Hospital Nagoya,Hospital,JP,Nagoya,A,30
+C1444,Prime Pharmacy Tokyo Branch 2,Retail Pharmacy,JP,Tokyo,A,60
+C1445,Blue Sky Pharmacy Osaka Branch 3,Retail Pharmacy,JP,Osaka,C,60
+C1446,Sunshine Hospital Osaka,Hospital,JP,Osaka,C,60
+C1447,Lotus Medical Distribution Osaka,Distributor,JP,Osaka,C,90
+C1448,Summit Pharmacy Tokyo,Retail Pharmacy,JP,Tokyo,B,60
+C1449,Zenith Pharmacy Fukuoka,Retail Pharmacy,JP,Fukuoka,B,60
+C1450,Crystal Hospital Tokyo Branch 2,Hospital,JP,Tokyo,B,60
+C1451,CarePlus Hospital Osaka,Hospital,JP,Osaka,B,60
+C1452,Sunrise Pharmacy Nagoya,Retail Pharmacy,JP,Nagoya,C,30
+C1453,Phoenix Medical Distribution Fukuoka,Distributor,JP,Fukuoka,C,60
+C1454,Zenith Medical Distribution Nagoya,Distributor,JP,Nagoya,A,30
+C1455,Phoenix Pharmacy Fukuoka,Retail Pharmacy,JP,Fukuoka,B,30
+C1456,Crystal Pharmacy Fukuoka,Retail Pharmacy,JP,Fukuoka,C,90
+C1457,Sunshine Pharmacy Sapporo,Retail Pharmacy,JP,Sapporo,C,30
+C1458,Orchid Pharmacy Sapporo,Retail Pharmacy,JP,Sapporo,C,30
+C1459,Orchid Pharmacy Fukuoka,Retail Pharmacy,JP,Fukuoka,B,60
+C1460,Orchid Hospital Osaka Branch 2,Hospital,JP,Osaka,B,60
+C1461,Central Hospital Sapporo,Hospital,JP,Sapporo,A,90
+C1462,Riverside Hospital Tokyo,Hospital,JP,Tokyo,C,30
+C1463,Sapphire Hospital Tokyo,Hospital,JP,Tokyo,A,60
+C1464,MediCare Hospital Fukuoka,Hospital,JP,Fukuoka,B,90
+C1465,Crescent Pharmacy Osaka Branch 3,Retail Pharmacy,JP,Osaka,B,30
+C1466,Harmony Pharmacy Sapporo,Retail Pharmacy,JP,Sapporo,C,30
+C1467,Sunrise Medical Distribution Tokyo,Distributor,JP,Tokyo,C,30
+C1468,Blue Sky Pharmacy Osaka Branch 4,Retail Pharmacy,JP,Osaka,C,60
+C1469,Horizon Medical Distribution Fukuoka,Distributor,JP,Fukuoka,B,90
+C1470,Green Cross Pharmacy Osaka,Retail Pharmacy,JP,Osaka,A,60
+C1471,Ministry of Health Tender (CN),Government Tender,CN,Beijing,A,120
+C1472,Wellness Pharmacy Shenzhen,Retail Pharmacy,CN,Shenzhen,C,30
+C1473,HealthFirst Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,B,90
+C1474,Royal Medical Distribution Beijing,Distributor,CN,Beijing,B,60
+C1475,Oasis Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,B,60
+C1476,Northern Hospital Guangzhou,Hospital,CN,Guangzhou,C,90
+C1477,Riverside Hospital Shenzhen,Hospital,CN,Shenzhen,C,60
+C1478,Silver Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,C,90
+C1479,Northern Medical Distribution Wuhan,Distributor,CN,Wuhan,C,30
+C1480,Emerald Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,A,90
+C1481,Orchid Hospital Chengdu,Hospital,CN,Chengdu,C,60
+C1482,Harmony Medical Distribution Chengdu,Distributor,CN,Chengdu,B,30
+C1483,Unity Pharmacy Beijing,Retail Pharmacy,CN,Beijing,A,30
+C1484,Nova Pharmacy Beijing,Retail Pharmacy,CN,Beijing,C,30
+C1485,Oasis Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,A,60
+C1486,Horizon Hospital Beijing,Hospital,CN,Beijing,A,90
+C1487,Metro Pharmacy Beijing,Retail Pharmacy,CN,Beijing,B,30
+C1488,Sunshine Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,A,60
+C1489,Crystal Medical Distribution Beijing,Distributor,CN,Beijing,C,30
+C1490,Silver Hospital Shenzhen,Hospital,CN,Shenzhen,A,90
+C1491,Blue Sky Hospital Guangzhou,Hospital,CN,Guangzhou,A,60
+C1492,Harmony Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,A,90
+C1493,CarePlus Pharmacy Beijing,Retail Pharmacy,CN,Beijing,A,30
+C1494,Silver Medical Distribution Beijing,Distributor,CN,Beijing,B,60
+C1495,Delta Hospital Wuhan,Hospital,CN,Wuhan,C,30
+C1496,Oasis Medical Distribution Guangzhou,Distributor,CN,Guangzhou,C,60
+C1497,Atlas Medical Distribution Shanghai,Distributor,CN,Shanghai,C,30
+C1498,Prime Medical Distribution Shenzhen,Distributor,CN,Shenzhen,B,30
+C1499,Summit Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,C,60
+C1500,Lotus Pharmacy Shenzhen,Retail Pharmacy,CN,Shenzhen,B,90
+C1501,Sapphire Pharmacy Beijing,Retail Pharmacy,CN,Beijing,C,60
+C1502,Orchid Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,B,90
+C1503,Blue Sky Hospital Chengdu,Hospital,CN,Chengdu,B,30
+C1504,Evergreen Medical Distribution Chengdu,Distributor,CN,Chengdu,B,30
+C1505,Evergreen Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,C,30
+C1506,Vital Medical Distribution Guangzhou,Distributor,CN,Guangzhou,A,60
+C1507,Golden Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,C,30
+C1508,Oasis Medical Distribution Beijing,Distributor,CN,Beijing,B,60
+C1509,Silver Medical Distribution Guangzhou,Distributor,CN,Guangzhou,C,60
+C1510,CarePlus Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,B,60
+C1511,Sunrise Pharmacy Beijing,Retail Pharmacy,CN,Beijing,A,30
+C1512,Nova Hospital Shenzhen,Hospital,CN,Shenzhen,C,60
+C1513,Blue Sky Hospital Chengdu Branch 2,Hospital,CN,Chengdu,C,30
+C1514,Unity Hospital Guangzhou,Hospital,CN,Guangzhou,B,60
+C1515,MediCare Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,A,30
+C1516,Al Noor Hospital Guangzhou,Hospital,CN,Guangzhou,B,60
+C1517,Sunrise Pharmacy Beijing Branch 2,Retail Pharmacy,CN,Beijing,C,60
+C1518,LifeLine Hospital Beijing,Hospital,CN,Beijing,C,60
+C1519,Harmony Pharmacy Beijing,Retail Pharmacy,CN,Beijing,C,60
+C1520,Sapphire Hospital Shanghai,Hospital,CN,Shanghai,C,60
+C1521,Sunrise Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,C,60
+C1522,Atlas Hospital Wuhan,Hospital,CN,Wuhan,B,30
+C1523,Delta Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,B,30
+C1524,Vital Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,C,60
+C1525,Vital Hospital Shanghai,Hospital,CN,Shanghai,C,30
+C1526,MediCare Hospital Shanghai,Hospital,CN,Shanghai,C,60
+C1527,Crystal Hospital Guangzhou,Hospital,CN,Guangzhou,C,30
+C1528,Metro Hospital Shanghai,Hospital,CN,Shanghai,B,30
+C1529,MediCare Hospital Chengdu,Hospital,CN,Chengdu,C,60
+C1530,Oasis Pharmacy Chengdu Branch 2,Retail Pharmacy,CN,Chengdu,B,30
+C1531,Nova Hospital Beijing,Hospital,CN,Beijing,C,30
+C1532,Metro Medical Distribution Beijing,Distributor,CN,Beijing,C,90
+C1533,MediCare Pharmacy Shanghai Branch 2,Retail Pharmacy,CN,Shanghai,C,30
+C1534,Phoenix Hospital Chengdu,Hospital,CN,Chengdu,C,60
+C1535,LifeLine Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,B,30
+C1536,Eastern Hospital Beijing,Hospital,CN,Beijing,C,90
+C1537,Unity Medical Distribution Shenzhen,Distributor,CN,Shenzhen,B,60
+C1538,Vital Pharmacy Beijing,Retail Pharmacy,CN,Beijing,B,30
+C1539,Wellness Medical Distribution Wuhan,Distributor,CN,Wuhan,C,60
+C1540,Cedar Pharmacy Beijing,Retail Pharmacy,CN,Beijing,B,30
+C1541,Atlas Pharmacy Beijing,Retail Pharmacy,CN,Beijing,C,30
+C1542,Crescent Hospital Shanghai,Hospital,CN,Shanghai,B,60
+C1543,Orchid Hospital Beijing,Hospital,CN,Beijing,C,60
+C1544,Phoenix Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,B,60
+C1545,Vital Pharmacy Beijing Branch 2,Retail Pharmacy,CN,Beijing,A,30
+C1546,Zenith Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,C,90
+C1547,Vital Pharmacy Wuhan,Retail Pharmacy,CN,Wuhan,C,60
+C1548,Harmony Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,A,30
+C1549,Wellness Pharmacy Beijing,Retail Pharmacy,CN,Beijing,A,60
+C1550,Northern Pharmacy Wuhan,Retail Pharmacy,CN,Wuhan,C,60
+C1551,Silver Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,C,90
+C1552,HealthFirst Pharmacy Wuhan,Retail Pharmacy,CN,Wuhan,C,60
+C1553,Green Cross Hospital Shenzhen,Hospital,CN,Shenzhen,C,30
+C1554,CarePlus Pharmacy Shenzhen,Retail Pharmacy,CN,Shenzhen,C,60
+C1555,Blue Sky Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,B,30
+C1556,Delta Medical Distribution Beijing,Distributor,CN,Beijing,B,90
+C1557,Eastern Hospital Beijing Branch 2,Hospital,CN,Beijing,C,60
+C1558,Phoenix Medical Distribution Shenzhen,Distributor,CN,Shenzhen,C,30
+C1559,Northern Hospital Beijing,Hospital,CN,Beijing,C,60
+C1560,Evergreen Hospital Shanghai,Hospital,CN,Shanghai,C,60
+C1561,Crystal Medical Distribution Shenzhen,Distributor,CN,Shenzhen,C,30
+C1562,Sapphire Hospital Guangzhou,Hospital,CN,Guangzhou,B,30
+C1563,Summit Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,B,30
+C1564,Central Pharmacy Guangzhou,Retail Pharmacy,CN,Guangzhou,A,60
+C1565,Delta Pharmacy Guangzhou Branch 2,Retail Pharmacy,CN,Guangzhou,C,60
+C1566,Sapphire Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,C,60
+C1567,Sunshine Medical Distribution Beijing,Distributor,CN,Beijing,C,60
+C1568,Metro Medical Distribution Wuhan,Distributor,CN,Wuhan,B,60
+C1569,Metro Hospital Shanghai Branch 2,Hospital,CN,Shanghai,A,30
+C1570,Sapphire Pharmacy Beijing Branch 2,Retail Pharmacy,CN,Beijing,B,90
+C1571,Royal Hospital Guangzhou,Hospital,CN,Guangzhou,C,30
+C1572,Wellness Hospital Chengdu,Hospital,CN,Chengdu,C,90
+C1573,Al Noor Hospital Guangzhou Branch 2,Hospital,CN,Guangzhou,B,90
+C1574,Riverside Pharmacy Beijing,Retail Pharmacy,CN,Beijing,C,30
+C1575,Nova Pharmacy Wuhan,Retail Pharmacy,CN,Wuhan,B,90
+C1576,Vital Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,A,60
+C1577,HealthFirst Medical Distribution Wuhan,Distributor,CN,Wuhan,B,30
+C1578,Atlas Hospital Guangzhou,Hospital,CN,Guangzhou,B,60
+C1579,Emerald Pharmacy Wuhan,Retail Pharmacy,CN,Wuhan,B,30
+C1580,Summit Hospital Beijing,Hospital,CN,Beijing,A,60
+C1581,Horizon Medical Distribution Chengdu,Distributor,CN,Chengdu,A,30
+C1582,Orchid Medical Distribution Beijing,Distributor,CN,Beijing,C,30
+C1583,Evergreen Hospital Shanghai Branch 2,Hospital,CN,Shanghai,C,30
+C1584,Star Pharmacy Shanghai,Retail Pharmacy,CN,Shanghai,A,30
+C1585,Northern Pharmacy Chengdu,Retail Pharmacy,CN,Chengdu,B,30
+C1586,Sapphire Pharmacy Beijing Branch 3,Retail Pharmacy,CN,Beijing,A,30
+C1587,Delta Hospital Chengdu,Hospital,CN,Chengdu,B,60
+C1588,Northern Pharmacy Shenzhen,Retail Pharmacy,CN,Shenzhen,B,60
+C1589,HealthFirst Pharmacy Chengdu Branch 2,Retail Pharmacy,CN,Chengdu,C,30
+C1590,Summit Medical Distribution Wuhan,Distributor,CN,Wuhan,C,60
+C1591,Ministry of Health Tender (IN),Government Tender,IN,New Delhi,A,120
+C1592,CarePlus Hospital New Delhi,Hospital,IN,New Delhi,C,30
+C1593,MediCare Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,B,60
+C1594,Central Hospital Hyderabad,Hospital,IN,Hyderabad,B,60
+C1595,Zenith Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,A,30
+C1596,Sunshine Hospital New Delhi,Hospital,IN,New Delhi,B,30
+C1597,Green Cross Hospital Bengaluru,Hospital,IN,Bengaluru,B,30
+C1598,Vital Hospital Kolkata,Hospital,IN,Kolkata,C,90
+C1599,Zenith Pharmacy Hyderabad,Retail Pharmacy,IN,Hyderabad,C,30
+C1600,Silver Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,C,90
+C1601,Al Noor Medical Distribution New Delhi,Distributor,IN,New Delhi,B,60
+C1602,Eastern Pharmacy Hyderabad,Retail Pharmacy,IN,Hyderabad,C,30
+C1603,Blue Sky Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,C,30
+C1604,HealthFirst Hospital New Delhi,Hospital,IN,New Delhi,B,60
+C1605,Royal Pharmacy Chennai,Retail Pharmacy,IN,Chennai,C,60
+C1606,Cedar Hospital Mumbai,Hospital,IN,Mumbai,C,60
+C1607,CarePlus Medical Distribution Chennai,Distributor,IN,Chennai,C,90
+C1608,Sunshine Medical Distribution Chennai,Distributor,IN,Chennai,A,30
+C1609,Eastern Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,C,60
+C1610,Atlas Pharmacy Kolkata,Retail Pharmacy,IN,Kolkata,A,60
+C1611,Vital Hospital New Delhi,Hospital,IN,New Delhi,C,60
+C1612,Prime Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,A,90
+C1613,Al Noor Pharmacy Kolkata,Retail Pharmacy,IN,Kolkata,B,60
+C1614,Summit Pharmacy Chennai,Retail Pharmacy,IN,Chennai,B,30
+C1615,Green Cross Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,C,60
+C1616,Green Cross Hospital New Delhi,Hospital,IN,New Delhi,C,90
+C1617,Evergreen Medical Distribution New Delhi,Distributor,IN,New Delhi,C,60
+C1618,Riverside Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,C,60
+C1619,Al Noor Hospital Mumbai,Hospital,IN,Mumbai,A,30
+C1620,Crystal Hospital Bengaluru,Hospital,IN,Bengaluru,C,60
+C1621,LifeLine Pharmacy Hyderabad,Retail Pharmacy,IN,Hyderabad,C,60
+C1622,Harmony Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,A,60
+C1623,Crescent Hospital New Delhi,Hospital,IN,New Delhi,A,30
+C1624,LifeLine Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,B,30
+C1625,Crystal Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,C,60
+C1626,HealthFirst Hospital Mumbai,Hospital,IN,Mumbai,C,60
+C1627,Evergreen Hospital New Delhi,Hospital,IN,New Delhi,C,60
+C1628,Al Noor Medical Distribution Kolkata,Distributor,IN,Kolkata,C,60
+C1629,Metro Hospital Bengaluru,Hospital,IN,Bengaluru,C,60
+C1630,Lotus Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,C,60
+C1631,Golden Medical Distribution New Delhi,Distributor,IN,New Delhi,C,60
+C1632,Royal Hospital New Delhi,Hospital,IN,New Delhi,B,60
+C1633,Green Cross Pharmacy Kolkata,Retail Pharmacy,IN,Kolkata,C,90
+C1634,Wellness Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,C,30
+C1635,Vital Hospital Chennai,Hospital,IN,Chennai,C,60
+C1636,MediCare Pharmacy New Delhi Branch 2,Retail Pharmacy,IN,New Delhi,C,90
+C1637,Prime Pharmacy Hyderabad,Retail Pharmacy,IN,Hyderabad,C,30
+C1638,Prime Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,A,60
+C1639,Wellness Hospital Kolkata,Hospital,IN,Kolkata,A,90
+C1640,MediCare Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,C,60
+C1641,Orchid Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,A,60
+C1642,Summit Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,B,60
+C1643,Nova Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,A,90
+C1644,Orchid Pharmacy Kolkata,Retail Pharmacy,IN,Kolkata,A,30
+C1645,Atlas Medical Distribution Mumbai,Distributor,IN,Mumbai,C,30
+C1646,Prime Pharmacy Kolkata,Retail Pharmacy,IN,Kolkata,B,30
+C1647,Star Pharmacy Hyderabad,Retail Pharmacy,IN,Hyderabad,C,30
+C1648,Eastern Hospital Kolkata,Hospital,IN,Kolkata,A,90
+C1649,Evergreen Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,C,30
+C1650,Al Noor Hospital Mumbai Branch 2,Hospital,IN,Mumbai,B,30
+C1651,Atlas Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,A,90
+C1652,Riverside Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,C,30
+C1653,Nova Hospital New Delhi,Hospital,IN,New Delhi,B,60
+C1654,Pioneer Medical Distribution Hyderabad,Distributor,IN,Hyderabad,A,30
+C1655,Metro Medical Distribution Hyderabad,Distributor,IN,Hyderabad,C,30
+C1656,Green Cross Hospital Hyderabad,Hospital,IN,Hyderabad,C,30
+C1657,HealthFirst Medical Distribution New Delhi,Distributor,IN,New Delhi,B,30
+C1658,Silver Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,A,30
+C1659,Northern Hospital Hyderabad,Hospital,IN,Hyderabad,A,30
+C1660,Crescent Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,B,60
+C1661,Al Noor Medical Distribution Hyderabad,Distributor,IN,Hyderabad,B,30
+C1662,Northern Hospital Kolkata,Hospital,IN,Kolkata,B,30
+C1663,Oasis Hospital Bengaluru,Hospital,IN,Bengaluru,A,90
+C1664,Delta Hospital Bengaluru,Hospital,IN,Bengaluru,C,60
+C1665,Crescent Hospital New Delhi Branch 2,Hospital,IN,New Delhi,C,90
+C1666,Vital Medical Distribution New Delhi,Distributor,IN,New Delhi,A,30
+C1667,Blue Sky Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,B,60
+C1668,Oasis Medical Distribution New Delhi,Distributor,IN,New Delhi,C,90
+C1669,Royal Hospital Hyderabad,Hospital,IN,Hyderabad,C,30
+C1670,Crystal Pharmacy New Delhi Branch 2,Retail Pharmacy,IN,New Delhi,B,30
+C1671,Unity Medical Distribution Kolkata,Distributor,IN,Kolkata,C,60
+C1672,CarePlus Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,C,30
+C1673,Orchid Pharmacy Mumbai,Retail Pharmacy,IN,Mumbai,B,30
+C1674,CarePlus Hospital Mumbai,Hospital,IN,Mumbai,C,60
+C1675,Eastern Pharmacy Hyderabad Branch 2,Retail Pharmacy,IN,Hyderabad,C,60
+C1676,Sapphire Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,C,30
+C1677,Central Pharmacy New Delhi,Retail Pharmacy,IN,New Delhi,C,60
+C1678,Cedar Medical Distribution New Delhi,Distributor,IN,New Delhi,B,30
+C1679,Cedar Pharmacy Bengaluru,Retail Pharmacy,IN,Bengaluru,B,60
+C1680,Harmony Hospital Kolkata,Hospital,IN,Kolkata,C,60
+C1681,Ministry of Health Tender (AU),Government Tender,AU,Canberra,A,120
+C1682,Central Hospital Canberra,Hospital,AU,Canberra,B,30
+C1683,Metro Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,60
+C1684,Northern Medical Distribution Canberra,Distributor,AU,Canberra,C,30
+C1685,Blue Sky Hospital Sydney,Hospital,AU,Sydney,C,60
+C1686,Al Noor Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,60
+C1687,CarePlus Medical Distribution Perth,Distributor,AU,Perth,C,60
+C1688,Emerald Pharmacy Sydney,Retail Pharmacy,AU,Sydney,C,60
+C1689,Blue Sky Medical Distribution Sydney,Distributor,AU,Sydney,B,30
+C1690,Orchid Pharmacy Canberra,Retail Pharmacy,AU,Canberra,B,30
+C1691,Phoenix Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,30
+C1692,LifeLine Pharmacy Canberra,Retail Pharmacy,AU,Canberra,A,30
+C1693,CarePlus Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,90
+C1694,Eastern Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,30
+C1695,Evergreen Medical Distribution Melbourne,Distributor,AU,Melbourne,B,60
+C1696,Phoenix Pharmacy Canberra Branch 2,Retail Pharmacy,AU,Canberra,A,90
+C1697,Silver Pharmacy Melbourne,Retail Pharmacy,AU,Melbourne,C,90
+C1698,Crescent Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,90
+C1699,Horizon Pharmacy Perth,Retail Pharmacy,AU,Perth,B,30
+C1700,Horizon Pharmacy Perth Branch 2,Retail Pharmacy,AU,Perth,C,90
+C1701,Prime Hospital Perth,Hospital,AU,Perth,A,30
+C1702,Northern Medical Distribution Canberra Branch 2,Distributor,AU,Canberra,C,30
+C1703,Prime Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,30
+C1704,Harmony Hospital Brisbane,Hospital,AU,Brisbane,B,30
+C1705,Lotus Hospital Perth,Hospital,AU,Perth,B,90
+C1706,Golden Medical Distribution Brisbane,Distributor,AU,Brisbane,C,90
+C1707,Delta Hospital Canberra,Hospital,AU,Canberra,C,90
+C1708,Pioneer Hospital Perth,Hospital,AU,Perth,C,90
+C1709,Prime Hospital Perth Branch 2,Hospital,AU,Perth,B,90
+C1710,Green Cross Hospital Brisbane,Hospital,AU,Brisbane,C,60
+C1711,Atlas Medical Distribution Sydney,Distributor,AU,Sydney,C,60
+C1712,Star Pharmacy Brisbane,Retail Pharmacy,AU,Brisbane,C,30
+C1713,Atlas Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,90
+C1714,Green Cross Medical Distribution Canberra,Distributor,AU,Canberra,C,60
+C1715,Cedar Hospital Perth,Hospital,AU,Perth,A,60
+C1716,Horizon Hospital Perth,Hospital,AU,Perth,B,30
+C1717,Emerald Pharmacy Perth,Retail Pharmacy,AU,Perth,C,30
+C1718,Vital Pharmacy Canberra,Retail Pharmacy,AU,Canberra,B,60
+C1719,Pioneer Pharmacy Brisbane,Retail Pharmacy,AU,Brisbane,A,30
+C1720,Oasis Hospital Brisbane,Hospital,AU,Brisbane,C,30
+C1721,Royal Pharmacy Sydney,Retail Pharmacy,AU,Sydney,C,90
+C1722,Crystal Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,30
+C1723,Oasis Hospital Melbourne,Hospital,AU,Melbourne,A,90
+C1724,Crystal Pharmacy Sydney,Retail Pharmacy,AU,Sydney,C,30
+C1725,Delta Medical Distribution Perth,Distributor,AU,Perth,C,60
+C1726,Eastern Medical Distribution Sydney,Distributor,AU,Sydney,A,90
+C1727,Orchid Hospital Sydney,Hospital,AU,Sydney,B,30
+C1728,Cedar Pharmacy Sydney,Retail Pharmacy,AU,Sydney,B,30
+C1729,Orchid Pharmacy Melbourne,Retail Pharmacy,AU,Melbourne,A,60
+C1730,Wellness Hospital Canberra,Hospital,AU,Canberra,C,60
+C1731,Metro Hospital Sydney,Hospital,AU,Sydney,B,30
+C1732,Metro Pharmacy Melbourne,Retail Pharmacy,AU,Melbourne,C,60
+C1733,MediCare Pharmacy Canberra,Retail Pharmacy,AU,Canberra,C,90
+C1734,Sunrise Pharmacy Brisbane,Retail Pharmacy,AU,Brisbane,A,90
+C1735,LifeLine Pharmacy Canberra Branch 2,Retail Pharmacy,AU,Canberra,B,30
+C1736,Sunshine Hospital Canberra,Hospital,AU,Canberra,A,60
+C1737,Emerald Pharmacy Sydney Branch 2,Retail Pharmacy,AU,Sydney,C,30
+C1738,Summit Pharmacy Brisbane,Retail Pharmacy,AU,Brisbane,A,60
+C1739,Sapphire Pharmacy Sydney,Retail Pharmacy,AU,Sydney,C,60
+C1740,HealthFirst Hospital Melbourne,Hospital,AU,Melbourne,C,30
+C1741,Ministry of Health Tender (KR),Government Tender,KR,Seoul,A,120
+C1742,LifeLine Medical Distribution Incheon,Distributor,KR,Incheon,C,90
+C1743,Harmony Medical Distribution Busan,Distributor,KR,Busan,A,30
+C1744,Wellness Hospital Seoul,Hospital,KR,Seoul,C,30
+C1745,Cedar Hospital Seoul,Hospital,KR,Seoul,A,60
+C1746,Northern Medical Distribution Seoul,Distributor,KR,Seoul,A,30
+C1747,Zenith Medical Distribution Seoul,Distributor,KR,Seoul,C,60
+C1748,Orchid Medical Distribution Seoul,Distributor,KR,Seoul,C,60
+C1749,Crescent Hospital Seoul,Hospital,KR,Seoul,B,30
+C1750,Central Hospital Daegu,Hospital,KR,Daegu,C,30
+C1751,Wellness Hospital Incheon,Hospital,KR,Incheon,A,60
+C1752,Green Cross Hospital Busan,Hospital,KR,Busan,C,30
+C1753,Summit Pharmacy Seoul,Retail Pharmacy,KR,Seoul,C,30
+C1754,CarePlus Pharmacy Busan,Retail Pharmacy,KR,Busan,C,30
+C1755,Zenith Pharmacy Daegu,Retail Pharmacy,KR,Daegu,A,60
+C1756,HealthFirst Pharmacy Incheon,Retail Pharmacy,KR,Incheon,B,60
+C1757,Phoenix Medical Distribution Incheon,Distributor,KR,Incheon,B,60
+C1758,Golden Pharmacy Busan,Retail Pharmacy,KR,Busan,C,30
+C1759,Harmony Pharmacy Incheon,Retail Pharmacy,KR,Incheon,C,30
+C1760,Cedar Hospital Daegu,Hospital,KR,Daegu,C,60
+C1761,Unity Pharmacy Seoul,Retail Pharmacy,KR,Seoul,C,60
+C1762,Pioneer Medical Distribution Seoul,Distributor,KR,Seoul,A,60
+C1763,Harmony Pharmacy Seoul,Retail Pharmacy,KR,Seoul,C,30
+C1764,Harmony Hospital Seoul,Hospital,KR,Seoul,C,60
+C1765,Oasis Pharmacy Busan,Retail Pharmacy,KR,Busan,C,30
+C1766,Sunrise Medical Distribution Seoul,Distributor,KR,Seoul,C,30
+C1767,CarePlus Pharmacy Seoul,Retail Pharmacy,KR,Seoul,C,60
+C1768,Wellness Pharmacy Seoul,Retail Pharmacy,KR,Seoul,C,30
+C1769,Sapphire Pharmacy Seoul,Retail Pharmacy,KR,Seoul,A,60
+C1770,Sunrise Hospital Seoul,Hospital,KR,Seoul,C,90
+C1771,LifeLine Pharmacy Seoul,Retail Pharmacy,KR,Seoul,B,60
+C1772,LifeLine Pharmacy Seoul Branch 2,Retail Pharmacy,KR,Seoul,B,60
+C1773,Star Hospital Incheon,Hospital,KR,Incheon,C,30
+C1774,LifeLine Pharmacy Seoul Branch 3,Retail Pharmacy,KR,Seoul,C,30
+C1775,Orchid Pharmacy Daegu,Retail Pharmacy,KR,Daegu,B,60
+C1776,Delta Hospital Daegu,Hospital,KR,Daegu,A,60
+C1777,Eastern Hospital Incheon,Hospital,KR,Incheon,B,90
+C1778,Golden Pharmacy Seoul,Retail Pharmacy,KR,Seoul,C,90
+C1779,Sunshine Pharmacy Daegu,Retail Pharmacy,KR,Daegu,C,60
+C1780,Sunshine Pharmacy Incheon,Retail Pharmacy,KR,Incheon,C,90
+C1781,HealthFirst Pharmacy Seoul,Retail Pharmacy,KR,Seoul,B,30
+C1782,Green Cross Pharmacy Incheon,Retail Pharmacy,KR,Incheon,A,30
+C1783,Phoenix Pharmacy Busan,Retail Pharmacy,KR,Busan,B,30
+C1784,Eastern Hospital Seoul,Hospital,KR,Seoul,B,60
+C1785,Royal Hospital Busan,Hospital,KR,Busan,B,90
+C1786,Golden Pharmacy Busan Branch 2,Retail Pharmacy,KR,Busan,C,60
+C1787,Central Pharmacy Daegu,Retail Pharmacy,KR,Daegu,C,60
+C1788,Pioneer Pharmacy Seoul,Retail Pharmacy,KR,Seoul,C,30
+C1789,Horizon Hospital Seoul,Hospital,KR,Seoul,C,30
+C1790,Sapphire Hospital Incheon,Hospital,KR,Incheon,A,30
+C1791,Wellness Pharmacy Incheon,Retail Pharmacy,KR,Incheon,C,30
+C1792,HealthFirst Medical Distribution Incheon,Distributor,KR,Incheon,C,90
+C1793,Wellness Pharmacy Busan,Retail Pharmacy,KR,Busan,C,90
+C1794,MediCare Hospital Daegu,Hospital,KR,Daegu,C,90
+C1795,Crescent Medical Distribution Incheon,Distributor,KR,Incheon,C,90
+C1796,Delta Medical Distribution Seoul,Distributor,KR,Seoul,B,30
+C1797,Green Cross Pharmacy Busan,Retail Pharmacy,KR,Busan,C,60
+C1798,Pioneer Pharmacy Daegu,Retail Pharmacy,KR,Daegu,C,60
+C1799,Sunrise Medical Distribution Busan,Distributor,KR,Busan,C,60
+C1800,Unity Hospital Daegu,Hospital,KR,Daegu,B,30
+C1801,Ministry of Health Tender (BR),Government Tender,BR,Brasilia,A,120
+C1802,Zenith Hospital Brasilia,Hospital,BR,Brasilia,C,30
+C1803,Sapphire Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,C,60
+C1804,Harmony Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,B,60
+C1805,Al Noor Hospital Salvador,Hospital,BR,Salvador,B,60
+C1806,Sapphire Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,C,60
+C1807,Crescent Pharmacy Sao Paulo,Retail Pharmacy,BR,Sao Paulo,A,60
+C1808,Wellness Pharmacy Belo Horizonte,Retail Pharmacy,BR,Belo Horizonte,C,30
+C1809,Star Medical Distribution Rio de Janeiro,Distributor,BR,Rio de Janeiro,C,30
+C1810,Oasis Medical Distribution Belo Horizonte,Distributor,BR,Belo Horizonte,C,90
+C1811,Nova Hospital Rio de Janeiro,Hospital,BR,Rio de Janeiro,C,90
+C1812,Lotus Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,C,60
+C1813,Sunrise Pharmacy Salvador,Retail Pharmacy,BR,Salvador,B,30
+C1814,Prime Pharmacy Salvador,Retail Pharmacy,BR,Salvador,C,30
+C1815,Unity Medical Distribution Sao Paulo,Distributor,BR,Sao Paulo,A,30
+C1816,Evergreen Medical Distribution Salvador,Distributor,BR,Salvador,B,60
+C1817,MediCare Hospital Brasilia,Hospital,BR,Brasilia,C,90
+C1818,Prime Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,A,30
+C1819,Sunshine Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,A,90
+C1820,Crystal Hospital Brasilia,Hospital,BR,Brasilia,B,90
+C1821,Blue Sky Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,C,60
+C1822,CarePlus Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,C,60
+C1823,Orchid Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,C,60
+C1824,Harmony Medical Distribution Brasilia,Distributor,BR,Brasilia,C,30
+C1825,Cedar Hospital Sao Paulo,Hospital,BR,Sao Paulo,C,60
+C1826,Nova Medical Distribution Brasilia,Distributor,BR,Brasilia,B,60
+C1827,Eastern Hospital Rio de Janeiro,Hospital,BR,Rio de Janeiro,C,90
+C1828,Golden Medical Distribution Belo Horizonte,Distributor,BR,Belo Horizonte,B,60
+C1829,Golden Pharmacy Sao Paulo,Retail Pharmacy,BR,Sao Paulo,B,30
+C1830,MediCare Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,B,60
+C1831,Crystal Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,C,30
+C1832,Crescent Hospital Sao Paulo,Hospital,BR,Sao Paulo,C,90
+C1833,Harmony Medical Distribution Rio de Janeiro,Distributor,BR,Rio de Janeiro,B,30
+C1834,Sunshine Pharmacy Sao Paulo,Retail Pharmacy,BR,Sao Paulo,C,30
+C1835,Pioneer Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,C,90
+C1836,Orchid Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,C,60
+C1837,Metro Hospital Rio de Janeiro,Hospital,BR,Rio de Janeiro,C,60
+C1838,Unity Hospital Rio de Janeiro,Hospital,BR,Rio de Janeiro,B,30
+C1839,Crescent Hospital Belo Horizonte,Hospital,BR,Belo Horizonte,B,90
+C1840,Sunrise Pharmacy Sao Paulo,Retail Pharmacy,BR,Sao Paulo,C,90
+C1841,Sunrise Medical Distribution Rio de Janeiro,Distributor,BR,Rio de Janeiro,C,90
+C1842,Horizon Hospital Sao Paulo,Hospital,BR,Sao Paulo,B,60
+C1843,Royal Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,B,60
+C1844,Crystal Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,B,30
+C1845,Vital Medical Distribution Rio de Janeiro,Distributor,BR,Rio de Janeiro,C,60
+C1846,Golden Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,A,90
+C1847,LifeLine Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,B,60
+C1848,HealthFirst Medical Distribution Brasilia,Distributor,BR,Brasilia,B,30
+C1849,Al Noor Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,C,30
+C1850,Northern Medical Distribution Brasilia,Distributor,BR,Brasilia,C,90
+C1851,Lotus Medical Distribution Brasilia,Distributor,BR,Brasilia,C,30
+C1852,Delta Medical Distribution Brasilia,Distributor,BR,Brasilia,C,30
+C1853,Evergreen Pharmacy Salvador,Retail Pharmacy,BR,Salvador,A,30
+C1854,Royal Pharmacy Brasilia Branch 2,Retail Pharmacy,BR,Brasilia,A,60
+C1855,MediCare Hospital Belo Horizonte,Hospital,BR,Belo Horizonte,C,30
+C1856,Crescent Hospital Belo Horizonte Branch 2,Hospital,BR,Belo Horizonte,B,30
+C1857,Northern Medical Distribution Belo Horizonte,Distributor,BR,Belo Horizonte,C,90
+C1858,Orchid Hospital Brasilia,Hospital,BR,Brasilia,B,60
+C1859,Vital Medical Distribution Brasilia,Distributor,BR,Brasilia,B,30
+C1860,CarePlus Hospital Sao Paulo,Hospital,BR,Sao Paulo,C,30
+C1861,Golden Hospital Sao Paulo,Hospital,BR,Sao Paulo,C,30
+C1862,Nova Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,C,30
+C1863,Northern Hospital Brasilia,Hospital,BR,Brasilia,B,30
+C1864,Northern Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,C,30
+C1865,Crystal Pharmacy Brasilia Branch 2,Retail Pharmacy,BR,Brasilia,B,30
+C1866,Vital Hospital Sao Paulo,Hospital,BR,Sao Paulo,A,60
+C1867,Horizon Pharmacy Rio de Janeiro,Retail Pharmacy,BR,Rio de Janeiro,C,30
+C1868,Eastern Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,B,60
+C1869,CarePlus Medical Distribution Salvador,Distributor,BR,Salvador,B,30
+C1870,Lotus Pharmacy Sao Paulo,Retail Pharmacy,BR,Sao Paulo,C,90
+C1871,Al Noor Hospital Brasilia,Hospital,BR,Brasilia,C,60
+C1872,Phoenix Hospital Brasilia,Hospital,BR,Brasilia,A,60
+C1873,Star Hospital Brasilia,Hospital,BR,Brasilia,A,60
+C1874,Wellness Pharmacy Belo Horizonte Branch 2,Retail Pharmacy,BR,Belo Horizonte,C,60
+C1875,Crescent Medical Distribution Sao Paulo,Distributor,BR,Sao Paulo,C,30
+C1876,Delta Pharmacy Brasilia,Retail Pharmacy,BR,Brasilia,C,90
+C1877,Delta Pharmacy Belo Horizonte,Retail Pharmacy,BR,Belo Horizonte,C,60
+C1878,Oasis Medical Distribution Brasilia,Distributor,BR,Brasilia,A,30
+C1879,Golden Pharmacy Salvador,Retail Pharmacy,BR,Salvador,C,90
+C1880,Cedar Hospital Brasilia,Hospital,BR,Brasilia,B,30
+C1881,Ministry of Health Tender (MX),Government Tender,MX,Mexico City,A,120
+C1882,Harmony Hospital Guadalajara,Hospital,MX,Guadalajara,B,60
+C1883,Crescent Hospital Guadalajara,Hospital,MX,Guadalajara,C,60
+C1884,Prime Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,A,30
+C1885,Phoenix Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,C,60
+C1886,Unity Hospital Guadalajara,Hospital,MX,Guadalajara,B,60
+C1887,Orchid Pharmacy Monterrey,Retail Pharmacy,MX,Monterrey,C,60
+C1888,Riverside Medical Distribution Monterrey,Distributor,MX,Monterrey,C,30
+C1889,LifeLine Medical Distribution Guadalajara,Distributor,MX,Guadalajara,C,90
+C1890,Sunshine Hospital Mexico City,Hospital,MX,Mexico City,C,60
+C1891,Riverside Hospital Guadalajara,Hospital,MX,Guadalajara,B,30
+C1892,Northern Medical Distribution Monterrey,Distributor,MX,Monterrey,B,30
+C1893,Sunshine Medical Distribution Mexico City,Distributor,MX,Mexico City,C,90
+C1894,Oasis Hospital Mexico City,Hospital,MX,Mexico City,B,90
+C1895,LifeLine Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,A,90
+C1896,Orchid Hospital Monterrey,Hospital,MX,Monterrey,B,60
+C1897,LifeLine Pharmacy Puebla,Retail Pharmacy,MX,Puebla,C,30
+C1898,Central Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,A,60
+C1899,Sunshine Pharmacy Monterrey,Retail Pharmacy,MX,Monterrey,C,90
+C1900,Harmony Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,A,30
+C1901,Eastern Medical Distribution Puebla,Distributor,MX,Puebla,C,60
+C1902,Phoenix Hospital Puebla,Hospital,MX,Puebla,C,60
+C1903,Orchid Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,C,60
+C1904,Summit Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,B,30
+C1905,HealthFirst Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,C,60
+C1906,Horizon Medical Distribution Mexico City,Distributor,MX,Mexico City,A,90
+C1907,Al Noor Hospital Guadalajara,Hospital,MX,Guadalajara,C,90
+C1908,Horizon Hospital Mexico City,Hospital,MX,Mexico City,B,90
+C1909,Vital Medical Distribution Guadalajara,Distributor,MX,Guadalajara,C,60
+C1910,Sunrise Medical Distribution Mexico City,Distributor,MX,Mexico City,A,30
+C1911,Phoenix Pharmacy Monterrey,Retail Pharmacy,MX,Monterrey,C,60
+C1912,Emerald Hospital Mexico City,Hospital,MX,Mexico City,C,90
+C1913,Summit Hospital Mexico City,Hospital,MX,Mexico City,C,90
+C1914,Emerald Hospital Guadalajara,Hospital,MX,Guadalajara,A,60
+C1915,Northern Hospital Mexico City,Hospital,MX,Mexico City,B,90
+C1916,Green Cross Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,C,60
+C1917,Wellness Pharmacy Monterrey,Retail Pharmacy,MX,Monterrey,C,30
+C1918,Al Noor Medical Distribution Mexico City,Distributor,MX,Mexico City,B,30
+C1919,CarePlus Pharmacy Puebla,Retail Pharmacy,MX,Puebla,B,30
+C1920,Eastern Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,B,60
+C1921,Eastern Hospital Monterrey,Hospital,MX,Monterrey,C,60
+C1922,Harmony Hospital Guadalajara Branch 2,Hospital,MX,Guadalajara,C,60
+C1923,LifeLine Hospital Mexico City,Hospital,MX,Mexico City,C,30
+C1924,Golden Pharmacy Puebla,Retail Pharmacy,MX,Puebla,C,30
+C1925,Summit Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,C,60
+C1926,Cedar Hospital Monterrey,Hospital,MX,Monterrey,C,90
+C1927,Silver Medical Distribution Guadalajara,Distributor,MX,Guadalajara,C,30
+C1928,Al Noor Hospital Mexico City,Hospital,MX,Mexico City,C,30
+C1929,Royal Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,C,30
+C1930,Sapphire Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,C,60
+C1931,Evergreen Medical Distribution Mexico City,Distributor,MX,Mexico City,B,30
+C1932,Wellness Hospital Monterrey,Hospital,MX,Monterrey,B,60
+C1933,Silver Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,B,90
+C1934,Eastern Pharmacy Monterrey,Retail Pharmacy,MX,Monterrey,C,30
+C1935,Crescent Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,C,60
+C1936,Eastern Pharmacy Mexico City Branch 2,Retail Pharmacy,MX,Mexico City,C,60
+C1937,Silver Hospital Mexico City,Hospital,MX,Mexico City,C,60
+C1938,Zenith Hospital Mexico City,Hospital,MX,Mexico City,A,30
+C1939,Atlas Pharmacy Puebla,Retail Pharmacy,MX,Puebla,C,60
+C1940,Central Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,A,60
+C1941,Silver Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,C,30
+C1942,Crescent Medical Distribution Mexico City,Distributor,MX,Mexico City,B,30
+C1943,Green Cross Hospital Mexico City,Hospital,MX,Mexico City,B,60
+C1944,Emerald Pharmacy Monterrey,Retail Pharmacy,MX,Monterrey,C,30
+C1945,Northern Pharmacy Mexico City,Retail Pharmacy,MX,Mexico City,A,60
+C1946,Lotus Pharmacy Guadalajara,Retail Pharmacy,MX,Guadalajara,B,90
+C1947,Harmony Pharmacy Puebla,Retail Pharmacy,MX,Puebla,C,60
+C1948,Summit Hospital Monterrey,Hospital,MX,Monterrey,A,30
+C1949,Riverside Pharmacy Puebla,Retail Pharmacy,MX,Puebla,A,60
+C1950,HealthFirst Hospital Monterrey,Hospital,MX,Monterrey,C,30
+C1951,Ministry of Health Tender (CO),Government Tender,CO,Bogota,A,120
+C1952,LifeLine Hospital Medellin,Hospital,CO,Medellin,C,30
+C1953,MediCare Hospital Bogota,Hospital,CO,Bogota,A,90
+C1954,Harmony Pharmacy Medellin,Retail Pharmacy,CO,Medellin,A,30
+C1955,Crescent Pharmacy Cali,Retail Pharmacy,CO,Cali,B,30
+C1956,Prime Pharmacy Bogota,Retail Pharmacy,CO,Bogota,C,30
+C1957,Prime Pharmacy Bogota Branch 2,Retail Pharmacy,CO,Bogota,A,30
+C1958,Pioneer Pharmacy Bogota,Retail Pharmacy,CO,Bogota,C,30
+C1959,Nova Hospital Cali,Hospital,CO,Cali,A,30
+C1960,Al Noor Hospital Bogota,Hospital,CO,Bogota,A,90
+C1961,Star Hospital Medellin,Hospital,CO,Medellin,C,90
+C1962,MediCare Pharmacy Barranquilla,Retail Pharmacy,CO,Barranquilla,A,30
+C1963,Sapphire Hospital Bogota,Hospital,CO,Bogota,B,60
+C1964,Nova Hospital Bogota,Hospital,CO,Bogota,B,60
+C1965,CarePlus Pharmacy Cali,Retail Pharmacy,CO,Cali,A,60
+C1966,Orchid Pharmacy Medellin,Retail Pharmacy,CO,Medellin,C,90
+C1967,Delta Hospital Cali,Hospital,CO,Cali,B,60
+C1968,Vital Pharmacy Cali,Retail Pharmacy,CO,Cali,B,30
+C1969,Crescent Pharmacy Bogota,Retail Pharmacy,CO,Bogota,C,30
+C1970,Metro Hospital Bogota,Hospital,CO,Bogota,B,60
+C1971,Horizon Medical Distribution Cali,Distributor,CO,Cali,A,30
+C1972,Phoenix Hospital Barranquilla,Hospital,CO,Barranquilla,C,60
+C1973,Royal Pharmacy Bogota,Retail Pharmacy,CO,Bogota,C,30
+C1974,LifeLine Pharmacy Medellin,Retail Pharmacy,CO,Medellin,C,30
+C1975,Summit Pharmacy Cali,Retail Pharmacy,CO,Cali,C,30
+C1976,Emerald Medical Distribution Cali,Distributor,CO,Cali,C,30
+C1977,Nova Hospital Cali Branch 2,Hospital,CO,Cali,B,60
+C1978,Sapphire Pharmacy Bogota,Retail Pharmacy,CO,Bogota,A,30
+C1979,Nova Pharmacy Bogota,Retail Pharmacy,CO,Bogota,C,30
+C1980,LifeLine Medical Distribution Cali,Distributor,CO,Cali,C,90
+C1981,Al Noor Hospital Barranquilla,Hospital,CO,Barranquilla,C,30
+C1982,Eastern Hospital Barranquilla,Hospital,CO,Barranquilla,C,90
+C1983,MediCare Pharmacy Medellin,Retail Pharmacy,CO,Medellin,C,90
+C1984,Silver Hospital Barranquilla,Hospital,CO,Barranquilla,C,30
+C1985,Orchid Pharmacy Barranquilla,Retail Pharmacy,CO,Barranquilla,A,60
+C1986,Phoenix Pharmacy Medellin,Retail Pharmacy,CO,Medellin,C,60
+C1987,Al Noor Hospital Bogota Branch 2,Hospital,CO,Bogota,A,30
+C1988,Metro Hospital Medellin,Hospital,CO,Medellin,C,90
+C1989,Metro Hospital Medellin Branch 2,Hospital,CO,Medellin,B,30
+C1990,Crystal Hospital Bogota,Hospital,CO,Bogota,C,30
+C1991,Eastern Medical Distribution Barranquilla,Distributor,CO,Barranquilla,B,30
+C1992,Harmony Medical Distribution Medellin,Distributor,CO,Medellin,C,30
+C1993,Wellness Pharmacy Medellin,Retail Pharmacy,CO,Medellin,B,60
+C1994,Pioneer Medical Distribution Medellin,Distributor,CO,Medellin,A,60
+C1995,Crystal Pharmacy Bogota,Retail Pharmacy,CO,Bogota,C,30
+C1996,Riverside Hospital Medellin,Hospital,CO,Medellin,C,60
+C1997,LifeLine Pharmacy Bogota,Retail Pharmacy,CO,Bogota,A,60
+C1998,Royal Pharmacy Cali,Retail Pharmacy,CO,Cali,C,60
+C1999,Metro Pharmacy Cali,Retail Pharmacy,CO,Cali,A,30
+C2000,Nova Pharmacy Bogota Branch 2,Retail Pharmacy,CO,Bogota,A,30
